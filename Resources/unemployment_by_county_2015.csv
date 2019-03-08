@@ -1,0 +1,2769 @@
+State,State Abb,County,UID (county-state),Unemployment Rate,Population
+California,CA,Los Angeles,Los Angeles-CA,6.65,9818605
+Illinois,IL,Cook,Cook-IL,6.091666667,5194675
+Texas,TX,Harris,Harris-TX,4.625,4092459
+Arizona,AZ,Maricopa,Maricopa-AZ,5.166666667,3817117
+California,CA,San Diego,San Diego-CA,5.2,3095313
+California,CA,Orange,Orange-CA,4.483333333,3010232
+New York,NY,Kings,Kings-NY,5.866666667,2504700
+Texas,TX,Dallas,Dallas-TX,4.275,2368139
+New York,NY,Queens,Queens-NY,4.983333333,2230722
+California,CA,Riverside,Riverside-CA,6.716666667,2189641
+California,CA,San Bernardino,San Bernardino-CA,6.45,2035210
+Nevada,NV,Clark,Clark-NV,6.8,1951269
+Washington,WA,King,King-WA,4.441666667,1931249
+Michigan,MI,Wayne,Wayne-MI,1.358333333,1820584
+Texas,TX,Tarrant,Tarrant-TX,4.141666667,1809034
+California,CA,Santa Clara,Santa Clara-CA,4.15,1781642
+Texas,TX,Bexar,Bexar-TX,3.825,1714773
+New York,NY,New York,New York-NY,4.808333333,1585873
+Pennsylvania,PA,Philadelphia,Philadelphia-PA,6.866666667,1526006
+California,CA,Alameda,Alameda-CA,4.741666667,1510271
+Massachusetts,MA,Middlesex,Middlesex-MA,4.058333333,1503085
+New York,NY,Suffolk,Suffolk-NY,4.808333333,1493350
+California,CA,Sacramento,Sacramento-CA,6,1418788
+New York,NY,Bronx,Bronx-NY,7.741666667,1385108
+New York,NY,Nassau,Nassau-NY,4.316666667,1339532
+Ohio,OH,Cuyahoga,Cuyahoga-OH,5,1280122
+Pennsylvania,PA,Allegheny,Allegheny-PA,4.808333333,1223348
+Michigan,MI,Oakland,Oakland-MI,0.933333333,1202362
+Ohio,OH,Franklin,Franklin-OH,4.083333333,1163414
+Minnesota,MN,Hennepin,Hennepin-MN,3.283333333,1152425
+Virginia,VA,Fairfax,Fairfax-VA,3.566666667,1081726
+California,CA,Contra Costa,Contra Costa-CA,5,1049025
+Utah,UT,Salt Lake,Salt Lake-UT,3.333333333,1029655
+Texas,TX,Travis,Travis-TX,3.266666667,1024266
+Arizona,AZ,Pima,Pima-AZ,5.541666667,980263
+Maryland,MD,Montgomery,Montgomery-MD,3.975,971777
+Hawaii,HI,Honolulu,Honolulu-HI,3.391666667,953207
+New York,NY,Westchester,Westchester-NY,4.608333333,949113
+Wisconsin,WI,Milwaukee,Milwaukee-WI,5.85,947735
+California,CA,Fresno,Fresno-CA,10.18333333,930450
+Tennessee,TN,Shelby,Shelby-TN,6.633333333,927644
+North Carolina,NC,Mecklenburg,Mecklenburg-NC,5.358333333,919628
+New York,NY,Erie,Erie-NY,5.425,919040
+Illinois,IL,Dupage,Dupage-IL,4.658333333,916924
+Connecticut,CT,Fairfield,Fairfield-CT,5.266666667,916829
+New Jersey,NJ,Bergen,Bergen-NJ,4.558333333,905116
+Indiana,IN,Marion,Marion-IN,5,903393
+North Carolina,NC,Wake,Wake-NC,4.641666667,900993
+Connecticut,CT,Hartford,Hartford-CT,5.866666667,894014
+Maryland,MD,Prince George's,Prince George's-MD,5.316666667,863420
+Connecticut,CT,New Haven,New Haven-CT,6.133333333,862477
+Michigan,MI,Macomb,Macomb-MI,1.116666667,840978
+California,CA,Kern,Kern-CA,10.20833333,839631
+California,CA,Ventura,Ventura-CA,5.675,823318
+New Jersey,NJ,Middlesex,Middlesex-NJ,4.991666667,809858
+California,CA,San Francisco,San Francisco-CA,3.633333333,805235
+Maryland,MD,Baltimore,Baltimore-MD,5.45,805029
+Ohio,OH,Hamilton,Hamilton-OH,4.5,802374
+Texas,TX,El Paso,El Paso-TX,5.225,800647
+Pennsylvania,PA,Montgomery,Montgomery-PA,4.025,799874
+Massachusetts,MA,Worcester,Worcester-MA,5.3,798552
+Washington,WA,Pierce,Pierce-WA,6.35,795225
+New Jersey,NJ,Essex,Essex-NJ,6.725,783969
+Texas,TX,Collin,Collin-TX,3.65,782341
+Texas,TX,Hidalgo,Hidalgo-TX,7.933333333,774769
+New York,NY,Monroe,Monroe-NY,5.15,744344
+Massachusetts,MA,Essex,Essex-MA,5.166666667,743159
+Kentucky,KY,Jefferson,Jefferson-KY,4.883333333,741096
+Oregon,OR,Multnomah,Multnomah-OR,4.983333333,735334
+Massachusetts,MA,Suffolk,Suffolk-MA,4.625,722023
+Oklahoma,OK,Oklahoma,Oklahoma-OK,3.783333333,718633
+California,CA,San Mateo,San Mateo-CA,3.391666667,718451
+Washington,WA,Snohomish,Snohomish-WA,4.833333333,713335
+Illinois,IL,Lake,Lake-IL,5.458333333,703462
+California,CA,San Joaquin,San Joaquin-CA,8.891666667,685306
+Illinois,IL,Will,Will-IL,6.033333333,677560
+Missouri,MO,Jackson,Jackson-MO,5.85,674158
+Massachusetts,MA,Norfolk,Norfolk-MA,4.35,670850
+Texas,TX,Denton,Denton-TX,3.566666667,662614
+New Mexico,NM,Bernalillo,Bernalillo-NM,5.925,662564
+Alabama,AL,Jefferson,Jefferson-AL,5.791666667,658466
+New Jersey,NJ,Hudson,Hudson-NJ,5.266666667,634266
+New Jersey,NJ,Monmouth,Monmouth-NJ,4.975,630380
+Tennessee,TN,Davidson,Davidson-TN,4.458333333,626681
+Rhode Island,RI,Providence,Providence-RI,6.391666667,626667
+Pennsylvania,PA,Bucks,Bucks-PA,4.525,625249
+Colorado,CO,El Paso,El Paso-CO,4.616666667,622263
+Maryland,MD,Baltimore City,Baltimore City-MD,7.708333333,620961
+Oklahoma,OK,Tulsa,Tulsa-OK,4.008333333,603403
+Michigan,MI,Kent,Kent-MI,0.65,602622
+Colorado,CO,Denver,Denver-CO,3.708333333,600158
+Texas,TX,Fort Bend,Fort Bend-TX,4.3,585375
+New Jersey,NJ,Ocean,Ocean-NJ,6.025,576567
+Colorado,CO,Arapahoe,Arapahoe-CO,3.725,572003
+Pennsylvania,PA,Delaware,Delaware-PA,4.725,558979
+Massachusetts,MA,Bristol,Bristol-MA,6.291666667,548285
+Kansas,KS,Johnson,Johnson-KS,3.408333333,544179
+Ohio,OH,Summit,Summit-OH,4.941666667,541781
+Delaware,DE,New Castle,New Castle-DE,4.75,538479
+Maryland,MD,Anne Arundel,Anne Arundel-MD,4.508333333,537656
+New Jersey,NJ,Union,Union-NJ,5.85,536499
+Ohio,OH,Montgomery,Montgomery-OH,5.008333333,535153
+Colorado,CO,Jefferson,Jefferson-CO,3.516666667,534543
+Oregon,OR,Washington,Washington-OR,4.766666667,529710
+Pennsylvania,PA,Lancaster,Lancaster-PA,3.991666667,519445
+Nebraska,NE,Douglas,Douglas-NE,3.283333333,517110
+Utah,UT,Utah,Utah-UT,3.191666667,516564
+Illinois,IL,Kane,Kane-IL,5.816666667,515269
+California,CA,Stanislaus,Stanislaus-CA,9.508333333,514453
+New Jersey,NJ,Camden,Camden-NJ,6.291666667,513657
+Minnesota,MN,Ramsey,Ramsey-MN,3.516666667,508640
+New Jersey,NJ,Passaic,Passaic-NJ,6.866666667,501226
+Pennsylvania,PA,Chester,Chester-PA,3.691666667,498886
+Kansas,KS,Sedgwick,Sedgwick-KS,4.808333333,498365
+Indiana,IN,Lake,Lake-IN,6.783333333,496005
+Massachusetts,MA,Plymouth,Plymouth-MA,5.233333333,494919
+New Jersey,NJ,Morris,Morris-NJ,4.233333333,492276
+North Carolina,NC,Guilford,Guilford-NC,5.883333333,488406
+Wisconsin,WI,Dane,Dane-WI,3.191666667,488073
+California,CA,Sonoma,Sonoma-CA,4.491666667,483878
+Washington,WA,Spokane,Spokane-WA,6.4,471221
+New York,NY,Richmond,Richmond-NY,5.75,468730
+New York,NY,Onondaga,Onondaga-NY,4.966666667,467026
+Massachusetts,MA,Hampden,Hampden-MA,6.766666667,463490
+Texas,TX,Montgomery,Montgomery-TX,4.275,455746
+South Carolina,SC,Greenville,Greenville-SC,4.966666667,451225
+New Jersey,NJ,Burlington,Burlington-NJ,5.191666667,448734
+California,CA,Tulare,Tulare-CA,11.68333333,442179
+Ohio,OH,Lucas,Lucas-OH,5.316666667,441815
+Colorado,CO,Adams,Adams-CO,4.325,441603
+Pennsylvania,PA,York,York-PA,4.591666667,434972
+Tennessee,TN,Knox,Knox-TN,4.775,432226
+Iowa,IA,Polk,Polk-IA,3.583333333,430640
+Michigan,MI,Genesee,Genesee-MI,1.033333333,425790
+Washington,WA,Clark,Clark-WA,6.341666667,425363
+California,CA,Santa Barbara,Santa Barbara-CA,5.258333333,423895
+Texas,TX,Williamson,Williamson-TX,3.458333333,422679
+Nevada,NV,Washoe,Washoe-NV,6.258333333,421407
+California,CA,Monterey,Monterey-CA,8.158333333,415057
+California,CA,Solano,Solano-CA,6.125,413344
+Alabama,AL,Mobile,Mobile-AL,7,412992
+Pennsylvania,PA,Berks,Berks-PA,4.758333333,411442
+Texas,TX,Cameron,Cameron-TX,7.108333333,406220
+Virginia,VA,Prince William,Prince William-VA,4.108333333,402002
+New Hampshire,NH,Hillsborough,Hillsborough-NH,3.608333333,400721
+Minnesota,MN,Dakota,Dakota-MN,3.283333333,398552
+Idaho,ID,Ada,Ada-ID,3.591666667,392365
+Wisconsin,WI,Waukesha,Waukesha-WI,3.833333333,389891
+South Carolina,SC,Richland,Richland-SC,5.658333333,384504
+Arkansas,AR,Pulaski,Pulaski-AR,4.733333333,382748
+Oregon,OR,Clackamas,Clackamas-OR,5.216666667,375992
+Arizona,AZ,Pinal,Pinal-AZ,6.316666667,375770
+Ohio,OH,Stark,Stark-OH,5.275,375586
+New York,NY,Orange,Orange-NY,4.716666667,372813
+Ohio,OH,Butler,Butler-OH,4.558333333,368130
+New Jersey,NJ,Mercer,Mercer-NJ,4.825,366513
+Pennsylvania,PA,Westmoreland,Westmoreland-PA,5.216666667,365169
+Indiana,IN,Allen,Allen-IN,4.55,355329
+Oregon,OR,Lane,Lane-OR,5.958333333,351715
+North Carolina,NC,Forsyth,Forsyth-NC,5.5,350670
+South Carolina,SC,Charleston,Charleston-SC,4.833333333,350209
+Pennsylvania,PA,Lehigh,Lehigh-PA,5.2,349497
+California,CA,Placer,Placer-CA,5.041666667,348432
+Michigan,MI,Washtenaw,Washtenaw-MI,0.675,344791
+Texas,TX,Nueces,Nueces-TX,4.933333333,340223
+Tennessee,TN,Hamilton,Hamilton-TN,5.458333333,336463
+Alabama,AL,Madison,Madison-AL,5.475,334811
+Minnesota,MN,Anoka,Anoka-MN,3.608333333,330844
+New Jersey,NJ,Somerset,Somerset-NJ,4.425,323444
+Pennsylvania,PA,Luzerne,Luzerne-PA,6.291666667,320918
+North Carolina,NC,Cumberland,Cumberland-NC,7.366666667,319431
+Virginia,VA,Chesterfield,Chesterfield-VA,4.291666667,316236
+Oregon,OR,Marion,Marion-OR,6.1,315335
+Texas,TX,Brazoria,Brazoria-TX,4.541666667,313166
+Virginia,VA,Loudoun,Loudoun-VA,3.575,312311
+New York,NY,Rockland,Rockland-NY,4.591666667,311687
+Texas,TX,Bell,Bell-TX,4.683333333,310235
+Illinois,IL,McHenry,McHenry-IL,5.3,308760
+Virginia,VA,Henrico,Henrico-VA,4.275,306935
+Utah,UT,Davis,Davis-UT,3.325,306479
+New York,NY,Albany,Albany-NY,4.408333333,304204
+Ohio,OH,Lorain,Lorain-OH,5.375,301356
+Colorado,CO,Larimer,Larimer-CO,3.291666667,299630
+Pennsylvania,PA,Northampton,Northampton-PA,5.116666667,297735
+New York,NY,Dutchess,Dutchess-NY,4.583333333,297488
+Kentucky,KY,Fayette,Fayette-KY,3.916666667,295803
+Illinois,IL,Winnebago,Winnebago-IL,7.091666667,295266
+New Hampshire,NH,Rockingham,Rockingham-NH,3.641666667,295223
+Colorado,CO,Boulder,Boulder-CO,3.175,294567
+Texas,TX,Galveston,Galveston-TX,4.991666667,291309
+New Jersey,NJ,Gloucester,Gloucester-NJ,5.925,288288
+Maryland,MD,Howard,Howard-MD,3.916666667,287085
+Colorado,CO,Douglas,Douglas-CO,3.1,285465
+Nebraska,NE,Lancaster,Lancaster-NE,2.608333333,285407
+South Carolina,SC,Spartanburg,Spartanburg-SC,5.725,284307
+Maine,ME,Cumberland,Cumberland-ME,3.391666667,281674
+Michigan,MI,Ingham,Ingham-MI,0.825,280895
+Pennsylvania,PA,Erie,Erie-PA,5.333333333,280566
+Texas,TX,Lubbock,Lubbock-TX,3.416666667,278831
+Missouri,MO,Greene,Greene-MO,4.116666667,275174
+Indiana,IN,Hamilton,Hamilton-IN,3.35,274569
+New Jersey,NJ,Atlantic,Atlantic-NJ,9.366666667,274549
+Connecticut,CT,New London,New London-CT,5.816666667,274055
+California,CA,San Luis Obispo,San Luis Obispo-CA,4.625,269637
+South Carolina,SC,Horry,Horry-SC,7.066666667,269291
+Illinois,IL,Madison,Madison-IL,6.066666667,269282
+Pennsylvania,PA,Dauphin,Dauphin-PA,4.5,268100
+North Carolina,NC,Durham,Durham-NC,5.008333333,267587
+Michigan,MI,Ottawa,Ottawa-MI,0.625,263801
+Tennessee,TN,Rutherford,Rutherford-TN,4.583333333,262604
+South Carolina,SC,Lexington,Lexington-SC,4.841666667,262391
+California,CA,Santa Cruz,Santa Cruz-CA,7.508333333,262382
+California,CA,Merced,Merced-CA,11.35833333,255793
+Oklahoma,OK,Cleveland,Cleveland-OK,3.391666667,255755
+Colorado,CO,Weld,Weld-CO,3.825,252825
+California,CA,Marin,Marin-CA,3.541666667,252409
+Texas,TX,Jefferson,Jefferson-TX,6.983333333,252273
+Washington,WA,Thurston,Thurston-WA,5.908333333,252264
+Washington,WA,Kitsap,Kitsap-WA,5.491666667,251133
+Michigan,MI,Kalamazoo,Kalamazoo-MI,0.758333333,250331
+Texas,TX,Webb,Webb-TX,4.741666667,250304
+Wisconsin,WI,Brown,Brown-WI,4.1,248007
+Mississippi,MS,Hinds,Hinds-MS,6.066666667,245285
+Maryland,MD,Harford,Harford-MD,5.033333333,244826
+Washington,WA,Yakima,Yakima-WA,8.033333333,243231
+Ohio,OH,Mahoning,Mahoning-OH,6.108333333,238823
+North Carolina,NC,Buncombe,Buncombe-NC,4.358333333,238318
+Minnesota,MN,Washington,Washington-MN,3.166666667,238136
+Pennsylvania,PA,Cumberland,Cumberland-PA,3.875,235406
+Texas,TX,McLennan,McLennan-TX,4.1,234906
+New York,NY,Oneida,Oneida-NY,5.375,234878
+Maryland,MD,Frederick,Frederick-MD,4.525,233385
+Utah,UT,Weber,Weber-UT,4.008333333,231236
+Ohio,OH,Lake,Lake-OH,4.35,230041
+Alabama,AL,Montgomery,Montgomery-AL,6.158333333,229363
+South Carolina,SC,York,York-SC,5.475,226073
+Missouri,MO,Clay,Clay-MO,4.516666667,221939
+Arkansas,AR,Benton,Benton-AR,3.875,221339
+California,CA,Butte,Butte-CA,7.2,220000
+New York,NY,Saratoga,Saratoga-NY,4.225,219607
+Missouri,MO,Jefferson,Jefferson-MO,4.866666667,218733
+New York,NY,Niagara,Niagara-NY,6.241666667,216469
+Massachusetts,MA,Barnstable,Barnstable-MA,6.366666667,215888
+Pennsylvania,PA,Lackawanna,Lackawanna-PA,5.675,214437
+Ohio,OH,Warren,Warren-OH,4.15,212693
+Iowa,IA,Linn,Linn-IA,3.708333333,211226
+Arizona,AZ,Yavapai,Yavapai-AZ,5.575,211033
+Ohio,OH,Trumbull,Trumbull-OH,6.45,210312
+Texas,TX,Smith,Smith-TX,4.525,209714
+New Mexico,NM,Dona Ana,Dona Ana-NM,7.366666667,209233
+Pennsylvania,PA,Washington,Washington-PA,5.391666667,207820
+Virginia,VA,Arlington,Arlington-VA,2.816666667,207627
+North Carolina,NC,Gaston,Gaston-NC,5.983333333,206086
+Virginia,VA,Richmond City,Richmond City-VA,5.2,204214
+Oregon,OR,Jackson,Jackson-OR,6.916666667,203206
+Arkansas,AR,Washington,Washington-AR,3.625,203065
+North Carolina,NC,New Hanover,New Hanover-NC,5.341666667,202667
+North Carolina,NC,Union,Union-NC,4.816666667,201292
+Washington,WA,Whatcom,Whatcom-WA,5.941666667,201140
+Illinois,IL,Champaign,Champaign-IL,5.225,201081
+California,CA,Yolo,Yolo-CA,6.425,200849
+New York,NY,Broome,Broome-NY,6.066666667,200600
+Arizona,AZ,Mohave,Mohave-AZ,8.025,200186
+Michigan,MI,Saginaw,Saginaw-MI,0.95,200169
+Indiana,IN,Elkhart,Elkhart-IN,3.841666667,197559
+Illinois,IL,Sangamon,Sangamon-IL,5.275,197465
+Ohio,OH,Clermont,Clermont-OH,4.483333333,197363
+Delaware,DE,Sussex,Sussex-DE,4.983333333,197145
+Maine,ME,York,York-ME,3.933333333,197131
+Arizona,AZ,Yuma,Yuma-AZ,21.725,195751
+Wisconsin,WI,Racine,Racine-WI,5.666666667,195408
+Alabama,AL,Shelby,Shelby-AL,4.225,195085
+Texas,TX,Brazos,Brazos-TX,3.391666667,194851
+Alabama,AL,Tuscaloosa,Tuscaloosa-AL,5.433333333,194656
+West Virginia,WV,Kanawha,Kanawha-WV,5.966666667,193063
+Connecticut,CT,Litchfield,Litchfield-CT,5.033333333,189927
+Idaho,ID,Canyon,Canyon-ID,4.933333333,188923
+South Carolina,SC,Anderson,Anderson-SC,5.383333333,187126
+Mississippi,MS,Harrison,Harrison-MS,6.05,187105
+Illinois,IL,Peoria,Peoria-IL,6.916666667,186494
+Hawaii,HI,Hawaii,Hawaii-HI,4.466666667,185079
+Pennsylvania,PA,Butler,Butler-PA,4.575,183862
+Tennessee,TN,Williamson,Williamson-TN,4.066666667,183182
+New York,NY,Ulster,Ulster-NY,4.916666667,182493
+Alabama,AL,Baldwin,Baldwin-AL,5.491666667,182265
+California,CA,El Dorado,El Dorado-CA,5.666666667,181058
+Michigan,MI,Livingston,Livingston-MI,0.875,180967
+Indiana,IN,Vanderburgh,Vanderburgh-IN,4.25,179703
+North Carolina,NC,Cabarrus,Cabarrus-NC,5.175,178011
+Kansas,KS,Shawnee,Shawnee-KS,4.3,177934
+South Carolina,SC,Berkeley,Berkeley-SC,5.483333333,177843
+North Carolina,NC,Onslow,Onslow-NC,6.05,177772
+California,CA,Shasta,Shasta-CA,7.808333333,177223
+Wisconsin,WI,Outagamie,Outagamie-WI,4.016666667,176695
+Washington,WA,Benton,Benton-WA,6.583333333,175177
+California,CA,Imperial,Imperial-CA,24.01666667,174528
+Ohio,OH,Delaware,Delaware-OH,3.483333333,174214
+Indiana,IN,Tippecanoe,Tippecanoe-IN,4.183333333,172780
+Ohio,OH,Medina,Medina-OH,3.975,172332
+Tennessee,TN,Montgomery,Montgomery-TN,5.95,172331
+Michigan,MI,Muskegon,Muskegon-MI,0.983333333,172188
+Pennsylvania,PA,Beaver,Beaver-PA,5.866666667,170539
+Pennsylvania,PA,Monroe,Monroe-PA,6.241666667,169842
+Illinois,IL,McLean,McLean-IL,4.866666667,169572
+South Dakota,SD,Minnehaha,Minnehaha-SD,2.75,169468
+North Carolina,NC,Johnston,Johnston-NC,5.15,168878
+North Carolina,NC,Pitt,Pitt-NC,6.091666667,168148
+Maryland,MD,Carroll,Carroll-MD,4.3,167134
+Wisconsin,WI,Winnebago,Winnebago-WI,4.3,166994
+Ohio,OH,Licking,Licking-OH,4.383333333,166492
+Wisconsin,WI,Kenosha,Kenosha-WI,5.15,166426
+Rhode Island,RI,Kent,Kent-RI,5.508333333,166158
+Connecticut,CT,Middlesex,Middlesex-CT,4.791666667,165676
+Iowa,IA,Scott,Scott-IA,4.608333333,165224
+Indiana,IN,Porter,Porter-IN,5.4,164343
+North Carolina,NC,Davidson,Davidson-NC,5.541666667,162878
+Missouri,MO,Boone,Boone-MO,3.491666667,162642
+Delaware,DE,Kent,Kent-DE,5.4,162310
+South Carolina,SC,Beaufort,Beaufort-SC,5.441666667,162233
+Ohio,OH,Greene,Greene-OH,4.375,161573
+Ohio,OH,Portage,Portage-OH,4.858333333,161419
+Mississippi,MS,Desoto,Desoto-MS,4.891666667,161252
+Tennessee,TN,Sumner,Sumner-TN,4.691666667,160645
+Wisconsin,WI,Rock,Rock-WI,5.225,160331
+Michigan,MI,Jackson,Jackson-MI,0.908333333,160248
+South Carolina,SC,Aiken,Aiken-SC,5.916666667,160099
+Kentucky,KY,Kenton,Kenton-KY,4.541666667,159720
+North Carolina,NC,Iredell,Iredell-NC,5.466666667,159437
+New York,NY,Rensselaer,Rensselaer-NY,4.725,159429
+Colorado,CO,Pueblo,Pueblo-CO,5.65,159063
+Nebraska,NE,Sarpy,Sarpy-NE,2.783333333,158840
+Massachusetts,MA,Hampshire,Hampshire-MA,4.416666667,158080
+Oregon,OR,Deschutes,Deschutes-OR,5.966666667,157733
+Kansas,KS,Wyandotte,Wyandotte-KS,6.091666667,157505
+Texas,TX,Hays,Hays-TX,3.458333333,157107
+New Jersey,NJ,Cumberland,Cumberland-NJ,8.641666667,156898
+Tennessee,TN,Sullivan,Sullivan-TN,5.95,156823
+Michigan,MI,Berrien,Berrien-MI,0.858333333,156813
+Vermont,VT,Chittenden,Chittenden-VT,2.708333333,156545
+Hawaii,HI,Maui,Maui-HI,3.766666667,154834
+New York,NY,Schenectady,Schenectady-NY,4.758333333,154727
+North Carolina,NC,Catawba,Catawba-NC,5.558333333,154358
+Pennsylvania,PA,Centre,Centre-PA,3.825,153990
+Maine,ME,Penobscot,Penobscot-ME,4.766666667,153923
+California,CA,Kings,Kings-CA,10.5,152982
+Connecticut,CT,Tolland,Tolland-CT,4.8,152691
+Michigan,MI,Monroe,Monroe-MI,0.783333333,152021
+North Carolina,NC,Alamance,Alamance-NC,5.333333333,151131
+Texas,TX,Johnson,Johnson-TX,4.375,150934
+California,CA,Madera,Madera-CA,10.46666667,150865
+Minnesota,MN,Stearns,Stearns-MN,3.6,150642
+North Dakota,ND,Cass,Cass-ND,2.216666667,149778
+Pennsylvania,PA,Franklin,Franklin-PA,4.775,149618
+Texas,TX,Ellis,Ellis-TX,3.95,149610
+New Jersey,NJ,Sussex,Sussex-NJ,5.258333333,149265
+Pennsylvania,PA,Schuylkill,Schuylkill-PA,6.1,148289
+Montana,MT,Yellowstone,Yellowstone-MT,3.258333333,147972
+Illinois,IL,Rock Island,Rock Island-IL,6.475,147546
+Maryland,MD,Washington,Washington-MD,5.791666667,147430
+Colorado,CO,Mesa,Mesa-CO,5.558333333,146723
+Maryland,MD,Charles,Charles-MD,5.075,146551
+New Hampshire,NH,Merrimack,Merrimack-NH,3.116666667,146445
+Ohio,OH,Fairfield,Fairfield-OH,4.316666667,146156
+Indiana,IN,Hendricks,Hendricks-IN,3.8,145448
+Minnesota,MN,Olmsted,Olmsted-MN,2.966666667,144248
+New Mexico,NM,Santa Fe,Santa Fe-NM,5.433333333,144170
+Pennsylvania,PA,Cambria,Cambria-PA,6.383333333,143679
+North Carolina,NC,Randolph,Randolph-NC,5.658333333,141752
+Mississippi,MS,Rankin,Rankin-MS,4.191666667,141617
+Alabama,AL,Lee,Lee-AL,5.108333333,140247
+Mississippi,MS,Jackson,Jackson-MS,7.166666667,139668
+Indiana,IN,Johnson,Johnson-IN,4.033333333,139654
+Idaho,ID,Kootenai,Kootenai-ID,4.966666667,138494
+North Carolina,NC,Rowan,Rowan-NC,6.025,138428
+Ohio,OH,Clark,Clark-OH,5,138333
+Utah,UT,Washington,Washington-UT,3.966666667,138115
+Indiana,IN,Monroe,Monroe-IN,4.866666667,137974
+Texas,TX,Ector,Ector-TX,4.616666667,137130
+South Carolina,SC,Florence,Florence-SC,6.583333333,136885
+Texas,TX,Midland,Midland-TX,3.475,136872
+Pennsylvania,PA,Fayette,Fayette-PA,7.258333333,136606
+South Carolina,SC,Dorchester,Dorchester-SC,5.441666667,136555
+California,CA,Napa,Napa-CA,4.616666667,136484
+Michigan,MI,Calhoun,Calhoun-MI,0.875,136146
+Illinois,IL,Tazewell,Tazewell-IL,6.308333333,135394
+New York,NY,Chautauqua,Chautauqua-NY,6.141666667,134905
+California,CA,Humboldt,Humboldt-CA,5.641666667,134623
+Arizona,AZ,Coconino,Coconino-AZ,6.558333333,134421
+North Carolina,NC,Robeson,Robeson-NC,8.475,134168
+Wisconsin,WI,Marathon,Marathon-WI,4.058333333,134063
+North Carolina,NC,Orange,Orange-NC,4.6,133801
+Pennsylvania,PA,Lebanon,Lebanon-PA,4.391666667,133568
+Wisconsin,WI,Washington,Washington-WI,3.783333333,131887
+Indiana,IN,Madison,Madison-IN,5.616666667,131636
+New Mexico,NM,Sandoval,Sandoval-NM,6.716666667,131561
+Texas,TX,Guadalupe,Guadalupe-TX,3.55,131533
+Texas,TX,Taylor,Taylor-TX,3.691666667,131506
+Texas,TX,Wichita,Wichita-TX,4.316666667,131500
+Arizona,AZ,Cochise,Cochise-AZ,7.416666667,131346
+Massachusetts,MA,Berkshire,Berkshire-MA,5.566666667,131219
+Iowa,IA,Black Hawk,Black Hawk-IA,4.5,131090
+Iowa,IA,Johnson,Johnson-IA,2.6,130882
+New Mexico,NM,San Juan,San Juan-NM,7.041666667,130044
+Minnesota,MN,Scott,Scott-MN,3.133333333,129928
+Virginia,VA,Stafford,Stafford-VA,4.475,128961
+New Jersey,NJ,Hunterdon,Hunterdon-NJ,4.1,128349
+Pennsylvania,PA,Blair,Blair-PA,5,127089
+Rhode Island,RI,Washington,Washington-RI,5.475,126979
+Arkansas,AR,Sebastian,Sebastian-AR,5.008333333,125744
+Ohio,OH,Wood,Wood-OH,4.291666667,125488
+Minnesota,MN,Wright,Wright-MN,3.675,124700
+Ohio,OH,Richland,Richland-OH,5.558333333,124475
+Oklahoma,OK,Comanche,Comanche-OK,4.2,124098
+New Hampshire,NH,Strafford,Strafford-NH,3.125,123143
+Tennessee,TN,Blount,Blount-TN,5.291666667,123010
+Tennessee,TN,Washington,Washington-TN,5.733333333,122979
+North Carolina,NC,Wayne,Wayne-NC,6.1,122623
+Virginia,VA,Spotsylvania,Spotsylvania-VA,4.608333333,122397
+Maine,ME,Kennebec,Kennebec-ME,4.225,122151
+New York,NY,Oswego,Oswego-NY,7.216666667,122109
+Texas,TX,Gregg,Gregg-TX,4.966666667,121730
+Texas,TX,Potter,Potter-TX,3.366666667,121073
+Texas,TX,Grayson,Grayson-TX,4,120877
+Texas,TX,Randall,Randall-TX,2.933333333,120725
+Alabama,AL,Morgan,Morgan-AL,5.825,119490
+South Carolina,SC,Pickens,Pickens-SC,5.758333333,119224
+Kentucky,KY,Boone,Boone-KY,4.183333333,118811
+Alabama,AL,Calhoun,Calhoun-AL,6.975,118572
+Connecticut,CT,Windham,Windham-CT,6.208333333,118428
+Indiana,IN,Delaware,Delaware-IN,5.675,117671
+Missouri,MO,Jasper,Jasper-MO,4.25,117404
+Texas,TX,Parker,Parker-TX,4.166666667,116927
+Washington,WA,Skagit,Skagit-WA,6.666666667,116901
+Oregon,OR,Linn,Linn-OR,6.891666667,116672
+Pennsylvania,PA,Mercer,Mercer-PA,5.308333333,116638
+New York,NY,Jefferson,Jefferson-NY,6.766666667,116229
+Pennsylvania,PA,Lycoming,Lycoming-PA,5.866666667,116111
+Oklahoma,OK,Canadian,Canadian-OK,3.466666667,115541
+Wisconsin,WI,Sheboygan,Sheboygan-WI,3.816666667,115507
+Illinois,IL,Kendall,Kendall-IL,5.125,114736
+North Carolina,NC,Harnett,Harnett-NC,6.733333333,114678
+Wisconsin,WI,La Crosse,La Crosse-WI,3.908333333,114638
+Ohio,OH,Wayne,Wayne-OH,3.933333333,114520
+Tennessee,TN,Wilson,Wilson-TN,4.675,113993
+Illinois,IL,La Salle,La Salle-IL,7.016666667,113924
+Kentucky,KY,Warren,Warren-KY,4.591666667,113792
+Illinois,IL,Kankakee,Kankakee-IL,6.825,113449
+Arkansas,AR,Faulkner,Faulkner-AR,4.85,113237
+Utah,UT,Cache,Cache-UT,2.983333333,112656
+Indiana,IN,LaPorte,LaPorte-IN,6.241666667,111467
+Michigan,MI,Allegan,Allegan-MI,0.666666667,111408
+Kansas,KS,Douglas,Douglas-KS,3.691666667,110826
+Illinois,IL,Macon,Macon-IL,7.1,110768
+Indiana,IN,Clark,Clark-IN,4.466666667,110232
+Texas,TX,Tom Green,Tom Green-TX,4.133333333,110224
+Montana,MT,Missoula,Missoula-MT,3.858333333,109299
+New Jersey,NJ,Warren,Warren-NJ,5.225,108692
+Texas,TX,Comal,Comal-TX,3.725,108472
+New York,NY,Ontario,Ontario-NY,4.8,107931
+Indiana,IN,Vigo,Vigo-IN,6.125,107848
+Ohio,OH,Columbiana,Columbiana-OH,5.891666667,107841
+Michigan,MI,Bay,Bay-MI,0.925,107771
+Michigan,MI,Eaton,Eaton-MI,0.75,107759
+Maine,ME,Androscoggin,Androscoggin-ME,4.133333333,107702
+Oregon,OR,Douglas,Douglas-OR,7.658333333,107667
+South Carolina,SC,Sumter,Sumter-SC,6.85,107456
+Arizona,AZ,Navajo,Navajo-AZ,9.691666667,107449
+North Carolina,NC,Brunswick,Brunswick-NC,7.208333333,107431
+Arkansas,AR,Saline,Saline-AR,4.25,107118
+North Carolina,NC,Henderson,Henderson-NC,4.733333333,106740
+Ohio,OH,Allen,Allen-OH,4.833333333,106331
+Kentucky,KY,Hardin,Hardin-KY,5.1,105543
+Illinois,IL,Dekalb,Dekalb-IL,5.625,105160
+Alabama,AL,Etowah,Etowah-AL,6.125,104430
+Idaho,ID,Bonneville,Bonneville-ID,3.45,104234
+West Virginia,WV,Berkeley,Berkeley-WV,5,104169
+North Carolina,NC,Craven,Craven-NC,6.116666667,103505
+Texas,TX,Kaufman,Kaufman-TX,4.083333333,103350
+Ohio,OH,Miami,Miami-OH,4.408333333,102506
+Washington,WA,Cowlitz,Cowlitz-WA,7.583333333,102410
+Wisconsin,WI,Walworth,Walworth-WI,4.775,102228
+Iowa,IA,Woodbury,Woodbury-IA,3.716666667,102172
+Wisconsin,WI,Fond du Lac,Fond du Lac-WI,4.116666667,101633
+New York,NY,Tompkins,Tompkins-NY,4.075,101564
+Alabama,AL,Houston,Houston-AL,6.183333333,101547
+Ohio,OH,Ashtabula,Ashtabula-OH,5.983333333,101497
+Missouri,MO,Franklin,Franklin-MO,5.041666667,101492
+Pennsylvania,PA,Adams,Adams-PA,4.058333333,101407
+Maryland,MD,Cecil,Cecil-MD,6.016666667,101108
+South Dakota,SD,Pennington,Pennington-SD,3.233333333,100948
+Michigan,MI,Lenawee,Lenawee-MI,0.85,99892
+Virginia,VA,Hanover,Hanover-VA,3.858333333,99863
+New York,NY,Putnam,Putnam-NY,4.341666667,99710
+Missouri,MO,Cass,Cass-MO,4.783333333,99478
+Oregon,OR,Yamhill,Yamhill-OR,5.341666667,99193
+New York,NY,Steuben,Steuben-NY,6.391666667,98990
+Virginia,VA,Albemarle,Albemarle-VA,3.85,98970
+Tennessee,TN,Bradley,Bradley-TN,5.375,98963
+California,CA,Nevada,Nevada-CA,5.458333333,98764
+Wisconsin,WI,Eau Claire,Eau Claire-WI,3.85,98736
+Maryland,MD,Wicomico,Wicomico-MD,6.866666667,98733
+Tennessee,TN,Madison,Madison-TN,6.058333333,98294
+North Carolina,NC,Cleveland,Cleveland-NC,6.45,98078
+New Jersey,NJ,Cape May,Cape May-NJ,11.275,97265
+Virginia,VA,Roanoke City,Roanoke City-VA,4.858333333,97032
+Kentucky,KY,Daviess,Daviess-KY,4.708333333,96656
+Arkansas,AR,Craighead,Craighead-AR,4.583333333,96443
+West Virginia,WV,Cabell,Cabell-WV,5.366666667,96319
+West Virginia,WV,Monongalia,Monongalia-WV,4.708333333,96189
+Arkansas,AR,Garland,Garland-AR,5.666666667,96024
+North Carolina,NC,Nash,Nash-NC,7.341666667,95840
+Mississippi,MS,Madison,Madison-MS,4.65,95203
+California,CA,Sutter,Sutter-CA,10.78333333,94737
+Pennsylvania,PA,Northumberland,Northumberland-PA,5.916666667,94528
+Virginia,VA,Montgomery,Montgomery-VA,4.316666667,94392
+New York,NY,Wayne,Wayne-NY,5.425,93772
+Iowa,IA,Dubuque,Dubuque-IA,3.575,93653
+North Carolina,NC,Rockingham,Rockingham-NC,6.566666667,93643
+Ohio,OH,Geauga,Geauga-OH,4.016666667,93389
+Iowa,IA,Pottawattamie,Pottawattamie-IA,3.566666667,93158
+Alabama,AL,Marshall,Marshall-AL,5.766666667,93019
+Alabama,AL,Lauderdale,Lauderdale-AL,6.933333333,92709
+Ohio,OH,Tuscarawas,Tuscarawas-OH,5.358333333,92582
+Texas,TX,Bowie,Bowie-TX,4.85,92565
+South Carolina,SC,Orangeburg,Orangeburg-SC,10.74166667,92501
+Virginia,VA,Roanoke,Roanoke-VA,3.908333333,92376
+Wyoming,WY,Laramie,Laramie-WY,3.866666667,91738
+Pennsylvania,PA,Lawrence,Lawrence-PA,6.125,91108
+Minnesota,MN,Carver,Carver-MN,3.166666667,91042
+Montana,MT,Flathead,Flathead-MT,5.683333333,90928
+North Carolina,NC,Burke,Burke-NC,5.733333333,90912
+Kentucky,KY,Campbell,Campbell-KY,4.233333333,90336
+Tennessee,TN,Sevier,Sevier-TN,6.191666667,89889
+Iowa,IA,Story,Story-IA,2.408333333,89542
+Montana,MT,Gallatin,Gallatin-MT,2.958333333,89513
+Missouri,MO,Platte,Platte-MO,4.191666667,89322
+Missouri,MO,Buchanan,Buchanan-MO,4.608333333,89201
+Washington,WA,Grant,Grant-WA,7.166666667,89120
+New Hampshire,NH,Grafton,Grafton-NH,2.883333333,89118
+Pennsylvania,PA,Indiana,Indiana-PA,6.116666667,88880
+New York,NY,Chemung,Chemung-NY,5.9,88830
+Pennsylvania,PA,Crawford,Crawford-PA,5.041666667,88765
+Wisconsin,WI,Dodge,Dodge-WI,4.483333333,88759
+Maryland,MD,Calvert,Calvert-MD,4.658333333,88737
+Minnesota,MN,Sherburne,Sherburne-MN,4,88499
+Michigan,MI,Lapeer,Lapeer-MI,1.275,88319
+North Carolina,NC,Moore,Moore-NC,5.816666667,88247
+California,CA,Mendocino,Mendocino-CA,5.85,87841
+Michigan,MI,Grand Traverse,Grand Traverse-MI,0.675,86986
+West Virginia,WV,Wood,Wood-WV,6.225,86956
+Oklahoma,OK,Rogers,Rogers-OK,4.233333333,86905
+Texas,TX,Victoria,Victoria-TX,4.141666667,86793
+Texas,TX,Angelina,Angelina-TX,5.616666667,86771
+Wisconsin,WI,Ozaukee,Ozaukee-WI,3.725,86395
+Texas,TX,Hunt,Hunt-TX,4.691666667,86129
+Ohio,OH,Muskingum,Muskingum-OH,6.15,86074
+Oregon,OR,Benton,Benton-OR,4.3,85579
+Wisconsin,WI,Jefferson,Jefferson-WI,4.283333333,83686
+Michigan,MI,Midland,Midland-MI,0.791666667,83629
+North Carolina,NC,Caldwell,Caldwell-NC,6.3,83029
+Kentucky,KY,Madison,Madison-KY,4.425,82916
+Mississippi,MS,Lee,Lee-MS,5.616666667,82910
+Rhode Island,RI,Newport,Newport-RI,5.175,82888
+Idaho,ID,Bannock,Bannock-ID,3.966666667,82839
+Alabama,AL,Limestone,Limestone-AL,5.466666667,82782
+Indiana,IN,Howard,Howard-IN,5.008333333,82752
+Oregon,OR,Josephine,Josephine-OR,7.858333333,82713
+Alabama,AL,Talladega,Talladega-AL,6.566666667,82291
+New York,NY,Clinton,Clinton-NY,5.941666667,82128
+Texas,TX,Orange,Orange-TX,6.533333333,81837
+Pennsylvania,PA,Clearfield,Clearfield-PA,6.441666667,81642
+Illinois,IL,Vermilion,Vermilion-IL,7.133333333,81625
+Wisconsin,WI,Manitowoc,Manitowoc-WI,5.083333333,81442
+Montana,MT,Cascade,Cascade-MT,3.983333333,81327
+North Dakota,ND,Burleigh,Burleigh-ND,2.333333333,81308
+North Carolina,NC,Wilson,Wilson-NC,9.558333333,81234
+Tennessee,TN,Maury,Maury-TN,5.258333333,80956
+Alabama,AL,Cullman,Cullman-AL,5.275,80406
+New York,NY,Cattaraugus,Cattaraugus-NY,6.191666667,80317
+Mississippi,MS,Lauderdale,Lauderdale-MS,6.708333333,80261
+New York,NY,Cayuga,Cayuga-NY,5.408333333,80026
+Ohio,OH,Scioto,Scioto-OH,7.658333333,79499
+Alabama,AL,Elmore,Elmore-AL,5.108333333,79303
+West Virginia,WV,Raleigh,Raleigh-WV,7.333333333,78859
+Texas,TX,Henderson,Henderson-TX,4.916666667,78532
+Washington,WA,Island,Island-WA,6.025,78506
+Texas,TX,Rockwall,Rockwall-TX,3.766666667,78337
+Virginia,VA,Frederick,Frederick-VA,3.95,78305
+North Carolina,NC,Lincoln,Lincoln-NC,5.416666667,78265
+Washington,WA,Franklin,Franklin-WA,7.533333333,78163
+Ohio,OH,Ross,Ross-OH,5.341666667,78064
+Pennsylvania,PA,Somerset,Somerset-PA,6.641666667,77742
+New York,NY,Sullivan,Sullivan-NY,5.55,77547
+Arkansas,AR,Jefferson,Jefferson-AR,7.25,77435
+Missouri,MO,Christian,Christian-MO,4.183333333,77422
+Indiana,IN,Kosciusko,Kosciusko-IN,4.041666667,77358
+Oklahoma,OK,Payne,Payne-OK,3.408333333,77350
+Idaho,ID,Twin Falls,Twin Falls-ID,3.616666667,77230
+New Hampshire,NH,Cheshire,Cheshire-NH,3.258333333,77117
+Ohio,OH,Erie,Erie-OH,5.683333333,77079
+Arkansas,AR,White,White-AR,6.45,77076
+Indiana,IN,Bartholomew,Bartholomew-IN,3.575,76794
+South Carolina,SC,Lancaster,Lancaster-SC,6.316666667,76652
+New Mexico,NM,Valencia,Valencia-NM,7.475,76569
+Virginia,VA,Rockingham,Rockingham-VA,4.133333333,76314
+Michigan,MI,Van Buren,Van Buren-MI,0.95,76258
+Kansas,KS,Leavenworth,Leavenworth-KS,4.541666667,76227
+Missouri,MO,Cole,Cole-MO,3.983333333,75990
+Oregon,OR,Umatilla,Umatilla-OR,6.525,75889
+Missouri,MO,Cape Girardeau,Cape Girardeau-MO,4.316666667,75674
+Texas,TX,Liberty,Liberty-TX,6.866666667,75643
+Washington,WA,Lewis,Lewis-WA,8.325,75455
+Wyoming,WY,Natrona,Natrona-WY,4.8,75450
+Oregon,OR,Polk,Polk-OR,5.725,75403
+Texas,TX,Coryell,Coryell-TX,4.783333333,75388
+Michigan,MI,Clinton,Clinton-MI,0.658333333,75382
+Tennessee,TN,Anderson,Anderson-TN,5.958333333,75129
+Maryland,MD,Allegany,Allegany-MD,7.041666667,75087
+Mississippi,MS,Forrest,Forrest-MS,6.375,74934
+Ohio,OH,Hancock,Hancock-OH,3.65,74782
+Wisconsin,WI,Wood,Wood-WI,5.533333333,74749
+Indiana,IN,Floyd,Floyd-IN,4.25,74578
+Kentucky,KY,Bullitt,Bullitt-KY,4.666666667,74319
+South Carolina,SC,Oconee,Oconee-SC,5.8,74273
+Texas,TX,Bastrop,Bastrop-TX,3.866666667,74171
+Kentucky,KY,Christian,Christian-KY,6.416666667,73955
+Virginia,VA,Augusta,Augusta-VA,4.1,73750
+North Carolina,NC,Surry,Surry-NC,5.466666667,73673
+New York,NY,Madison,Madison-NY,5.691666667,73442
+Oklahoma,OK,Wagoner,Wagoner-OK,4.033333333,73085
+Washington,WA,Grays Harbor,Grays Harbor-WA,8.933333333,72797
+Washington,WA,Chelan,Chelan-WA,5.533333333,72453
+Tennessee,TN,Putnam,Putnam-TN,5.983333333,72321
+California,CA,Yuba,Yuba-CA,9.25,72155
+Maine,ME,Aroostook,Aroostook-ME,5.975,71870
+Arizona,AZ,Apache,Apache-AZ,13.4,71518
+New Mexico,NM,McKinley,McKinley-NM,9.675,71492
+Washington,WA,Clallam,Clallam-WA,7.991666667,71404
+Massachusetts,MA,Franklin,Franklin-MA,4.525,71372
+Kansas,KS,Riley,Riley-KS,3.291666667,71115
+Alabama,AL,Dekalb,Dekalb-AL,6.025,71109
+Oklahoma,OK,Muskogee,Muskogee-OK,4.966666667,70990
+Michigan,MI,Shiawassee,Shiawassee-MI,0.933333333,70648
+Ohio,OH,Belmont,Belmont-OH,6.341666667,70400
+Michigan,MI,Isabella,Isabella-MI,0.833333333,70311
+Indiana,IN,Grant,Grant-IN,5.45,70061
+Wisconsin,WI,Portage,Portage-WI,4.633333333,70019
+Indiana,IN,Hancock,Hancock-IN,4.2,70002
+Oklahoma,OK,Creek,Creek-OK,4.766666667,69967
+Ohio,OH,Jefferson,Jefferson-OH,7.408333333,69709
+South Carolina,SC,Greenwood,Greenwood-SC,6.308333333,69661
+Oklahoma,OK,Pottawatomie,Pottawatomie-OK,4.35,69442
+North Carolina,NC,Wilkes,Wilkes-NC,5.733333333,69340
+West Virginia,WV,Harrison,Harrison-WV,6.341666667,69099
+Pennsylvania,PA,Armstrong,Armstrong-PA,6.383333333,68941
+Indiana,IN,Wayne,Wayne-IN,5.3,68917
+Indiana,IN,Morgan,Morgan-IN,4.658333333,68894
+Tennessee,TN,Greene,Greene-TN,6.616666667,68831
+South Carolina,SC,Darlington,Darlington-SC,7.391666667,68681
+Virginia,VA,Bedford,Bedford-VA,4.441666667,68676
+Arkansas,AR,Lonoke,Lonoke-AR,4.35,68356
+Texas,TX,Walker,Walker-TX,5.108333333,67861
+North Carolina,NC,Rutherford,Rutherford-NC,7.841666667,67810
+Mississippi,MS,Jones,Jones-MS,6.041666667,67761
+Pennsylvania,PA,Columbia,Columbia-PA,5.491666667,67295
+Illinois,IL,Adams,Adams-IL,5.025,67103
+Hawaii,HI,Kauai,Kauai-HI,4.091666667,67091
+Michigan,MI,Marquette,Marquette-MI,1.066666667,67077
+Alabama,AL,Walker,Walker-AL,7.216666667,67023
+Virginia,VA,James City,James City-VA,4.3,67009
+North Dakota,ND,Grand Forks,Grand Forks-ND,2.4,66861
+South Carolina,SC,Laurens,Laurens-SC,6.5,66537
+Ohio,OH,Marion,Marion-OH,5.125,66501
+North Carolina,NC,Carteret,Carteret-NC,5.958333333,66469
+Oregon,OR,Klamath,Klamath-OR,8,66380
+Illinois,IL,Williamson,Williamson-IL,6.241666667,66357
+Tennessee,TN,Robertson,Robertson-TN,4.958333333,66283
+Iowa,IA,Dallas,Dallas-IA,2.808333333,66135
+New Jersey,NJ,Salem,Salem-NJ,7.066666667,66083
+Kansas,KS,Butler,Butler-KS,4.291666667,65880
+New York,NY,Warren,Warren-NY,5.641666667,65707
+New Mexico,NM,Chaves,Chaves-NM,6.35,65645
+Texas,TX,Harrison,Harrison-TX,5.3,65631
+Kentucky,KY,McCracken,McCracken-KY,5.916666667,65565
+Virginia,VA,York,York-VA,4.316666667,65464
+New York,NY,Livingston,Livingston-NY,5.358333333,65393
+Pennsylvania,PA,Carbon,Carbon-PA,5.825,65249
+Virginia,VA,Fauquier,Fauquier-VA,3.933333333,65203
+Kentucky,KY,Pike,Pike-KY,9.5,65024
+Texas,TX,San Patricio,San Patricio-TX,6.491666667,64804
+Ohio,OH,Athens,Athens-OH,6.208333333,64757
+New Mexico,NM,Lea,Lea-NM,6.233333333,64727
+California,CA,Lake,Lake-CA,7.658333333,64665
+Texas,TX,Nacogdoches,Nacogdoches-TX,4.733333333,64524
+New York,NY,Herkimer,Herkimer-NY,6.266666667,64519
+Kansas,KS,Reno,Reno-KS,4.341666667,64511
+Minnesota,MN,Rice,Rice-MN,3.575,64142
+Minnesota,MN,Blue Earth,Blue Earth-MN,2.958333333,64013
+Michigan,MI,Ionia,Ionia-MI,0.766666667,63905
+New Mexico,NM,Otero,Otero-NM,6.225,63797
+Virginia,VA,Pittsylvania,Pittsylvania-VA,5.341666667,63506
+North Carolina,NC,Chatham,Chatham-NC,4.758333333,63505
+California,CA,Tehama,Tehama-CA,7.958333333,63463
+North Carolina,NC,Sampson,Sampson-NC,5.958333333,63431
+Montana,MT,Lewis and Clark,Lewis and Clark-MT,3.341666667,63395
+Michigan,MI,Montcalm,Montcalm-MI,0.933333333,63342
+New York,NY,Washington,Washington-NY,5.141666667,63216
+New York,NY,Columbia,Columbia-NY,4.058333333,63096
+Kentucky,KY,Pulaski,Pulaski-KY,5.958333333,63063
+Oregon,OR,Coos,Coos-OR,7.55,63043
+Pennsylvania,PA,Bradford,Bradford-PA,5.7,62622
+Tennessee,TN,Hamblen,Hamblen-TN,6.341666667,62544
+Minnesota,MN,Crow Wing,Crow Wing-MN,5.241666667,62500
+Ohio,OH,Lawrence,Lawrence-OH,5.808333333,62450
+Wisconsin,WI,Chippewa,Chippewa-WI,4.766666667,62415
+West Virginia,WV,Mercer,Mercer-WV,7.308333333,62264
+New York,NY,Otsego,Otsego-NY,5.341666667,62259
+Wisconsin,WI,Sauk,Sauk-WI,4.166666667,61976
+Arkansas,AR,Crawford,Crawford-AR,5.383333333,61948
+Ohio,OH,Washington,Washington-OH,5.975,61778
+Arkansas,AR,Pope,Pope-AR,5.508333333,61754
+South Carolina,SC,Kershaw,Kershaw-SC,5.958333333,61697
+North Dakota,ND,Ward,Ward-ND,3.1,61675
+Vermont,VT,Rutland,Rutland-VT,4.366666667,61642
+Tennessee,TN,Tipton,Tipton-TN,7.316666667,61081
+Texas,TX,Starr,Starr-TX,13.59166667,60968
+Ohio,OH,Sandusky,Sandusky-OH,4.858333333,60944
+Ohio,OH,Knox,Knox-OH,4.666666667,60921
+Washington,WA,Mason,Mason-WA,7.658333333,60699
+North Carolina,NC,Franklin,Franklin-NC,5.85,60619
+North Carolina,NC,Stanly,Stanly-NC,5.341666667,60585
+Oklahoma,OK,Garfield,Garfield-OK,3.85,60580
+Kentucky,KY,Oldham,Oldham-KY,4,60316
+Illinois,IL,Jackson,Jackson-IL,5.625,60218
+South Carolina,SC,Georgetown,Georgetown-SC,8.375,60158
+New Hampshire,NH,Belknap,Belknap-NH,3.35,60088
+New York,NY,Genesee,Genesee-NY,5.066666667,60079
+North Carolina,NC,Granville,Granville-NC,4.991666667,59916
+Mississippi,MS,Lowndes,Lowndes-MS,7.075,59779
+Indiana,IN,Warrick,Warrick-IN,4.041666667,59689
+Ohio,OH,Huron,Huron-OH,6.641666667,59626
+Vermont,VT,Washington,Washington-VT,3.566666667,59534
+North Carolina,NC,Lenoir,Lenoir-NC,6.408333333,59495
+Michigan,MI,Barry,Barry-MI,0.691666667,59173
+Texas,TX,Wise,Wise-TX,4.65,59127
+North Carolina,NC,Haywood,Haywood-NC,5.225,59036
+Minnesota,MN,Clay,Clay-MN,3.083333333,58999
+Kentucky,KY,Laurel,Laurel-KY,6.325,58849
+Washington,WA,Walla Walla,Walla Walla-WA,5.791666667,58781
+Nebraska,NE,Hall,Hall-NE,3.908333333,58607
+North Carolina,NC,Duplin,Duplin-NC,5.783333333,58505
+Illinois,IL,Whiteside,Whiteside-IL,6.283333333,58498
+Texas,TX,Anderson,Anderson-TX,3.983333333,58458
+Utah,UT,Tooele,Tooele-UT,4.083333333,58218
+Missouri,MO,Newton,Newton-MO,4.516666667,58114
+North Carolina,NC,Columbus,Columbus-NC,7.591666667,58098
+North Carolina,NC,Lee,Lee-NC,7.266666667,57866
+Maine,ME,Oxford,Oxford-ME,5.466666667,57833
+Tennessee,TN,Carter,Carter-TN,6.666666667,57424
+Pennsylvania,PA,Pike,Pike-PA,6.291666667,57369
+Alabama,AL,Blount,Blount-AL,5.408333333,57322
+Minnesota,MN,Otter Tail,Otter Tail-MN,4.2,57303
+Tennessee,TN,Hawkins,Hawkins-TN,6.516666667,56833
+Wisconsin,WI,Columbia,Columbia-WI,4.391666667,56833
+Ohio,OH,Seneca,Seneca-OH,4.8,56745
+Vermont,VT,Windsor,Windsor-VT,3.291666667,56670
+Indiana,IN,Boone,Boone-IN,3.683333333,56640
+North Carolina,NC,Edgecombe,Edgecombe-NC,9.616666667,56552
+West Virginia,WV,Marion,Marion-WV,6.866666667,56418
+Colorado,CO,Garfield,Garfield-CO,4.116666667,56389
+Virginia,VA,Franklin,Franklin-VA,4.641666667,56159
+Tennessee,TN,Cumberland,Cumberland-TN,7.241666667,56053
+Colorado,CO,Broomfield,Broomfield-CO,3.35,55889
+Mississippi,MS,Pearl River,Pearl River-MS,6.3,55834
+Michigan,MI,Tuscola,Tuscola-MI,1.075,55729
+Ohio,OH,Pickaway,Pickaway-OH,4.716666667,55698
+Mississippi,MS,Lamar,Lamar-MS,4.883333333,55658
+Kansas,KS,Saline,Saline-KS,3.825,55606
+New York,NY,Fulton,Fulton-NY,6.541666667,55531
+West Virginia,WV,Putnam,Putnam-WV,5.55,55486
+California,CA,Tuolumne,Tuolumne-CA,7.125,55365
+South Carolina,SC,Cherokee,Cherokee-SC,7.15,55342
+Nevada,NV,Carson City,Carson City-NV,7.25,55274
+California,CA,San Benito,San Benito-CA,7.625,55269
+Pennsylvania,PA,Venango,Venango-PA,5.775,54984
+Virginia,VA,Washington,Washington-VA,4.8,54876
+Virginia,VA,Campbell,Campbell-VA,4.75,54842
+North Carolina,NC,Halifax,Halifax-NC,8.883333333,54691
+Texas,TX,Hardin,Hardin-TX,5.633333333,54635
+Alabama,AL,Autauga,Autauga-AL,5.25,54571
+Alabama,AL,Colbert,Colbert-AL,7.9,54428
+Maine,ME,Hancock,Hancock-ME,5.775,54418
+Texas,TX,Maverick,Maverick-TX,10.70833333,54258
+Tennessee,TN,Roane,Roane-TN,6.566666667,54181
+Illinois,IL,Boone,Boone-IL,6.608333333,54165
+Virginia,VA,Henry,Henry-VA,6.483333333,54151
+Minnesota,MN,Chisago,Chisago-MN,4.166666667,53887
+Illinois,IL,Coles,Coles-IL,6.208333333,53873
+New Mexico,NM,Eddy,Eddy-NM,4.9,53829
+Arizona,AZ,Gila,Gila-AZ,7.958333333,53597
+West Virginia,WV,Jefferson,Jefferson-WV,4.108333333,53498
+Illinois,IL,Ogle,Ogle-IL,6.225,53497
+Texas,TX,Rusk,Rusk-TX,4.75,53330
+Alabama,AL,Jackson,Jackson-AL,6.591666667,53227
+Ohio,OH,Ashland,Ashland-OH,5.091666667,53139
+Ohio,OH,Darke,Darke-OH,4.258333333,52959
+Alabama,AL,Russell,Russell-AL,6,52947
+Illinois,IL,Knox,Knox-IL,6.208333333,52919
+Pennsylvania,PA,Wayne,Wayne-PA,5.666666667,52822
+Tennessee,TN,Coffee,Coffee-TN,5.616666667,52796
+Missouri,MO,Johnson,Johnson-MO,5.4,52595
+Texas,TX,Van Zandt,Van Zandt-TX,4.516666667,52579
+Missouri,MO,Lincoln,Lincoln-MO,5.141666667,52566
+Oklahoma,OK,Grady,Grady-OK,4.316666667,52431
+Wisconsin,WI,Waupaca,Waupaca-WI,4.691666667,52410
+Ohio,OH,Union,Union-OH,3.8,52300
+Michigan,MI,Cass,Cass-MI,0.85,52293
+Missouri,MO,Pulaski,Pulaski-MO,5.841666667,52274
+Tennessee,TN,McMinn,McMinn-TN,6.516666667,52266
+Maine,ME,Somerset,Somerset-ME,6.566666667,52228
+North Carolina,NC,Pender,Pender-NC,6.1,52217
+Colorado,CO,Eagle,Eagle-CO,3.125,52197
+Nevada,NV,Lyon,Lyon-NV,9.425,51980
+Missouri,MO,Taney,Taney-MO,8.141666667,51675
+New York,NY,Franklin,Franklin-NY,6.525,51599
+Minnesota,MN,Winona,Winona-MN,3.316666667,51461
+Maryland,MD,Worcester,Worcester-MD,10.63333333,51454
+Tennessee,TN,Jefferson,Jefferson-TN,6.525,51407
+Colorado,CO,La Plata,La Plata-CO,3.458333333,51334
+Wisconsin,WI,Grant,Grant-WI,4.391666667,51208
+Texas,TX,Hood,Hood-TX,4.525,51182
+Mississippi,MS,Washington,Washington-MS,10.48333333,51137
+New York,NY,Tioga,Tioga-NY,5.633333333,51125
+North Carolina,NC,Watauga,Watauga-NC,4.916666667,51079
+Oklahoma,OK,Washington,Washington-OK,4.158333333,50976
+Arkansas,AR,Crittenden,Crittenden-AR,6.358333333,50902
+Texas,TX,Cherokee,Cherokee-TX,5.208333333,50845
+Illinois,IL,Henry,Henry-IL,6.225,50486
+New York,NY,Chenango,Chenango-NY,5.575,50477
+Oklahoma,OK,Le Flore,Le Flore-OK,6.65,50384
+Alabama,AL,Dale,Dale-AL,6.35,50251
+New York,NY,Montgomery,Montgomery-NY,6.691666667,50219
+Illinois,IL,Grundy,Grundy-IL,6.816666667,50063
+Indiana,IN,Dearborn,Dearborn-IN,5.083333333,50047
+Utah,UT,Box Elder,Box Elder-UT,3.625,49975
+Alabama,AL,Coffee,Coffee-AL,5.908333333,49948
+Rhode Island,RI,Bristol,Bristol-RI,5.091666667,49875
+Texas,TX,Lamar,Lamar-TX,4.816666667,49793
+Pennsylvania,PA,Bedford,Bedford-PA,5.9,49762
+Tennessee,TN,Gibson,Gibson-TN,7.575,49683
+Tennessee,TN,Dickson,Dickson-TN,5.566666667,49666
+Texas,TX,Kerr,Kerr-TX,3.725,49625
+Kentucky,KY,Boyd,Boyd-KY,6.975,49542
+Indiana,IN,Henry,Henry-IN,5.316666667,49462
+Ohio,OH,Shelby,Shelby-OH,4.266666667,49423
+Oregon,OR,Columbia,Columbia-OR,7.216666667,49351
+New York,NY,Cortland,Cortland-NY,5.866666667,49336
+Kentucky,KY,Franklin,Franklin-KY,4.341666667,49285
+New York,NY,Greene,Greene-NY,5.758333333,49221
+Iowa,IA,Clinton,Clinton-IA,4.891666667,49116
+Wisconsin,WI,Calumet,Calumet-WI,3.6,48971
+New York,NY,Allegany,Allegany-NY,5.775,48946
+Texas,TX,Val Verde,Val Verde-TX,6.091666667,48879
+Nevada,NV,Elko,Elko-NV,5.2,48818
+Mississippi,MS,Warren,Warren-MS,6.833333333,48773
+Kentucky,KY,Jessamine,Jessamine-KY,4.3,48586
+Tennessee,TN,Loudon,Loudon-TN,5.733333333,48556
+Michigan,MI,Newaygo,Newaygo-MI,0.875,48460
+New Mexico,NM,Curry,Curry-NM,4.925,48376
+New York,NY,Delaware,Delaware-NY,6.041666667,47980
+New Hampshire,NH,Carroll,Carroll-NH,3.591666667,47818
+Illinois,IL,Macoupin,Macoupin-IL,6.35,47765
+North Carolina,NC,Beaufort,Beaufort-NC,6.616666667,47759
+Vermont,VT,Franklin,Franklin-VT,3.666666667,47746
+Texas,TX,Navarro,Navarro-TX,4.266666667,47735
+Illinois,IL,Stephenson,Stephenson-IL,6.691666667,47711
+Mississippi,MS,Oktibbeha,Oktibbeha-MS,6.291666667,47671
+Oklahoma,OK,Carter,Carter-OK,4.375,47557
+Indiana,IN,Noble,Noble-IN,4.225,47536
+Oklahoma,OK,Osage,Osage-OK,5.058333333,47472
+Arizona,AZ,Santa Cruz,Santa Cruz-AZ,11.525,47420
+North Carolina,NC,Stokes,Stokes-NC,5.4,47401
+Mississippi,MS,Lafayette,Lafayette-MS,5.558333333,47351
+Kentucky,KY,Scott,Scott-KY,4.05,47173
+Indiana,IN,Marshall,Marshall-IN,4.158333333,47051
+Nevada,NV,Douglas,Douglas-NV,6.758333333,46997
+Oklahoma,OK,Cherokee,Cherokee-OK,5,46987
+North Carolina,NC,Hoke,Hoke-NC,8.058333333,46952
+Kentucky,KY,Hopkins,Hopkins-KY,5.7,46920
+Colorado,CO,Fremont,Fremont-CO,6.175,46824
+South Carolina,SC,Chesterfield,Chesterfield-SC,6.133333333,46734
+Virginia,VA,Culpeper,Culpeper-VA,4.325,46689
+Michigan,MI,Hillsdale,Hillsdale-MI,0.9,46688
+Pennsylvania,PA,Mifflin,Mifflin-PA,5.566666667,46682
+North Carolina,NC,Richmond,Richmond-NC,7.891666667,46639
+Oklahoma,OK,Kay,Kay-OK,5.5,46562
+Arkansas,AR,Mississippi,Mississippi-AR,9.308333333,46480
+Kentucky,KY,Henderson,Henderson-KY,4.95,46250
+Iowa,IA,Warren,Warren-IA,3.333333333,46225
+Minnesota,MN,Goodhue,Goodhue-MN,3.541666667,46183
+Utah,UT,Iron,Iron-UT,4.375,46163
+Indiana,IN,Lawrence,Lawrence-IN,6.533333333,46134
+Wyoming,WY,Campbell,Campbell-WY,3.808333333,46133
+Nebraska,NE,Buffalo,Buffalo-NE,2.408333333,46102
+West Virginia,WV,Fayette,Fayette-WV,8.541666667,46039
+Oregon,OR,Lincoln,Lincoln-OR,6.775,46034
+Texas,TX,Medina,Medina-TX,4.375,46006
+Pennsylvania,PA,Perry,Perry-PA,4.316666667,45969
+Ohio,OH,Auglaize,Auglaize-OH,3.675,45949
+Pennsylvania,PA,Huntingdon,Huntingdon-PA,6.816666667,45913
+Wisconsin,WI,Barron,Barron-WI,5.058333333,45870
+Ohio,OH,Logan,Logan-OH,4.125,45858
+Oklahoma,OK,Pittsburg,Pittsburg-OK,5.55,45837
+Idaho,ID,Bingham,Bingham-ID,4.091666667,45607
+California,CA,Calaveras,Calaveras-CA,6.433333333,45578
+North Carolina,NC,Vance,Vance-NC,8.608333333,45422
+Texas,TX,Polk,Polk-TX,6.133333333,45413
+Michigan,MI,Branch,Branch-MI,0.858333333,45248
+Pennsylvania,PA,Jefferson,Jefferson-PA,5.908333333,45200
+Missouri,MO,Phelps,Phelps-MO,5.291666667,45156
+Virginia,VA,Tazewell,Tazewell-VA,7.483333333,45078
+Minnesota,MN,Itasca,Itasca-MN,6.466666667,45058
+Tennessee,TN,Bedford,Bedford-TN,6.583333333,45058
+Oklahoma,OK,Stephens,Stephens-OK,5.733333333,45048
+North Carolina,NC,McDowell,McDowell-NC,5.525,44996
+Pennsylvania,PA,Union,Union-PA,4.316666667,44947
+Texas,TX,Atascosa,Atascosa-TX,4.775,44911
+California,CA,Siskiyou,Siskiyou-CA,9.408333333,44900
+Ohio,OH,Brown,Brown-OH,6.175,44846
+South Dakota,SD,Lincoln,Lincoln-SD,2.283333333,44828
+Washington,WA,Whitman,Whitman-WA,4.675,44776
+Wisconsin,WI,Monroe,Monroe-WI,4.466666667,44673
+Tennessee,TN,Monroe,Monroe-TN,6.416666667,44519
+Vermont,VT,Windham,Windham-VT,3.675,44513
+West Virginia,WV,Ohio,Ohio-WV,5.608333333,44443
+Minnesota,MN,Beltrami,Beltrami-MN,4.825,44442
+Indiana,IN,Shelby,Shelby-IN,4.408333333,44436
+Missouri,MO,Callaway,Callaway-MO,4.683333333,44332
+Wisconsin,WI,Polk,Polk-WI,4.908333333,44205
+Wisconsin,WI,Douglas,Douglas-WI,5.058333333,44159
+Iowa,IA,Cerro Gordo,Cerro Gordo-IA,3.875,44151
+Missouri,MO,Camden,Camden-MO,6.541666667,44002
+Nevada,NV,Nye,Nye-NV,8.683333333,43946
+Mississippi,MS,Hancock,Hancock-MS,6.541666667,43929
+Wisconsin,WI,Dunn,Dunn-WI,4.575,43857
+Alabama,AL,Dallas,Dallas-AL,9.65,43820
+Wyoming,WY,Sweetwater,Sweetwater-WY,4.591666667,43806
+Ohio,OH,Crawford,Crawford-OH,5.8,43784
+New Hampshire,NH,Sullivan,Sullivan-NH,2.908333333,43742
+Alabama,AL,Chilton,Chilton-AL,5.658333333,43643
+Ohio,OH,Highland,Highland-OH,6.333333333,43589
+Washington,WA,Stevens,Stevens-WA,8.758333333,43531
+Arkansas,AR,Miller,Miller-AR,5.2,43462
+Kentucky,KY,Nelson,Nelson-KY,5.141666667,43437
+Ohio,OH,Madison,Madison-OH,3.991666667,43435
+Pennsylvania,PA,Susquehanna,Susquehanna-PA,5.408333333,43356
+Texas,TX,Waller,Waller-TX,4.841666667,43205
+Michigan,MI,Sanilac,Sanilac-MI,1.05,43114
+Texas,TX,Wilson,Wilson-TX,3.816666667,42918
+New York,NY,Orleans,Orleans-NY,6.466666667,42883
+Michigan,MI,Mecosta,Mecosta-MI,1.075,42798
+Missouri,MO,Butler,Butler-MO,6.15,42794
+Texas,TX,Burnet,Burnet-TX,3.683333333,42750
+Iowa,IA,Muscatine,Muscatine-IA,3.808333333,42745
+Ohio,OH,Fulton,Fulton-OH,4.916666667,42698
+West Virginia,WV,Wayne,Wayne-WV,7.033333333,42481
+Michigan,MI,Gratiot,Gratiot-MI,0.933333333,42476
+Oklahoma,OK,Bryan,Bryan-OK,4.425,42416
+Oklahoma,OK,Sequoyah,Sequoyah-OK,6.133333333,42391
+Indiana,IN,Jackson,Jackson-IN,3.966666667,42376
+Ohio,OH,Holmes,Holmes-OH,3.408333333,42366
+Ohio,OH,Preble,Preble-OH,4.8,42270
+Minnesota,MN,Kandiyohi,Kandiyohi-MN,3.766666667,42239
+Indiana,IN,DeKalb,DeKalb-IN,4.066666667,42223
+Missouri,MO,Pettis,Pettis-MO,5.275,42201
+Kentucky,KY,Barren,Barren-KY,5.291666667,42173
+New York,NY,Wyoming,Wyoming-NY,5.75,42155
+Arkansas,AR,Greene,Greene-AR,5.358333333,42090
+Kentucky,KY,Shelby,Shelby-KY,4.133333333,42074
+Ohio,OH,Clinton,Clinton-OH,6.133333333,42040
+Virginia,VA,Shenandoah,Shenandoah-VA,4.266666667,41993
+Pennsylvania,PA,Tioga,Tioga-PA,6.325,41981
+Texas,TX,Wood,Wood-TX,5.341666667,41964
+Wisconsin,WI,Shawano,Shawano-WI,4.933333333,41949
+Indiana,IN,Dubois,Dubois-IN,3.4,41889
+Tennessee,TN,Lawrence,Lawrence-TN,6.775,41869
+Oklahoma,OK,Logan,Logan-OK,3.641666667,41848
+Pennsylvania,PA,Warren,Warren-PA,4.85,41815
+Wisconsin,WI,Marinette,Marinette-WI,5.9,41749
+Arkansas,AR,Union,Union-AR,6.4,41639
+Alabama,AL,Tallapoosa,Tallapoosa-AL,6.116666667,41616
+Arkansas,AR,Baxter,Baxter-AR,5.675,41513
+Oklahoma,OK,Delaware,Delaware-OK,4.833333333,41487
+Virginia,VA,Wise,Wise-VA,8.291666667,41452
+Ohio,OH,Ottawa,Ottawa-OH,6.65,41428
+Texas,TX,Wharton,Wharton-TX,4.45,41280
+Colorado,CO,Montrose,Montrose-CO,5.075,41276
+Oklahoma,OK,Mayes,Mayes-OK,4.2,41259
+North Carolina,NC,Davie,Davie-NC,5.041666667,41240
+Washington,WA,Okanogan,Okanogan-WA,7.033333333,41120
+Tennessee,TN,Franklin,Franklin-TN,5.316666667,41052
+Wisconsin,WI,Pierce,Pierce-WI,3.933333333,41019
+Washington,WA,Kittitas,Kittitas-WA,6.141666667,40915
+Idaho,ID,Bonner,Bonner-ID,5.933333333,40877
+Texas,TX,Jim Wells,Jim Wells-TX,7.975,40838
+Ohio,OH,Mercer,Mercer-OH,3.258333333,40814
+Tennessee,TN,Campbell,Campbell-TN,8.066666667,40716
+North Carolina,NC,Pasquotank,Pasquotank-NC,7.383333333,40661
+Iowa,IA,Marshall,Marshall-IA,4.991666667,40648
+Mississippi,MS,Pike,Pike-MS,7.408333333,40404
+Missouri,MO,Howell,Howell-MO,6.416666667,40400
+Iowa,IA,Des Moines,Des Moines-IA,4.558333333,40325
+North Carolina,NC,Jackson,Jackson-NC,6.091666667,40271
+New Mexico,NM,Rio Arriba,Rio Arriba-NM,8.033333333,40246
+Montana,MT,Ravalli,Ravalli-MT,5.191666667,40212
+Wyoming,WY,Fremont,Fremont-WY,5.433333333,40123
+Ohio,OH,Champaign,Champaign-OH,4.366666667,40097
+Ohio,OH,Guernsey,Guernsey-OH,6.25,40087
+Oklahoma,OK,Okmulgee,Okmulgee-OK,6.416666667,40069
+Pennsylvania,PA,Clarion,Clarion-PA,5.7,39988
+Tennessee,TN,Warren,Warren-TN,5.758333333,39839
+Maine,ME,Knox,Knox-ME,4.125,39736
+Pennsylvania,PA,Snyder,Snyder-PA,4.541666667,39702
+Illinois,IL,Franklin,Franklin-IL,8.191666667,39561
+North Carolina,NC,Person,Person-NC,6.725,39464
+Kentucky,KY,Floyd,Floyd-KY,9.441666667,39451
+Illinois,IL,Marion,Marion-IL,6.883333333,39437
+New York,NY,Essex,Essex-NY,6.116666667,39370
+Indiana,IN,Harrison,Harrison-IN,4.525,39364
+Texas,TX,Upshur,Upshur-TX,5.275,39309
+Idaho,ID,Nez Perce,Nez Perce-ID,3.7,39265
+Pennsylvania,PA,Clinton,Clinton-PA,6.691666667,39238
+Missouri,MO,Scott,Scott-MO,5.258333333,39191
+Minnesota,MN,Mower,Mower-MN,3.225,39163
+Kansas,KS,Crawford,Crawford-KS,5.141666667,39134
+Tennessee,TN,Cheatham,Cheatham-TN,4.9,39105
+Ohio,OH,Defiance,Defiance-OH,4.925,39037
+Indiana,IN,Cass,Cass-IN,4.616666667,38966
+Illinois,IL,Livingston,Livingston-IL,5.5,38950
+South Carolina,SC,Colleton,Colleton-SC,6.983333333,38892
+Illinois,IL,Jefferson,Jefferson-IL,6.783333333,38827
+Maine,ME,Waldo,Waldo-ME,5.125,38786
+Pennsylvania,PA,Greene,Greene-PA,5.775,38686
+Illinois,IL,Woodford,Woodford-IL,5.066666667,38664
+Missouri,MO,Lawrence,Lawrence-MO,4.891666667,38634
+Michigan,MI,Chippewa,Chippewa-MI,1.15,38520
+Minnesota,MN,Benton,Benton-MN,4.425,38451
+Indiana,IN,Knox,Knox-IN,4.55,38440
+Texas,TX,Cooke,Cooke-TX,3.683333333,38437
+Washington,WA,Douglas,Douglas-WA,6.333333333,38431
+Tennessee,TN,Fayette,Fayette-TN,6.408333333,38413
+North Carolina,NC,Yadkin,Yadkin-NC,5,38406
+Tennessee,TN,Dyer,Dyer-TN,7.333333333,38335
+Alabama,AL,Escambia,Escambia-AL,7,38319
+Indiana,IN,Montgomery,Montgomery-IN,3.983333333,38124
+Texas,TX,Brown,Brown-TX,4.375,38106
+California,CA,Amador,Amador-CA,6.625,38091
+Texas,TX,Caldwell,Caldwell-TX,4.308333333,38066
+Iowa,IA,Webster,Webster-IA,4.25,38013
+Indiana,IN,Putnam,Putnam-IN,5.066666667,37963
+Texas,TX,Erath,Erath-TX,3.916666667,37890
+Minnesota,MN,Isanti,Isanti-MN,4.258333333,37816
+Maryland,MD,Talbot,Talbot-MD,5.091666667,37782
+Alabama,AL,Covington,Covington-AL,7.116666667,37765
+Illinois,IL,Clinton,Clinton-IL,4.533333333,37762
+Wisconsin,WI,Oconto,Oconto-WI,5.183333333,37660
+Ohio,OH,Williams,Williams-OH,4.4,37642
+Virginia,VA,Warren,Warren-VA,4.741666667,37575
+Idaho,ID,Madison,Madison-ID,2.708333333,37536
+South Carolina,SC,Newberry,Newberry-SC,5.316666667,37508
+Oklahoma,OK,Pontotoc,Pontotoc-OK,3.883333333,37492
+Idaho,ID,Latah,Latah-ID,3.466666667,37244
+Arizona,AZ,Graham,Graham-AZ,7.416666667,37220
+North Carolina,NC,Alexander,Alexander-NC,4.975,37198
+Kentucky,KY,Calloway,Calloway-KY,4.8,37191
+Mississippi,MS,Marshall,Marshall-MS,7.341666667,37144
+Indiana,IN,LaGrange,LaGrange-IN,3.625,37128
+Vermont,VT,Bennington,Bennington-VT,4.341666667,37125
+Indiana,IN,Huntington,Huntington-IN,4.316666667,37124
+Kentucky,KY,Graves,Graves-KY,6.291666667,37121
+Illinois,IL,Fulton,Fulton-IL,7.7,37069
+Michigan,MI,Delta,Delta-MI,1.058333333,37069
+Mississippi,MS,Alcorn,Alcorn-MS,5.741666667,37057
+Oregon,OR,Clatsop,Clatsop-OR,5.583333333,37039
+Mississippi,MS,Monroe,Monroe-MS,7.483333333,36989
+Nebraska,NE,Scotts Bluff,Scotts Bluff-NE,3.4,36970
+Kentucky,KY,Greenup,Greenup-KY,7.758333333,36910
+Arkansas,AR,Boone,Boone-AR,5.083333333,36903
+Indiana,IN,Miami,Miami-IN,5.25,36903
+Ohio,OH,Coshocton,Coshocton-OH,6.291666667,36901
+Virginia,VA,Gloucester,Gloucester-VA,4.075,36858
+Iowa,IA,Jasper,Jasper-IA,3.825,36842
+Wisconsin,WI,Green,Green-WI,3.825,36842
+Vermont,VT,Addison,Addison-VT,3.658333333,36821
+Kansas,KS,Finney,Finney-KS,3.55,36776
+West Virginia,WV,Logan,Logan-WV,11.35,36743
+Texas,TX,Matagorda,Matagorda-TX,6.791666667,36702
+Nebraska,NE,Dodge,Dodge-NE,3.258333333,36691
+Minnesota,MN,McLeod,McLeod-MN,3.95,36651
+Arkansas,AR,Independence,Independence-AR,6.7,36647
+Michigan,MI,Houghton,Houghton-MI,1.05,36628
+Minnesota,MN,Steele,Steele-MN,3.35,36576
+South Dakota,SD,Brown,Brown-SD,2.7,36531
+Utah,UT,Summit,Summit-UT,3.275,36324
+Kansas,KS,Cowley,Cowley-KS,4.666666667,36311
+Wyoming,WY,Albany,Albany-WY,3.058333333,36299
+Nebraska,NE,Lincoln,Lincoln-NE,2.883333333,36288
+Texas,TX,Hale,Hale-TX,6.433333333,36273
+Virginia,VA,Halifax,Halifax-VA,6.383333333,36241
+Missouri,MO,Webster,Webster-MO,5.033333333,36202
+North Carolina,NC,Scotland,Scotland-NC,10.68333333,36157
+Ohio,OH,Perry,Perry-OH,6.466666667,36058
+Illinois,IL,Lee,Lee-IL,5.45,36031
+Minnesota,MN,Douglas,Douglas-MN,3.425,36009
+Wisconsin,WI,Oneida,Oneida-WI,5.941666667,35998
+Iowa,IA,Lee,Lee-IA,5.316666667,35862
+Virginia,VA,Prince George,Prince George-VA,5.341666667,35725
+Texas,TX,Jasper,Jasper-TX,7.55,35710
+Tennessee,TN,Cocke,Cocke-TN,7.95,35662
+Kentucky,KY,Whitley,Whitley-KY,6.958333333,35637
+Iowa,IA,Wapello,Wapello-IA,5.066666667,35625
+Kentucky,KY,Clark,Clark-KY,5.283333333,35613
+Missouri,MO,Barry,Barry-MO,4.95,35597
+Missouri,MO,Laclede,Laclede-MO,6.358333333,35571
+Illinois,IL,Morgan,Morgan-IL,5.066666667,35547
+West Virginia,WV,Greenbrier,Greenbrier-WV,6.566666667,35480
+Kansas,KS,Montgomery,Montgomery-KS,6.525,35471
+Minnesota,MN,Carlton,Carlton-MN,4.966666667,35386
+Maine,ME,Sagadahoc,Sagadahoc-ME,3.491666667,35293
+Virginia,VA,Isle of Wight,Isle of Wight-VA,4.575,35270
+New York,NY,Seneca,Seneca-NY,5.216666667,35251
+North Carolina,NC,Bladen,Bladen-NC,7.983333333,35190
+Texas,TX,Hopkins,Hopkins-TX,4.233333333,35161
+Texas,TX,Chambers,Chambers-TX,5.3,35096
+Texas,TX,Hill,Hill-TX,4.608333333,35089
+Tennessee,TN,Weakley,Weakley-TN,7.033333333,35021
+Texas,TX,Howard,Howard-TX,4.666666667,35012
+Illinois,IL,Bureau,Bureau-IL,6.541666667,34978
+South Carolina,SC,Clarendon,Clarendon-SC,7.75,34971
+California,CA,Lassen,Lassen-CA,7.266666667,34895
+Nebraska,NE,Madison,Madison-NE,2.741666667,34876
+Virginia,VA,Pulaski,Pulaski-VA,5.016666667,34872
+Mississippi,MS,Lincoln,Lincoln-MS,6.175,34869
+Ohio,OH,Morrow,Morrow-OH,4.95,34827
+Illinois,IL,Christian,Christian-IL,6.641666667,34800
+Mississippi,MS,Panola,Panola-MS,8.816666667,34707
+Wisconsin,WI,Clark,Clark-WI,4.416666667,34690
+Kansas,KS,Harvey,Harvey-KS,3.933333333,34684
+Oklahoma,OK,McClain,McClain-OK,3.558333333,34506
+Ohio,OH,Putnam,Putnam-OH,3.908333333,34499
+Maine,ME,Lincoln,Lincoln-ME,4.5,34457
+South Carolina,SC,Williamsburg,Williamsburg-SC,9.233333333,34423
+Indiana,IN,Adams,Adams-IN,3.783333333,34387
+Kansas,KS,Geary,Geary-KS,6.208333333,34362
+Alabama,AL,Lawrence,Lawrence-AL,7.658333333,34339
+Oklahoma,OK,Lincoln,Lincoln-OK,4.458333333,34273
+Illinois,IL,Effingham,Effingham-IL,4.85,34242
+Alabama,AL,Chambers,Chambers-AL,6.016666667,34215
+Montana,MT,Silver Bow,Silver Bow-MT,4.25,34200
+Indiana,IN,Steuben,Steuben-IN,3.925,34185
+Mississippi,MS,Bolivar,Bolivar-MS,7.958333333,34145
+North Carolina,NC,Macon,Macon-NC,6.15,33922
+North Carolina,NC,Dare,Dare-NC,7.725,33920
+Texas,TX,Fannin,Fannin-TX,4.158333333,33915
+Kansas,KS,Ford,Ford-KS,3.433333333,33848
+Texas,TX,Washington,Washington-TX,4.833333333,33718
+Iowa,IA,Sioux,Sioux-IA,2.408333333,33704
+Kansas,KS,Lyon,Lyon-KS,4.366666667,33690
+West Virginia,WV,Preston,Preston-WV,6.166666667,33520
+Indiana,IN,Gibson,Gibson-IN,3.8,33503
+Virginia,VA,Orange,Orange-VA,4.575,33481
+Indiana,IN,Jasper,Jasper-IN,5.766666667,33478
+Illinois,IL,Randolph,Randolph-IL,5.516666667,33476
+Texas,TX,Kendall,Kendall-TX,3.283333333,33410
+Missouri,MO,Lafayette,Lafayette-MO,4.791666667,33381
+Tennessee,TN,Lincoln,Lincoln-TN,4.941666667,33361
+Iowa,IA,Marion,Marion-IA,3.191666667,33309
+Indiana,IN,Whitley,Whitley-IN,4.075,33292
+Ohio,OH,Jackson,Jackson-OH,7.525,33225
+Indiana,IN,Clinton,Clinton-IN,3.983333333,33224
+Minnesota,MN,Morrison,Morrison-MN,5.408333333,33198
+Indiana,IN,Greene,Greene-IN,6.825,33165
+Virginia,VA,Accomack,Accomack-VA,5.458333333,33164
+Virginia,VA,Louisa,Louisa-VA,4.241666667,33153
+Oklahoma,OK,McCurtain,McCurtain-OK,7.683333333,33151
+Virginia,VA,Botetourt,Botetourt-VA,4.158333333,33148
+South Carolina,SC,Chester,Chester-SC,8.3,33140
+Michigan,MI,Huron,Huron-MI,0.833333333,33118
+West Virginia,WV,Marshall,Marshall-WV,8.416666667,33107
+North Carolina,NC,Transylvania,Transylvania-NC,5.516666667,33090
+Maryland,MD,Caroline,Caroline-MD,5.591666667,33066
+South Carolina,SC,Marion,Marion-SC,10.01666667,33062
+New Hampshire,NH,Coos,Coos-NH,4.741666667,33055
+Illinois,IL,Monroe,Monroe-IL,4.433333333,32957
+New Mexico,NM,Taos,Taos-NM,9.266666667,32937
+Arkansas,AR,Hot Spring,Hot Spring-AR,5.183333333,32923
+Alabama,AL,Pike,Pike-AL,6.733333333,32899
+Indiana,IN,Wabash,Wabash-IN,4.775,32888
+Maine,ME,Washington,Washington-ME,6.658333333,32856
+Kansas,KS,Miami,Miami-KS,4.308333333,32787
+New York,NY,Schoharie,Schoharie-NY,5.833333333,32749
+Michigan,MI,Wexford,Wexford-MI,1.041666667,32735
+Minnesota,MN,Nicollet,Nicollet-MN,2.666666667,32727
+Virginia,VA,Mecklenburg,Mecklenburg-VA,6.158333333,32727
+Michigan,MI,Emmet,Emmet-MI,0.9,32694
+Maryland,MD,Dorchester,Dorchester-MD,7.375,32618
+Illinois,IL,McDonough,McDonough-IL,6.3,32612
+Utah,UT,Uintah,Uintah-UT,6.6,32588
+Missouri,MO,Warren,Warren-MO,4.775,32513
+Minnesota,MN,Becker,Becker-MN,4.433333333,32504
+Indiana,IN,Jefferson,Jefferson-IN,4.841666667,32428
+Virginia,VA,Amherst,Amherst-VA,4.758333333,32353
+Texas,TX,Titus,Titus-TX,5.841666667,32334
+Tennessee,TN,Henry,Henry-TN,6.675,32330
+Mississippi,MS,Leflore,Leflore-MS,10.925,32317
+Mississippi,MS,Adams,Adams-MS,8.083333333,32297
+Nebraska,NE,Platte,Platte-NE,2.958333333,32237
+Tennessee,TN,Claiborne,Claiborne-TN,7.341666667,32213
+Virginia,VA,Smyth,Smyth-VA,6.475,32208
+Missouri,MO,Stone,Stone-MO,7.883333333,32202
+South Carolina,SC,Dillon,Dillon-SC,8.65,32062
+Texas,TX,Kleberg,Kleberg-TX,6.066666667,32061
+Ohio,OH,Hardin,Hardin-OH,4.675,32058
+South Dakota,SD,Brookings,Brookings-SD,2.941666667,31965
+Missouri,MO,Dunklin,Dunklin-MO,7.95,31953
+Pennsylvania,PA,Elk,Elk-PA,4.8,31946
+Kentucky,KY,Knox,Knox-KY,8.266666667,31883
+Texas,TX,Bee,Bee-TX,6.275,31861
+Oklahoma,OK,Ottawa,Ottawa-OK,4.983333333,31848
+Tennessee,TN,Rhea,Rhea-TN,7.575,31809
+Tennessee,TN,Obion,Obion-TN,8.875,31807
+Alabama,AL,Franklin,Franklin-AL,6.4,31704
+Indiana,IN,Daviess,Daviess-IN,3.775,31648
+Minnesota,MN,Polk,Polk-MN,4.2,31600
+Kentucky,KY,Muhlenberg,Muhlenberg-KY,7.091666667,31499
+Kentucky,KY,Marshall,Marshall-KY,5.716666667,31448
+Nebraska,NE,Adams,Adams-NE,3.125,31364
+Oregon,OR,Malheur,Malheur-OR,6.466666667,31313
+Minnesota,MN,Freeborn,Freeborn-MN,3.791666667,31255
+Vermont,VT,Caledonia,Caledonia-VT,4.8,31227
+Missouri,MO,Polk,Polk-MO,5.225,31137
+Colorado,CO,Delta,Delta-CO,5.708333333,30952
+Ohio,OH,Gallia,Gallia-OH,6.475,30934
+Michigan,MI,Clare,Clare-MI,1.2,30926
+Alabama,AL,Marion,Marion-AL,6.991666667,30776
+Maine,ME,Franklin,Franklin-ME,4.766666667,30768
+West Virginia,WV,Hancock,Hancock-WV,7.775,30676
+Tennessee,TN,Marshall,Marshall-TN,5.741666667,30617
+Texas,TX,Cass,Cass-TX,6.9,30464
+Illinois,IL,Logan,Logan-IL,5.508333333,30305
+Illinois,IL,Montgomery,Montgomery-IL,7.683333333,30104
+Maryland,MD,Garrett,Garrett-MD,6.508333333,30097
+Virginia,VA,Carroll,Carroll-VA,5.341666667,30042
+Missouri,MO,Stoddard,Stoddard-MO,6.583333333,29968
+Mississippi,MS,Pontotoc,Pontotoc-MS,5.641666667,29957
+Washington,WA,Jefferson,Jefferson-WA,7.066666667,29872
+Wisconsin,WI,Vernon,Vernon-WI,4.158333333,29773
+Minnesota,MN,Pine,Pine-MN,5.533333333,29750
+Illinois,IL,Iroquois,Iroquois-IL,5.741666667,29718
+Mississippi,MS,Neshoba,Neshoba-MS,6.2,29676
+Oklahoma,OK,Caddo,Caddo-OK,5,29600
+Michigan,MI,Alpena,Alpena-MI,0.958333333,29598
+New Mexico,NM,Grant,Grant-NM,6.575,29514
+Tennessee,TN,Giles,Giles-TN,5.141666667,29485
+Mississippi,MS,Sunflower,Sunflower-MS,10.75,29450
+Mississippi,MS,Copiah,Copiah-MS,7.3,29449
+West Virginia,WV,Randolph,Randolph-WV,7.05,29405
+New Mexico,NM,San Miguel,San Miguel-NM,7.725,29393
+Ohio,OH,Hocking,Hocking-OH,5.458333333,29380
+Kentucky,KY,Harlan,Harlan-KY,11.66666667,29278
+Virginia,VA,Wythe,Wythe-VA,5.425,29235
+West Virginia,WV,Jackson,Jackson-WV,7.166666667,29211
+Kansas,KS,McPherson,McPherson-KS,3.025,29180
+Wyoming,WY,Sheridan,Sheridan-WY,4.15,29116
+Ohio,OH,Fayette,Fayette-OH,4.908333333,29030
+South Carolina,SC,Union,Union-SC,7.816666667,28961
+Vermont,VT,Orange,Orange-VT,3.491666667,28936
+South Carolina,SC,Marlboro,Marlboro-SC,10.1,28933
+Virginia,VA,Russell,Russell-VA,6.475,28897
+Mississippi,MS,Tate,Tate-MS,7.15,28886
+Ohio,OH,Carroll,Carroll-OH,5.933333333,28836
+Indiana,IN,Ripley,Ripley-IN,5.375,28818
+Wisconsin,WI,Trempealeau,Trempealeau-WI,3.975,28816
+Missouri,MO,Marion,Marion-MO,4.433333333,28781
+Montana,MT,Lake,Lake-MT,4.933333333,28746
+Ohio,OH,Van Wert,Van Wert-OH,4.125,28744
+Wisconsin,WI,Lincoln,Lincoln-WI,5.15,28743
+Kentucky,KY,Perry,Perry-KY,8.866666667,28712
+Ohio,OH,Pike,Pike-OH,7.408333333,28709
+Michigan,MI,Mason,Mason-MI,0.85,28705
+Kentucky,KY,Bell,Bell-KY,8.491666667,28691
+California,CA,Del Norte,Del Norte-CA,8.608333333,28610
+Kentucky,KY,Meade,Meade-KY,5.641666667,28602
+Minnesota,MN,Cass,Cass-MN,6.725,28567
+Ohio,OH,Adams,Adams-OH,7.916666667,28550
+Virginia,VA,Caroline,Caroline-VA,5.05,28545
+Indiana,IN,Jennings,Jennings-IN,5.116666667,28525
+Tennessee,TN,Carroll,Carroll-TN,8.566666667,28522
+Kansas,KS,Ellis,Ellis-KS,3.033333333,28452
+Kentucky,KY,Boyle,Boyle-KY,5.683333333,28432
+Texas,TX,Austin,Austin-TX,4.575,28417
+Pennsylvania,PA,Wyoming,Wyoming-PA,5.9,28276
+Mississippi,MS,Scott,Scott-MS,4.9,28264
+Indiana,IN,Washington,Washington-IN,5.133333333,28262
+Tennessee,TN,Marion,Marion-TN,6.9,28237
+Ohio,OH,Henry,Henry-OH,5.616666667,28215
+West Virginia,WV,Mineral,Mineral-WV,7.258333333,28212
+Wyoming,WY,Park,Park-WY,4.208333333,28205
+Colorado,CO,Morgan,Morgan-CO,3.8,28159
+California,CA,Glenn,Glenn-CA,8.75,28122
+Texas,TX,Palo Pinto,Palo Pinto-TX,5.325,28111
+Mississippi,MS,Yazoo,Yazoo-MS,8.208333333,28065
+Virginia,VA,Powhatan,Powhatan-VA,3.908333333,28046
+Virginia,VA,Dinwiddie,Dinwiddie-VA,5.341666667,28001
+Colorado,CO,Summit,Summit-CO,2.533333333,27994
+Utah,UT,Sanpete,Sanpete-UT,4.041666667,27822
+Tennessee,TN,Lauderdale,Lauderdale-TN,9.091666667,27815
+North Carolina,NC,Montgomery,Montgomery-NC,5.683333333,27798
+Wisconsin,WI,Door,Door-WI,6.933333333,27785
+Tennessee,TN,Henderson,Henderson-TN,8.216666667,27769
+Kentucky,KY,Carter,Carter-KY,9.991666667,27720
+Minnesota,MN,Le Sueur,Le Sueur-MN,4.65,27703
+Kansas,KS,Barton,Barton-KS,4.308333333,27674
+Indiana,IN,Wells,Wells-IN,3.9,27636
+Oklahoma,OK,Garvin,Garvin-OK,4.5,27576
+Mississippi,MS,Simpson,Simpson-MS,5.933333333,27503
+North Dakota,ND,Morton,Morton-ND,3.016666667,27471
+Oklahoma,OK,Custer,Custer-OK,3.891666667,27469
+Alabama,AL,Barbour,Barbour-AL,8.941666667,27457
+Arkansas,AR,Carroll,Carroll-AR,4.783333333,27446
+North Carolina,NC,Cherokee,Cherokee-NC,6.491666667,27444
+West Virginia,WV,Mason,Mason-WV,8.525,27324
+North Carolina,NC,Ashe,Ashe-NC,6.041666667,27281
+Tennessee,TN,Hardeman,Hardeman-TN,7.741666667,27253
+Vermont,VT,Orleans,Orleans-VT,5.75,27231
+South Dakota,SD,Codington,Codington-SD,3.125,27227
+New Mexico,NM,Cibola,Cibola-NM,7.908333333,27213
+Mississippi,MS,Union,Union-MS,5.166666667,27134
+Mississippi,MS,Marion,Marion-MS,7.425,27088
+New York,NY,Lewis,Lewis-NY,7.075,27087
+Idaho,ID,Elmore,Elmore-ID,4.683333333,27038
+South Carolina,SC,Edgefield,Edgefield-SC,6.35,26985
+North Carolina,NC,Anson,Anson-NC,6.558333333,26948
+Indiana,IN,Clay,Clay-IN,5.275,26890
+West Virginia,WV,Mingo,Mingo-WV,13.13333333,26839
+Kentucky,KY,Logan,Logan-KY,4.783333333,26835
+Alabama,AL,Geneva,Geneva-AL,5.841666667,26790
+Wisconsin,WI,Juneau,Juneau-WI,5.233333333,26664
+Texas,TX,Grimes,Grimes-TX,5.4,26604
+Michigan,MI,Oceana,Oceana-MI,1.066666667,26570
+Kentucky,KY,Montgomery,Montgomery-KY,6.625,26499
+Maryland,MD,Somerset,Somerset-MD,8.283333333,26470
+Oklahoma,OK,Jackson,Jackson-OK,3.966666667,26446
+Texas,TX,Uvalde,Uvalde-TX,5.066666667,26405
+Texas,TX,San Jacinto,San Jacinto-TX,5.683333333,26384
+Iowa,IA,Boone,Boone-IA,2.958333333,26306
+West Virginia,WV,Nicholas,Nicholas-WV,9.133333333,26233
+Indiana,IN,Randolph,Randolph-IN,4.958333333,26171
+Michigan,MI,Dickinson,Dickinson-MI,0.883333333,26168
+Michigan,MI,Cheboygan,Cheboygan-MI,0.725,26152
+Mississippi,MS,Coahoma,Coahoma-MS,10.275,26151
+Idaho,ID,Jefferson,Jefferson-ID,3.383333333,26140
+Arkansas,AR,Ouachita,Ouachita-AR,6.625,26120
+Minnesota,MN,Mille Lacs,Mille Lacs-MN,5.8,26097
+Iowa,IA,Benton,Benton-IA,3.791666667,26076
+Tennessee,TN,McNairy,McNairy-TN,8.725,26075
+Tennessee,TN,Hardin,Hardin-TN,7.408333333,26026
+Missouri,MO,Texas,Texas-MO,6.625,26008
+Kansas,KS,Franklin,Franklin-KS,4.633333333,25992
+Alabama,AL,Cherokee,Cherokee-AL,5.433333333,25989
+Arkansas,AR,Cleburne,Cleburne-AR,7.2,25970
+Michigan,MI,Charlevoix,Charlevoix-MI,0.8,25949
+Indiana,IN,Posey,Posey-IN,3.933333333,25910
+Minnesota,MN,Brown,Brown-MN,4.133333333,25893
+Michigan,MI,Iosco,Iosco-MI,1.1,25887
+Minnesota,MN,Lyon,Lyon-MN,3.225,25857
+Tennessee,TN,White,White-TN,6.233333333,25841
+Alabama,AL,Clarke,Clarke-AL,11.75,25833
+Oregon,OR,Union,Union-OR,6.325,25748
+Kentucky,KY,Grayson,Grayson-KY,6.8,25746
+Indiana,IN,Decatur,Decatur-IN,4.008333333,25740
+Michigan,MI,Gladwin,Gladwin-MI,1.133333333,25692
+Virginia,VA,Fluvanna,Fluvanna-VA,3.733333333,25691
+Missouri,MO,Adair,Adair-MO,5.608333333,25607
+Virginia,VA,Lee,Lee-VA,7.225,25587
+Arkansas,AR,Johnson,Johnson-AR,5.991666667,25540
+Colorado,CO,Montezuma,Montezuma-CO,5.633333333,25535
+Missouri,MO,Audrain,Audrain-MO,4.641666667,25529
+Oklahoma,OK,Seminole,Seminole-OK,6.575,25482
+Texas,TX,Shelby,Shelby-TX,5.325,25448
+South Dakota,SD,Meade,Meade-SD,3.225,25434
+South Carolina,SC,Abbeville,Abbeville-SC,6.883333333,25417
+Missouri,MO,Randolph,Randolph-MO,5.925,25414
+New York,NY,Yates,Yates-NY,5.041666667,25348
+Mississippi,MS,Prentiss,Prentiss-MS,6.125,25276
+Oregon,OR,Tillamook,Tillamook-OR,5.783333333,25250
+Nebraska,NE,Cass,Cass-NE,3.283333333,25241
+Oregon,OR,Wasco,Wasco-OR,5.8,25213
+Missouri,MO,Washington,Washington-MO,6.625,25195
+New Mexico,NM,Luna,Luna-NM,17.61666667,25095
+Iowa,IA,Plymouth,Plymouth-IA,2.766666667,24986
+Kentucky,KY,Woodford,Woodford-KY,3.591666667,24939
+Illinois,IL,Saline,Saline-IL,7.691666667,24913
+Minnesota,MN,Todd,Todd-MN,4.366666667,24895
+Nevada,NV,Churchill,Churchill-NV,7.016666667,24877
+Texas,TX,Gillespie,Gillespie-TX,2.908333333,24837
+South Carolina,SC,Jasper,Jasper-SC,5.125,24777
+Texas,TX,Milam,Milam-TX,5.291666667,24757
+Missouri,MO,Miller,Miller-MO,5.975,24748
+Kentucky,KY,Lincoln,Lincoln-KY,6.891666667,24742
+Michigan,MI,Manistee,Manistee-MI,0.95,24733
+Missouri,MO,Crawford,Crawford-MO,6.025,24696
+Tennessee,TN,Hickman,Hickman-TN,5.75,24690
+North Carolina,NC,Hertford,Hertford-NC,7.083333333,24669
+Kentucky,KY,Grant,Grant-KY,5.416666667,24662
+Indiana,IN,White,White-IN,4.075,24643
+Pennsylvania,PA,Juniata,Juniata-PA,4.783333333,24636
+West Virginia,WV,Boone,Boone-WV,9.608333333,24629
+Arkansas,AR,Poinsett,Poinsett-AR,5.7,24583
+Texas,TX,Fayette,Fayette-TX,3.358333333,24554
+Arkansas,AR,Columbia,Columbia-AR,6.758333333,24552
+Kentucky,KY,Letcher,Letcher-KY,11.19166667,24519
+Kentucky,KY,Taylor,Taylor-KY,6.566666667,24512
+North Carolina,NC,Martin,Martin-NC,7.708333333,24505
+Wisconsin,WI,Waushara,Waushara-WI,6.341666667,24496
+Alabama,AL,Winston,Winston-AL,7.6,24484
+Vermont,VT,Lamoille,Lamoille-VT,4.7,24475
+Michigan,MI,Roscommon,Roscommon-MI,1.316666667,24449
+Nebraska,NE,Dawson,Dawson-NE,3.15,24326
+Indiana,IN,Fayette,Fayette-IN,6.533333333,24277
+Iowa,IA,Bremer,Bremer-IA,3.45,24276
+West Virginia,WV,Upshur,Upshur-WV,8.025,24254
+North Dakota,ND,Stark,Stark-ND,2.6,24199
+Indiana,IN,Scott,Scott-IN,5.366666667,24181
+Michigan,MI,Otsego,Otsego-MI,0.925,24164
+Kansas,KS,Sumner,Sumner-KS,4.483333333,24132
+Virginia,VA,Buchanan,Buchanan-VA,10.76666667,24098
+South Dakota,SD,Lawrence,Lawrence-SD,3.258333333,24097
+West Virginia,WV,Brooke,Brooke-WV,7.316666667,24069
+Virginia,VA,Page,Page-VA,6.958333333,24042
+Michigan,MI,Menominee,Menominee-MI,0.9,24029
+West Virginia,WV,Hampshire,Hampshire-WV,5.558333333,23964
+South Carolina,SC,Fairfield,Fairfield-SC,7.966666667,23956
+Kentucky,KY,Ohio,Ohio-KY,6.408333333,23842
+Mississippi,MS,Leake,Leake-MS,6.308333333,23805
+West Virginia,WV,Wyoming,Wyoming-WV,9.675,23796
+Texas,TX,Panola,Panola-TX,5.25,23796
+Ohio,OH,Meigs,Meigs-OH,8.258333333,23770
+Texas,TX,Houston,Houston-TX,4.541666667,23732
+North Carolina,NC,Caswell,Caswell-NC,6.391666667,23719
+Wisconsin,WI,Iowa,Iowa-WI,4.258333333,23687
+Virginia,VA,King George,King George-VA,4.733333333,23584
+Michigan,MI,Antrim,Antrim-MI,1,23580
+North Carolina,NC,Currituck,Currituck-NC,5.866666667,23547
+Utah,UT,Wasatch,Wasatch-UT,3.408333333,23530
+Michigan,MI,Osceola,Osceola-MI,1.075,23528
+Colorado,CO,Routt,Routt-CO,3.233333333,23509
+Missouri,MO,Ray,Ray-MO,5.433333333,23494
+Mississippi,MS,Itawamba,Itawamba-MS,5.808333333,23401
+Texas,TX,Limestone,Limestone-TX,5.075,23384
+Missouri,MO,Saline,Saline-MO,4.725,23370
+Missouri,MO,Nodaway,Nodaway-MO,4.925,23370
+Virginia,VA,Prince Edward,Prince Edward-VA,6.45,23368
+Indiana,IN,Starke,Starke-IN,5.958333333,23363
+Kentucky,KY,Johnson,Johnson-KY,8.408333333,23356
+Colorado,CO,Teller,Teller-CO,4.425,23350
+Kentucky,KY,Rowan,Rowan-KY,5.966666667,23333
+Minnesota,MN,Meeker,Meeker-MN,4.191666667,23300
+Virginia,VA,Scott,Scott-VA,5.133333333,23177
+Texas,TX,Aransas,Aransas-TX,5.083333333,23158
+Indiana,IN,Franklin,Franklin-IN,5.066666667,23087
+Colorado,CO,Elbert,Elbert-CO,3.141666667,23086
+Missouri,MO,McDonald,McDonald-MO,4.583333333,23083
+Alabama,AL,Monroe,Monroe-AL,10.09166667,23068
+Arkansas,AR,Clark,Clark-AR,5.733333333,22995
+Illinois,IL,Jersey,Jersey-IL,6.341666667,22985
+Idaho,ID,Cassia,Cassia-ID,3.35,22952
+Kansas,KS,Seward,Seward-KS,4.366666667,22952
+Texas,TX,Hockley,Hockley-TX,4.2,22935
+Alabama,AL,Bibb,Bibb-AL,6.608333333,22915
+Alabama,AL,Randolph,Randolph-AL,5.866666667,22913
+Colorado,CO,Logan,Logan-CO,3.1,22709
+Oklahoma,OK,Adair,Adair-OK,5.908333333,22683
+Illinois,IL,Jo Daviess,Jo Daviess-IL,5.55,22678
+Tennessee,TN,Grainger,Grainger-TN,6.8,22657
+Idaho,ID,Payette,Payette-ID,4.95,22623
+South Carolina,SC,Barnwell,Barnwell-SC,8.925,22621
+Ohio,OH,Wyandot,Wyandot-OH,3.633333333,22615
+Arkansas,AR,Hempstead,Hempstead-AR,5.15,22609
+Mississippi,MS,George,George-MS,7.566666667,22578
+Virginia,VA,Fairfax City,Fairfax City-VA,3.425,22565
+Texas,TX,Gray,Gray-TX,5.666666667,22535
+South Dakota,SD,Yankton,Yankton-SD,2.65,22438
+North Dakota,ND,Williams,Williams-ND,2.233333333,22398
+Iowa,IA,Mahaska,Mahaska-IA,3.891666667,22381
+Idaho,ID,Jerome,Jerome-ID,3.275,22374
+Oregon,OR,Curry,Curry-OR,8.491666667,22364
+Illinois,IL,Shelby,Shelby-IL,6.05,22363
+Arkansas,AR,Logan,Logan-AR,5.941666667,22353
+Illinois,IL,Perry,Perry-IL,7.241666667,22350
+Oregon,OR,Hood River,Hood River-OR,4.783333333,22346
+Nebraska,NE,Gage,Gage-NE,3.6,22311
+Virginia,VA,Rockbridge,Rockbridge-VA,4.975,22307
+Missouri,MO,Henry,Henry-MO,5.45,22272
+Tennessee,TN,Macon,Macon-TN,5.333333333,22248
+Mississippi,MS,Tippah,Tippah-MS,6.375,22232
+Tennessee,TN,Scott,Scott-TN,9.558333333,22228
+Arkansas,AR,Yell,Yell-AR,5.3,22185
+Texas,TX,Hutchinson,Hutchinson-TX,4.483333333,22150
+Illinois,IL,Fayette,Fayette-IL,6.475,22140
+Texas,TX,Willacy,Willacy-TX,13.09166667,22134
+Oklahoma,OK,Beckham,Beckham-OK,4.825,22119
+West Virginia,WV,McDowell,McDowell-WV,12.95833333,22113
+North Carolina,NC,Northampton,Northampton-NC,7.65,22099
+Tennessee,TN,Overton,Overton-TN,7.308333333,22083
+Tennessee,TN,Morgan,Morgan-TN,7.625,21987
+Mississippi,MS,Grenada,Grenada-MS,6.116666667,21906
+Texas,TX,Moore,Moore-TX,3.166666667,21904
+Arkansas,AR,Ashley,Ashley-AR,7.983333333,21853
+Texas,TX,Tyler,Tyler-TX,7.091666667,21766
+Arkansas,AR,Phillips,Phillips-AR,7.9,21757
+Kentucky,KY,Clay,Clay-KY,9.65,21730
+Mississippi,MS,Newton,Newton-MS,6.225,21720
+Oregon,OR,Jefferson,Jefferson-OR,7.441666667,21720
+West Virginia,WV,Lincoln,Lincoln-WV,9.65,21720
+Virginia,VA,Goochland,Goochland-VA,4.133333333,21717
+Michigan,MI,Leelanau,Leelanau-MI,0.7,21708
+Iowa,IA,Washington,Washington-IA,3.033333333,21704
+Michigan,MI,Ogemaw,Ogemaw-MI,1.175,21699
+Minnesota,MN,Wabasha,Wabasha-MN,3.616666667,21676
+Washington,WA,Asotin,Asotin-WA,4.7,21623
+Kansas,KS,Labette,Labette-KS,5.808333333,21607
+Kansas,KS,Pottawatomie,Pottawatomie-KS,3.558333333,21604
+Kansas,KS,Cherokee,Cherokee-KS,4.491666667,21603
+Indiana,IN,Owen,Owen-IN,6.208333333,21575
+Indiana,IN,Sullivan,Sullivan-IN,6.191666667,21475
+Alabama,AL,Macon,Macon-AL,8.058333333,21452
+Wisconsin,WI,Vilas,Vilas-WI,7.241666667,21430
+Kentucky,KY,Anderson,Anderson-KY,4.233333333,21421
+California,CA,Colusa,Colusa-CA,15.48333333,21419
+Utah,UT,Carbon,Carbon-UT,5.6,21403
+Texas,TX,Calhoun,Calhoun-TX,3.85,21381
+Minnesota,MN,Nobles,Nobles-MN,3.225,21378
+Idaho,ID,Blaine,Blaine-ID,3.525,21376
+North Carolina,NC,Greene,Greene-NC,5.533333333,21362
+Kentucky,KY,Mercer,Mercer-KY,5.083333333,21331
+Wyoming,WY,Teton,Teton-WY,3.9,21294
+North Carolina,NC,Bertie,Bertie-NC,7.275,21282
+Arkansas,AR,Conway,Conway-AR,6.308333333,21273
+Indiana,IN,Jay,Jay-IN,4.975,21253
+Missouri,MO,Vernon,Vernon-MO,4.966666667,21159
+Wyoming,WY,Uinta,Uinta-WY,4.883333333,21118
+North Dakota,ND,Stutsman,Stutsman-ND,2.55,21100
+South Carolina,SC,Hampton,Hampton-SC,8.491666667,21090
+Iowa,IA,Winneshiek,Winneshiek-IA,3.616666667,21056
+Alabama,AL,Marengo,Marengo-AL,7.733333333,21027
+Nebraska,NE,Dakota,Dakota-NE,3.525,21006
+Oregon,OR,Crook,Crook-OR,8.516666667,20978
+North Carolina,NC,Warren,Warren-NC,8.358333333,20972
+Iowa,IA,Buchanan,Buchanan-IA,4.191666667,20958
+Indiana,IN,Spencer,Spencer-IN,4.15,20952
+Alabama,AL,Butler,Butler-AL,7.55,20947
+Washington,WA,Pacific,Pacific-WA,9.141666667,20920
+Iowa,IA,Fayette,Fayette-IA,4.458333333,20880
+Wisconsin,WI,Adams,Adams-WI,7.375,20875
+Texas,TX,Colorado,Colorado-TX,3.991666667,20874
+Minnesota,MN,Fillmore,Fillmore-MN,4.1,20866
+Minnesota,MN,Martin,Martin-MN,4.1,20840
+Indiana,IN,Fulton,Fulton-IN,4.783333333,20836
+Iowa,IA,Carroll,Carroll-IA,2.591666667,20816
+Kentucky,KY,Wayne,Wayne-KY,8.066666667,20813
+Utah,UT,Sevier,Sevier-UT,4.391666667,20802
+Nebraska,NE,Saunders,Saunders-NE,3.05,20780
+North Carolina,NC,Madison,Madison-NC,5.666666667,20764
+Mississippi,MS,Wayne,Wayne-MS,7.966666667,20747
+Missouri,MO,Clinton,Clinton-MO,4.858333333,20743
+Wisconsin,WI,Taylor,Taylor-WI,4.408333333,20689
+Arkansas,AR,Polk,Polk-AR,5.991666667,20662
+Oklahoma,OK,Texas,Texas-OK,3.141666667,20640
+Iowa,IA,Jones,Jones-IA,4.075,20638
+Mississippi,MS,Clay,Clay-MS,9.625,20634
+Wisconsin,WI,Kewaunee,Kewaunee-WI,4.1,20574
+Missouri,MO,Morgan,Morgan-MO,6.716666667,20565
+North Carolina,NC,Polk,Polk-NC,5.108333333,20510
+New Mexico,NM,Lincoln,Lincoln-NM,5.825,20497
+Arizona,AZ,La Paz,La Paz-AZ,7.625,20489
+Texas,TX,Bandera,Bandera-TX,3.983333333,20485
+Wisconsin,WI,Jackson,Jackson-WI,4.85,20449
+Minnesota,MN,Hubbard,Hubbard-MN,6.183333333,20428
+Washington,WA,Klickitat,Klickitat-WA,7.166666667,20318
+Iowa,IA,Buena Vista,Buena Vista-IA,3.583333333,20260
+Oklahoma,OK,McIntosh,McIntosh-OK,8.408333333,20252
+Nebraska,NE,Washington,Washington-NE,2.958333333,20234
+Texas,TX,Jones,Jones-TX,5.491666667,20202
+Maryland,MD,Kent,Kent-MD,5.466666667,20197
+Indiana,IN,Carroll,Carroll-IN,4.266666667,20155
+Iowa,IA,Henry,Henry-IA,3.883333333,20145
+Texas,TX,Dewitt,Dewitt-TX,3.991666667,20097
+Minnesota,MN,Dodge,Dodge-MN,3.691666667,20087
+Oklahoma,OK,Woodward,Woodward-OK,4.925,20081
+Idaho,ID,Minidoka,Minidoka-ID,3.675,20069
+Kentucky,KY,Breckinridge,Breckinridge-KY,6.066666667,20059
+California,CA,Plumas,Plumas-CA,10.45,20007
+Kentucky,KY,Bourbon,Bourbon-KY,4.85,19985
+Illinois,IL,Douglas,Douglas-IL,4.966666667,19980
+Wisconsin,WI,Langlade,Langlade-WI,6.158333333,19977
+Kentucky,KY,Allen,Allen-KY,5,19956
+South Carolina,SC,Saluda,Saluda-SC,5.225,19875
+Iowa,IA,Jackson,Jackson-IA,4.158333333,19848
+New Mexico,NM,Roosevelt,Roosevelt-NM,5.508333333,19846
+Indiana,IN,Orange,Orange-IN,5.95,19840
+Kentucky,KY,Marion,Marion-KY,5.091666667,19820
+Illinois,IL,Crawford,Crawford-IL,5.958333333,19817
+Texas,TX,Freestone,Freestone-TX,5.45,19816
+Texas,TX,Gonzales,Gonzales-TX,3.741666667,19807
+Kansas,KS,Dickinson,Dickinson-KS,5.241666667,19754
+Alabama,AL,Pickens,Pickens-AL,6.766666667,19746
+Texas,TX,Montague,Montague-TX,4.275,19719
+Montana,MT,Lincoln,Lincoln-MT,10.025,19687
+Texas,TX,Lampasas,Lampasas-TX,4.425,19677
+Ohio,OH,Paulding,Paulding-OH,4.783333333,19614
+Mississippi,MS,Tishomingo,Tishomingo-MS,6.45,19593
+Mississippi,MS,Covington,Covington-MS,5.925,19568
+Mississippi,MS,Attala,Attala-MS,7.716666667,19564
+South Dakota,SD,Davison,Davison-SD,2.591666667,19504
+Texas,TX,Deaf Smith,Deaf Smith-TX,3.208333333,19372
+Indiana,IN,Perry,Perry-IN,4.691666667,19338
+Texas,TX,Llano,Llano-TX,4.3,19301
+Texas,TX,Lavaca,Lavaca-TX,3.85,19263
+South Carolina,SC,Lee,Lee-SC,8.508333333,19220
+Mississippi,MS,Winston,Winston-MS,8.35,19198
+Mississippi,MS,Holmes,Holmes-MS,12.11666667,19198
+Tennessee,TN,Smith,Smith-TN,5.708333333,19166
+Minnesota,MN,Waseca,Waseca-MN,4.208333333,19136
+Kansas,KS,Jefferson,Jefferson-KS,4.241666667,19126
+Tennessee,TN,Union,Union-TN,6.883333333,19109
+Illinois,IL,Hancock,Hancock-IL,6.4,19104
+Missouri,MO,Benton,Benton-MO,6.491666667,19056
+Wisconsin,WI,Green Lake,Green Lake-WI,5.45,19051
+Minnesota,MN,Houston,Houston-MN,3.833333333,19027
+Arkansas,AR,Arkansas,Arkansas-AR,4.383333333,19019
+Missouri,MO,Perry,Perry-MO,4.183333333,18971
+Missouri,MO,New Madrid,New Madrid-MO,6.2,18956
+Iowa,IA,Poweshiek,Poweshiek-IA,3.591666667,18914
+Kentucky,KY,Harrison,Harrison-KY,4.691666667,18846
+Colorado,CO,Otero,Otero-CO,5.8,18831
+Missouri,MO,Wright,Wright-MO,6.166666667,18815
+Tennessee,TN,Haywood,Haywood-TN,8.583333333,18787
+Washington,WA,Adams,Adams-WA,6.933333333,18728
+Tennessee,TN,Dekalb,Dekalb-TN,7,18723
+Kentucky,KY,Adair,Adair-KY,7.583333333,18656
+Utah,UT,Duchesne,Duchesne-UT,7.341666667,18607
+Texas,TX,Eastland,Eastland-TX,4.775,18583
+Illinois,IL,Edgar,Edgar-IL,6.4,18576
+Virginia,VA,Southampton,Southampton-VA,4.016666667,18570
+Texas,TX,Young,Young-TX,4.341666667,18550
+California,CA,Inyo,Inyo-CA,5.825,18546
+Tennessee,TN,Humphreys,Humphreys-TN,6.933333333,18538
+Missouri,MO,Pike,Pike-MO,4.608333333,18516
+Arkansas,AR,Drew,Drew-AR,7.15,18509
+Iowa,IA,Cedar,Cedar-IA,3.358333333,18499
+Virginia,VA,Patrick,Patrick-VA,5.491666667,18490
+Virginia,VA,New Kent,New Kent-VA,3.8,18429
+Virginia,VA,Greene,Greene-VA,3.666666667,18403
+New York,NY,Schuyler,Schuyler-NY,6.583333333,18343
+Tennessee,TN,Unicoi,Unicoi-TN,8.141666667,18313
+Kentucky,KY,McCreary,McCreary-KY,8.291666667,18306
+Missouri,MO,Pemiscot,Pemiscot-MO,9.058333333,18296
+Pennsylvania,PA,Montour,Montour-PA,4.183333333,18267
+California,CA,Mariposa,Mariposa-CA,7.308333333,18251
+Tennessee,TN,Johnson,Johnson-TN,5.825,18244
+Texas,TX,Bosque,Bosque-TX,4.55,18212
+Kentucky,KY,Hart,Hart-KY,5.2,18199
+Iowa,IA,Clayton,Clayton-IA,4.075,18129
+Arkansas,AR,Franklin,Franklin-AR,5.15,18125
+Wyoming,WY,Lincoln,Lincoln-WY,4.641666667,18106
+Wisconsin,WI,Richland,Richland-WI,4.291666667,18021
+Arkansas,AR,Jackson,Jackson-AR,7.791666667,17997
+Arkansas,AR,Randolph,Randolph-AR,7.375,17969
+Tennessee,TN,Fentress,Fentress-TN,7.391666667,17959
+New Mexico,NM,Los Alamos,Los Alamos-NM,4.075,17950
+Arkansas,AR,Cross,Cross-AR,5.633333333,17870
+New Mexico,NM,Socorro,Socorro-NM,7.575,17866
+Texas,TX,Falls,Falls-TX,4.283333333,17866
+Arkansas,AR,Grant,Grant-AR,4.691666667,17853
+North Carolina,NC,Yancey,Yancey-NC,5.941666667,17818
+Colorado,CO,Chaffee,Chaffee-CO,3.416666667,17809
+Illinois,IL,Union,Union-IL,7.758333333,17808
+North Carolina,NC,Avery,Avery-NC,5.983333333,17797
+Mississippi,MS,Stone,Stone-MS,7.491666667,17786
+Illinois,IL,Bond,Bond-IL,5.333333333,17768
+Iowa,IA,Tama,Tama-IA,4.3,17767
+Iowa,IA,Delaware,Delaware-IA,3.308333333,17764
+Illinois,IL,Warren,Warren-IL,5.433333333,17707
+Missouri,MO,Cooper,Cooper-MO,5.808333333,17601
+Alabama,AL,Washington,Washington-AL,8.85,17581
+Kentucky,KY,Russell,Russell-KY,11.925,17565
+West Virginia,WV,Morgan,Morgan-WV,5.541666667,17541
+Maine,ME,Piscataquis,Piscataquis-ME,5.766666667,17535
+Iowa,IA,Hardin,Hardin-IA,3.883333333,17534
+Texas,TX,Gaines,Gaines-TX,3.241666667,17526
+Michigan,MI,Benzie,Benzie-MI,0.95,17525
+Kentucky,KY,Mason,Mason-KY,6.075,17490
+Pennsylvania,PA,Potter,Potter-PA,6.75,17457
+Virginia,VA,Westmoreland,Westmoreland-VA,5.408333333,17454
+Virginia,VA,Brunswick,Brunswick-VA,6.791666667,17434
+Arkansas,AR,Lawrence,Lawrence-AR,6.233333333,17415
+South Dakota,SD,Beadle,Beadle-SD,2.666666667,17398
+Mississippi,MS,Chickasaw,Chickasaw-MS,7.766666667,17392
+Indiana,IN,Rush,Rush-IN,4.35,17392
+Indiana,IN,Parke,Parke-IN,5.675,17339
+Kentucky,KY,Simpson,Simpson-KY,4.841666667,17327
+Alabama,AL,Henry,Henry-AL,6.766666667,17302
+Arkansas,AR,Van Buren,Van Buren-AR,6.958333333,17295
+Missouri,MO,Andrew,Andrew-MO,4.158333333,17291
+Virginia,VA,Giles,Giles-VA,5.125,17286
+Arkansas,AR,Sharp,Sharp-AR,7.141666667,17264
+Alabama,AL,Fayette,Fayette-AL,7,17241
+Indiana,IN,Fountain,Fountain-IN,5.925,17240
+Texas,TX,Frio,Frio-TX,3.841666667,17217
+Texas,TX,Burleson,Burleson-TX,4.425,17187
+Michigan,MI,Kalkaska,Kalkaska-MI,1.075,17153
+Colorado,CO,Pitkin,Pitkin-CO,3.875,17148
+Virginia,VA,Buckingham,Buckingham-VA,5.841666667,17146
+Tennessee,TN,Chester,Chester-TN,6.075,17131
+Iowa,IA,Crawford,Crawford-IA,4.083333333,17096
+Mississippi,MS,Jasper,Jasper-MS,7.866666667,17062
+Kentucky,KY,Spencer,Spencer-KY,4.383333333,17061
+Arkansas,AR,Sevier,Sevier-AR,6.333333333,17058
+Kentucky,KY,Rockcastle,Rockcastle-KY,6.575,17056
+Missouri,MO,Bates,Bates-MO,6.033333333,17049
+South Dakota,SD,Hughes,Hughes-SD,2.45,17022
+Tennessee,TN,Wayne,Wayne-TN,7.416666667,17021
+Kansas,KS,Atchison,Atchison-KS,6.141666667,16924
+Texas,TX,Scurry,Scurry-TX,4.133333333,16921
+Kentucky,KY,Garrard,Garrard-KY,5.166666667,16912
+West Virginia,WV,Taylor,Taylor-WV,6.008333333,16895
+Iowa,IA,Jefferson,Jefferson-IA,3.741666667,16843
+Wisconsin,WI,Lafayette,Lafayette-WI,3.741666667,16836
+Illinois,IL,Lawrence,Lawrence-IL,7.125,16833
+Tennessee,TN,Polk,Polk-TN,6.75,16825
+Texas,TX,Leon,Leon-TX,5.35,16801
+Missouri,MO,Dallas,Dallas-MO,6.15,16777
+Illinois,IL,Wayne,Wayne-IL,6.958333333,16760
+Nebraska,NE,Seward,Seward-NE,2.858333333,16750
+Mississippi,MS,Clarke,Clarke-MS,7.95,16732
+Illinois,IL,Piatt,Piatt-IL,5.1,16729
+Idaho,ID,Gem,Gem-ID,5.108333333,16719
+Iowa,IA,Clay,Clay-IA,3.583333333,16667
+Iowa,IA,Dickinson,Dickinson-IA,3.85,16667
+Arkansas,AR,Marion,Marion-AR,5.441666667,16653
+Wisconsin,WI,Crawford,Crawford-WI,5.916666667,16644
+Texas,TX,Robertson,Robertson-TX,4.825,16622
+Texas,TX,Lee,Lee-TX,3.583333333,16612
+West Virginia,WV,Barbour,Barbour-WV,7.358333333,16589
+West Virginia,WV,Wetzel,Wetzel-WV,10.03333333,16583
+Oklahoma,OK,Pawnee,Pawnee-OK,5.583333333,16577
+Illinois,IL,De Witt,De Witt-IL,5.541666667,16561
+Wisconsin,WI,Sawyer,Sawyer-WI,8,16557
+Massachusetts,MA,Dukes,Dukes-MA,7.2,16535
+Nevada,NV,Humboldt,Humboldt-NV,5.883333333,16528
+Kansas,KS,Neosho,Neosho-KS,7.491666667,16512
+Mississippi,MS,Smith,Smith-MS,5.483333333,16491
+Tennessee,TN,Benton,Benton-TN,7.816666667,16489
+Illinois,IL,Mercer,Mercer-IL,6.241666667,16434
+Illinois,IL,Pike,Pike-IL,5.183333333,16430
+Michigan,MI,Gogebic,Gogebic-MI,1.191666667,16427
+New Mexico,NM,Torrance,Torrance-NM,9.025,16383
+West Virginia,WV,Lewis,Lewis-WV,8.233333333,16372
+Iowa,IA,Iowa,Iowa-IA,3.458333333,16355
+Kentucky,KY,Knott,Knott-KY,9.908333333,16346
+Illinois,IL,Clark,Clark-IL,6.25,16335
+North Dakota,ND,Richland,Richland-ND,2.691666667,16321
+Iowa,IA,Floyd,Floyd-IA,3.716666667,16303
+Kansas,KS,Osage,Osage-KS,5.008333333,16295
+Idaho,ID,Idaho,Idaho-ID,6.125,16267
+Virginia,VA,Alleghany,Alleghany-VA,5.075,16250
+Minnesota,MN,Kanabec,Kanabec-MN,6.741666667,16239
+Illinois,IL,Richland,Richland-IL,6.016666667,16233
+Indiana,IN,Vermillion,Vermillion-IN,7.058333333,16212
+Colorado,CO,Park,Park-CO,3.441666667,16206
+Minnesota,MN,Aitkin,Aitkin-MN,6,16202
+Wisconsin,WI,Ashland,Ashland-WI,6.325,16157
+Oregon,OR,Baker,Baker-OR,6.908333333,16134
+Montana,MT,Hill,Hill-MT,4.233333333,16096
+Arkansas,AR,Clay,Clay-AR,6.85,16083
+Minnesota,MN,Redwood,Redwood-MN,3.9,16059
+South Carolina,SC,Bamberg,Bamberg-SC,10.48333333,15987
+Kentucky,KY,Casey,Casey-KY,5.733333333,15955
+Indiana,IN,Tipton,Tipton-IN,3.991666667,15936
+Virginia,VA,King William,King William-VA,4.208333333,15935
+Iowa,IA,Page,Page-IA,4.041666667,15932
+Wisconsin,WI,Washburn,Washburn-WI,5.483333333,15911
+Virginia,VA,Dickenson,Dickenson-VA,10.06666667,15903
+Michigan,MI,Arenac,Arenac-MI,1.25,15899
+Wyoming,WY,Carbon,Carbon-WY,3.616666667,15885
+Ohio,OH,Harrison,Harrison-OH,6.258333333,15864
+Kentucky,KY,Lawrence,Lawrence-KY,9.366666667,15860
+Virginia,VA,Nottoway,Nottoway-VA,4.516666667,15853
+Oklahoma,OK,Marshall,Marshall-OK,5.291666667,15840
+Washington,WA,San Juan,San Juan-WA,4.85,15769
+Alabama,AL,Hale,Hale-AL,7.833333333,15760
+Nebraska,NE,Otoe,Otoe-NE,3.266666667,15740
+Minnesota,MN,Renville,Renville-MN,4.841666667,15730
+Arkansas,AR,Madison,Madison-AR,3.941666667,15717
+Iowa,IA,Madison,Madison-IA,3.808333333,15679
+Iowa,IA,Hamilton,Hamilton-IA,4.183333333,15673
+Missouri,MO,Dent,Dent-MO,5.816666667,15657
+Montana,MT,Park,Park-MT,4.816666667,15636
+Minnesota,MN,Roseau,Roseau-MN,4.083333333,15629
+Missouri,MO,Moniteau,Moniteau-MO,4.891666667,15607
+North Carolina,NC,Mitchell,Mitchell-NC,6.958333333,15579
+Missouri,MO,Macon,Macon-MO,5.341666667,15566
+Iowa,IA,Kossuth,Kossuth-IA,2.816666667,15543
+Virginia,VA,Grayson,Grayson-VA,5.816666667,15533
+Colorado,CO,Las Animas,Las Animas-CO,5.6,15507
+Texas,TX,Pecos,Pecos-TX,5.166666667,15507
+Idaho,ID,Gooding,Gooding-ID,3.408333333,15464
+Wisconsin,WI,Burnett,Burnett-WI,7.141666667,15457
+Colorado,CO,Alamosa,Alamosa-CO,5.158333333,15445
+Mississippi,MS,Walthall,Walthall-MS,8.191666667,15443
+Illinois,IL,Massac,Massac-IL,7.358333333,15429
+Kentucky,KY,Henry,Henry-KY,4.791666667,15416
+Wisconsin,WI,Marquette,Marquette-WI,6.225,15404
+Illinois,IL,Carroll,Carroll-IL,5.525,15387
+Mississippi,MS,Tallahatchie,Tallahatchie-MS,7.616666667,15378
+Colorado,CO,Gunnison,Gunnison-CO,2.925,15324
+Virginia,VA,Floyd,Floyd-VA,3.975,15279
+Indiana,IN,Brown,Brown-IN,4.758333333,15242
+Minnesota,MN,Sibley,Sibley-MN,4.1,15226
+Missouri,MO,Gasconade,Gasconade-MO,4.216666667,15222
+Texas,TX,Nolan,Nolan-TX,4.108333333,15216
+Oklahoma,OK,Choctaw,Choctaw-OK,7.416666667,15205
+Missouri,MO,Livingston,Livingston-MO,4.291666667,15195
+South Carolina,SC,Calhoun,Calhoun-SC,7.025,15175
+Kansas,KS,Bourbon,Bourbon-KS,4.866666667,15173
+Iowa,IA,Mills,Mills-IA,3.966666667,15059
+Ohio,OH,Morgan,Morgan-OH,7.258333333,15054
+Oklahoma,OK,Kingfisher,Kingfisher-OK,3.008333333,15034
+Oklahoma,OK,Craig,Craig-OK,4.65,15029
+Virginia,VA,Nelson,Nelson-VA,4.025,15020
+Wisconsin,WI,Bayfield,Bayfield-WI,8.433333333,15014
+Kentucky,KY,Union,Union-KY,6.858333333,15007
+Virginia,VA,Appomattox,Appomattox-VA,4.858333333,14973
+Alabama,AL,Cleburne,Cleburne-AL,6.008333333,14972
+Mississippi,MS,Calhoun,Calhoun-MS,6.358333333,14962
+Iowa,IA,Harrison,Harrison-IA,3.3,14928
+West Virginia,WV,Roane,Roane-WV,11.46666667,14926
+Kentucky,KY,Pendleton,Pendleton-KY,5.475,14877
+Iowa,IA,Butler,Butler-IA,4.283333333,14867
+Michigan,MI,Missaukee,Missaukee-MI,0.983333333,14849
+Illinois,IL,Moultrie,Moultrie-IL,4.408333333,14846
+Pennsylvania,PA,Fulton,Fulton-PA,6.008333333,14845
+Colorado,CO,Grand,Grand-CO,3.183333333,14843
+Texas,TX,Karnes,Karnes-TX,4.25,14824
+North Carolina,NC,Chowan,Chowan-NC,7.241666667,14793
+Texas,TX,Andrews,Andrews-TX,3.475,14786
+Wisconsin,WI,Rusk,Rusk-WI,5.566666667,14755
+Utah,UT,San Juan,San Juan-UT,7.766666667,14746
+Illinois,IL,Washington,Washington-IL,3.891666667,14716
+Kentucky,KY,Estill,Estill-KY,6.2,14672
+Illinois,IL,Mason,Mason-IL,7.191666667,14666
+Illinois,IL,White,White-IL,5.8,14665
+Ohio,OH,Noble,Noble-OH,7.375,14645
+Ohio,OH,Monroe,Monroe-OH,9.95,14642
+Tennessee,TN,Crockett,Crockett-TN,6.591666667,14586
+Texas,TX,Trinity,Trinity-TX,5.958333333,14585
+Alabama,AL,Lamar,Lamar-AL,6.283333333,14564
+Minnesota,MN,Faribault,Faribault-MN,4.358333333,14553
+West Virginia,WV,Braxton,Braxton-WV,9.016666667,14523
+Texas,TX,Newton,Newton-TX,7.45,14445
+Mississippi,MS,Greene,Greene-MS,7.866666667,14400
+South Dakota,SD,Union,Union-SD,3.458333333,14399
+Iowa,IA,O'Brien,O'Brien-IA,2.766666667,14398
+Missouri,MO,Mississippi,Mississippi-MO,5.858333333,14358
+Kentucky,KY,Fleming,Fleming-KY,6.266666667,14348
+Kentucky,KY,Trigg,Trigg-KY,5.833333333,14339
+Iowa,IA,Allamakee,Allamakee-IA,4.825,14330
+Indiana,IN,Newton,Newton-IN,5.733333333,14244
+California,CA,Mono,Mono-CA,6.158333333,14202
+Nebraska,NE,Saline,Saline-NE,2.925,14200
+Kentucky,KY,Larue,Larue-KY,5.283333333,14193
+Oklahoma,OK,Atoka,Atoka-OK,6.358333333,14182
+Wisconsin,WI,Price,Price-WI,4.583333333,14159
+Arkansas,AR,Lincoln,Lincoln-AR,6.358333333,14134
+Tennessee,TN,Sequatchie,Sequatchie-TN,6.675,14112
+Missouri,MO,Ripley,Ripley-MO,7.933333333,14100
+Illinois,IL,Ford,Ford-IL,5.433333333,14081
+Texas,TX,Jackson,Jackson-TX,3.783333333,14075
+Michigan,MI,Crawford,Crawford-MI,1.158333333,14074
+Virginia,VA,Clarke,Clarke-VA,3.933333333,14034
+West Virginia,WV,Hardy,Hardy-WV,7.541666667,14025
+Texas,TX,Zapata,Zapata-TX,7.708333333,14018
+Oklahoma,OK,Hughes,Hughes-OK,7.233333333,14003
+Missouri,MO,Cedar,Cedar-MO,5.3,13982
+North Carolina,NC,Swain,Swain-NC,7.883333333,13981
+Texas,TX,Lamb,Lamb-TX,9.008333333,13977
+Texas,TX,Comanche,Comanche-TX,4.308333333,13974
+Iowa,IA,Cass,Cass-IA,3.558333333,13956
+North Dakota,ND,Rolette,Rolette-ND,10.05833333,13937
+Alabama,AL,Clay,Clay-AL,6.141666667,13932
+Minnesota,MN,Pennington,Pennington-MN,5.191666667,13930
+West Virginia,WV,Summers,Summers-WV,7.041666667,13927
+Kentucky,KY,Morgan,Morgan-KY,7.958333333,13923
+Alabama,AL,Crenshaw,Crenshaw-AL,6,13906
+Illinois,IL,Greene,Greene-IL,6.208333333,13886
+Kentucky,KY,Breathitt,Breathitt-KY,9.525,13878
+Missouri,MO,Osage,Osage-MO,3.741666667,13878
+Kentucky,KY,Lewis,Lewis-KY,8.558333333,13870
+South Dakota,SD,Clay,Clay-SD,3.108333333,13864
+Alabama,AL,Choctaw,Choctaw-AL,9.108333333,13859
+Minnesota,MN,Wadena,Wadena-MN,5.883333333,13843
+Wyoming,WY,Converse,Converse-WY,3.591666667,13833
+Texas,TX,Dawson,Dawson-TX,4.55,13833
+Illinois,IL,Clay,Clay-IL,7.075,13815
+Tennessee,TN,Cannon,Cannon-TN,5.816666667,13801
+Colorado,CO,Moffat,Moffat-CO,4.491666667,13795
+Arkansas,AR,Howard,Howard-AR,4.4,13789
+California,CA,Trinity,Trinity-CA,7.858333333,13786
+Texas,TX,Reeves,Reeves-TX,4.816666667,13783
+Alabama,AL,Sumter,Sumter-AL,7.966666667,13763
+New Mexico,NM,Colfax,Colfax-NM,6.15,13750
+Tennessee,TN,Grundy,Grundy-TN,7.908333333,13703
+Arkansas,AR,Izard,Izard-AR,6.866666667,13696
+Missouri,MO,Douglas,Douglas-MO,6.825,13684
+Nebraska,NE,York,York-NE,2.908333333,13665
+Texas,TX,Madison,Madison-TX,4.3,13664
+Illinois,IL,Cass,Cass-IL,5.7,13642
+Kentucky,KY,Webster,Webster-KY,5.183333333,13621
+Wisconsin,WI,Buffalo,Buffalo-WI,5,13587
+South Dakota,SD,Shannon,Shannon-SD,11.525,13586
+Texas,TX,Callahan,Callahan-TX,4.275,13544
+Texas,TX,Wilbarger,Wilbarger-TX,4.891666667,13535
+Missouri,MO,Wayne,Wayne-MO,5.808333333,13521
+West Virginia,WV,Monroe,Monroe-WV,5.583333333,13502
+Kentucky,KY,Jackson,Jackson-KY,8.575,13494
+Oklahoma,OK,Murray,Murray-OK,4.091666667,13488
+Kansas,KS,Jackson,Jackson-KS,3.716666667,13462
+North Carolina,NC,Perquimans,Perquimans-NC,7.125,13453
+Ohio,OH,Vinton,Vinton-OH,6.583333333,13435
+Indiana,IN,Pulaski,Pulaski-IN,4.508333333,13402
+Montana,MT,Glacier,Glacier-MT,9.025,13399
+Michigan,MI,Presque Isle,Presque Isle-MI,1.308333333,13376
+Kansas,KS,Allen,Allen-KS,5.175,13371
+Kentucky,KY,Magoffin,Magoffin-KY,14.65,13333
+Tennessee,TN,Stewart,Stewart-TN,7.841666667,13324
+Minnesota,MN,Koochiching,Koochiching-MN,8.1,13311
+Virginia,VA,Madison,Madison-VA,3.491666667,13308
+Wyoming,WY,Goshen,Goshen-WY,3.191666667,13249
+Idaho,ID,Fremont,Fremont-ID,3.566666667,13242
+Iowa,IA,Wright,Wright-IA,3.808333333,13229
+Alabama,AL,Conecuh,Conecuh-AL,9.175,13228
+North Carolina,NC,Washington,Washington-NC,8.816666667,13228
+Arkansas,AR,Little River,Little River-AR,5.641666667,13171
+North Carolina,NC,Pamlico,Pamlico-NC,6.058333333,13144
+Mississippi,MS,Amite,Amite-MS,7.691666667,13131
+Arkansas,AR,Desha,Desha-AR,7.591666667,13008
+Washington,WA,Pend Oreille,Pend Oreille-WA,9.416666667,13001
+Kentucky,KY,Caldwell,Caldwell-KY,5.633333333,12984
+Texas,TX,Morris,Morris-TX,8.883333333,12934
+Mississippi,MS,Lawrence,Lawrence-MS,7.416666667,12929
+Kentucky,KY,Martin,Martin-KY,9.558333333,12929
+Virginia,VA,Lunenburg,Lunenburg-VA,5.208333333,12914
+Missouri,MO,Dekalb,Dekalb-MO,4.641666667,12892
+Iowa,IA,Appanoose,Appanoose-IA,4.808333333,12887
+Tennessee,TN,Bledsoe,Bledsoe-TN,7.933333333,12876
+Montana,MT,Big Horn,Big Horn-MT,6.633333333,12865
+Texas,TX,Red River,Red River-TX,6.35,12860
+Indiana,IN,Pike,Pike-IN,4.366666667,12845
+Idaho,ID,Franklin,Franklin-ID,3.075,12786
+Oklahoma,OK,Haskell,Haskell-OK,7.641666667,12769
+Indiana,IN,Blackford,Blackford-IN,6.025,12766
+Idaho,ID,Shoshone,Shoshone-ID,7.725,12765
+Missouri,MO,Linn,Linn-MO,6.958333333,12761
+Illinois,IL,Menard,Menard-IL,4.766666667,12705
+Virginia,VA,Amelia,Amelia-VA,4.441666667,12690
+Kentucky,KY,Butler,Butler-KY,5.983333333,12690
+Mississippi,MS,Yalobusha,Yalobusha-MS,7.125,12678
+Kansas,KS,Marion,Marion-KS,3.866666667,12660
+Texas,TX,Terry,Terry-TX,4.733333333,12651
+Illinois,IL,Marshall,Marshall-IL,6.658333333,12640
+Kentucky,KY,Powell,Powell-KY,7.258333333,12613
+Virginia,VA,Charlotte,Charlotte-VA,5.741666667,12586
+Illinois,IL,Johnson,Johnson-IL,8.575,12582
+Colorado,CO,Prowers,Prowers-CO,4.066666667,12551
+Iowa,IA,Union,Union-IA,4.058333333,12534
+Utah,UT,Millard,Millard-UT,3.491666667,12503
+Mississippi,MS,Jefferson Davis,Jefferson Davis-MS,8.75,12487
+Kentucky,KY,Todd,Todd-KY,4.741666667,12460
+Iowa,IA,Grundy,Grundy-IA,3.708333333,12453
+Minnesota,MN,Chippewa,Chippewa-MN,4.4,12441
+Iowa,IA,Chickasaw,Chickasaw-IA,4.425,12439
+Missouri,MO,Barton,Barton-MO,5.45,12402
+Texas,TX,Camp,Camp-TX,6.25,12401
+Arkansas,AR,Stone,Stone-AR,6.533333333,12394
+Virginia,VA,Northampton,Northampton-VA,6.141666667,12389
+Missouri,MO,Bollinger,Bollinger-MO,5.591666667,12363
+Virginia,VA,Northumberland,Northumberland-VA,6.158333333,12330
+Mississippi,MS,Perry,Perry-MS,8,12250
+Arkansas,AR,Fulton,Fulton-AR,5.35,12245
+Virginia,VA,Greensville,Greensville-VA,5.383333333,12243
+Missouri,MO,Montgomery,Montgomery-MO,4.991666667,12236
+Missouri,MO,Madison,Madison-MO,5.808333333,12226
+North Carolina,NC,Gates,Gates-NC,5.508333333,12197
+Oklahoma,OK,Okfuskee,Okfuskee-OK,5.7,12191
+Iowa,IA,Shelby,Shelby-IA,2.783333333,12167
+Tennessee,TN,Lewis,Lewis-TN,7.533333333,12161
+Kentucky,KY,Edmonson,Edmonson-KY,7.133333333,12161
+Virginia,VA,Sussex,Sussex-VA,6.766666667,12087
+Colorado,CO,Archuleta,Archuleta-CO,4.05,12084
+Iowa,IA,Cherokee,Cherokee-IA,5.083333333,12072
+New Mexico,NM,Sierra,Sierra-NM,9.191666667,11988
+Colorado,CO,Rio Grande,Rio Grande-CO,6.291666667,11982
+Illinois,IL,Wabash,Wabash-IL,5.65,11947
+Oklahoma,OK,Blaine,Blaine-OK,3.691666667,11943
+West Virginia,WV,Grant,Grant-WV,7.625,11937
+Michigan,MI,Iron,Iron-MI,1.016666667,11817
+Arkansas,AR,Chicot,Chicot-AR,9.366666667,11800
+Texas,TX,Duval,Duval-TX,8.241666667,11782
+Tennessee,TN,Decatur,Decatur-TN,8.166666667,11757
+Tennessee,TN,Meigs,Meigs-TN,7.766666667,11753
+Kentucky,KY,Washington,Washington-KY,4.441666667,11717
+Montana,MT,Custer,Custer-MT,3.258333333,11699
+Minnesota,MN,Cottonwood,Cottonwood-MN,4.741666667,11687
+Texas,TX,Zavala,Zavala-TX,11.10833333,11677
+Alabama,AL,Wilcox,Wilcox-AL,14.63333333,11670
+Wyoming,WY,Big Horn,Big Horn-WY,4.333333333,11668
+Tennessee,TN,Jackson,Jackson-TN,8.05,11638
+Oklahoma,OK,Washita,Washita-OK,5.333333333,11629
+Kentucky,KY,Bath,Bath-KY,7.791666667,11591
+Montana,MT,Fergus,Fergus-MT,4.158333333,11586
+Iowa,IA,Lyon,Lyon-IA,1.941666667,11581
+Oklahoma,OK,Pushmataha,Pushmataha-OK,7.575,11572
+Oklahoma,OK,Noble,Noble-OK,3.441666667,11561
+Mississippi,MS,Noxubee,Noxubee-MS,9.891666667,11545
+Alabama,AL,Coosa,Coosa-AL,6.741666667,11539
+Michigan,MI,Lake,Lake-MI,1.316666667,11539
+Texas,TX,Live Oak,Live Oak-TX,4.108333333,11531
+Idaho,ID,Owyhee,Owyhee-ID,4.675,11526
+Arkansas,AR,Bradley,Bradley-AR,6.225,11508
+North Dakota,ND,Ramsey,Ramsey-ND,3.366666667,11451
+Montana,MT,Sanders,Sanders-MT,8.216666667,11413
+Montana,MT,Jefferson,Jefferson-MT,4.008333333,11406
+Virginia,VA,Lancaster,Lancaster-VA,6.716666667,11391
+Iowa,IA,Louisa,Louisa-IA,3.725,11387
+Iowa,IA,Hancock,Hancock-IA,2.666666667,11341
+Kentucky,KY,Leslie,Leslie-KY,10.83333333,11310
+Nebraska,NE,Box Butte,Box Butte-NE,3.05,11308
+Alabama,AL,Lowndes,Lowndes-AL,11.58333333,11299
+Arkansas,AR,Pike,Pike-AR,6.216666667,11291
+Kentucky,KY,Green,Green-KY,5.466666667,11258
+Arkansas,AR,Scott,Scott-AR,4.975,11233
+Minnesota,MN,Watonwan,Watonwan-MN,4.683333333,11211
+South Dakota,SD,Lake,Lake-SD,3.608333333,11200
+Oregon,OR,Morrow,Morrow-OR,5.816666667,11173
+North Carolina,NC,Alleghany,Alleghany-NC,6.183333333,11155
+Oklahoma,OK,Latimer,Latimer-OK,7.875,11154
+Virginia,VA,Essex,Essex-VA,5.416666667,11151
+North Dakota,ND,Walsh,Walsh-ND,4.125,11119
+Michigan,MI,Mackinac,Mackinac-MI,0.533333333,11113
+North Dakota,ND,Barnes,Barnes-ND,3.183333333,11066
+Washington,WA,Skamania,Skamania-WA,7.225,11066
+Nebraska,NE,Red Willow,Red Willow-NE,2.616666667,11055
+Illinois,IL,Cumberland,Cumberland-IL,5.366666667,11048
+Minnesota,MN,Pope,Pope-MN,3.3,10995
+Utah,UT,Emery,Emery-UT,5.975,10976
+Idaho,ID,Boundary,Boundary-ID,5.383333333,10972
+Kentucky,KY,Monroe,Monroe-KY,4.391666667,10963
+Virginia,VA,Middlesex,Middlesex-VA,4.308333333,10959
+Oklahoma,OK,Johnston,Johnston-OK,6.375,10957
+Iowa,IA,Guthrie,Guthrie-IA,3.641666667,10954
+Michigan,MI,Alcona,Alcona-MI,1.183333333,10942
+Nebraska,NE,Custer,Custer-NE,2.216666667,10939
+Mississippi,MS,Montgomery,Montgomery-MS,7.883333333,10925
+Alabama,AL,Bullock,Bullock-AL,7.766666667,10914
+Texas,TX,Rains,Rains-TX,4.583333333,10914
+Missouri,MO,Oregon,Oregon-MO,6.283333333,10881
+Minnesota,MN,Lake,Lake-MN,4.8,10866
+Iowa,IA,Winnebago,Winnebago-IA,3.875,10866
+Kentucky,KY,Owen,Owen-KY,4.15,10841
+Texas,TX,Sabine,Sabine-TX,9.441666667,10834
+Kentucky,KY,Carroll,Carroll-KY,5.791666667,10811
+Mississippi,MS,Tunica,Tunica-MS,9.241666667,10778
+Iowa,IA,Mitchell,Mitchell-IA,2.816666667,10776
+Texas,TX,Clay,Clay-TX,4.433333333,10752
+Iowa,IA,Montgomery,Montgomery-IA,3.508333333,10740
+Indiana,IN,Crawford,Crawford-IN,6.008333333,10713
+Iowa,IA,Franklin,Franklin-IA,3.325,10680
+Texas,TX,Ward,Ward-TX,4.3,10658
+Missouri,MO,Iron,Iron-MO,7.825,10630
+Indiana,IN,Switzerland,Switzerland-IN,4.933333333,10613
+Texas,TX,Franklin,Franklin-TX,4.966666667,10605
+Mississippi,MS,Carroll,Carroll-MS,8.433333333,10597
+Alabama,AL,Perry,Perry-AL,9.958333333,10591
+North Carolina,NC,Clay,Clay-NC,6.116666667,10587
+Washington,WA,Lincoln,Lincoln-WA,5.766666667,10570
+Texas,TX,Marion,Marion-TX,6.541666667,10546
+Oklahoma,OK,Nowata,Nowata-OK,5.466666667,10536
+Nebraska,NE,Colfax,Colfax-NE,2.616666667,10515
+Iowa,IA,Keokuk,Keokuk-IA,4.133333333,10511
+Texas,TX,Runnels,Runnels-TX,3.741666667,10501
+Texas,TX,Blanco,Blanco-TX,3.141666667,10497
+Mississippi,MS,Kemper,Kemper-MS,10.425,10456
+West Virginia,WV,Ritchie,Ritchie-WV,7.033333333,10449
+Arkansas,AR,Perry,Perry-AR,6.291666667,10445
+Minnesota,MN,Yellow Medicine,Yellow Medicine-MN,3.766666667,10438
+Nebraska,NE,Holt,Holt-NE,2.383333333,10435
+Montana,MT,Roosevelt,Roosevelt-MT,5.183333333,10425
+Arkansas,AR,Lee,Lee-AR,6.883333333,10424
+South Carolina,SC,Allendale,Allendale-SC,11.41666667,10419
+Iowa,IA,Sac,Sac-IA,3.258333333,10350
+Indiana,IN,Martin,Martin-IN,4.191666667,10334
+Iowa,IA,Emmet,Emmet-IA,3.658333333,10302
+Kentucky,KY,Clinton,Clinton-KY,8.291666667,10272
+Texas,TX,Parmer,Parmer-TX,2.441666667,10269
+Minnesota,MN,Jackson,Jackson-MN,4.016666667,10266
+Missouri,MO,Grundy,Grundy-MO,4.108333333,10261
+Mississippi,MS,Webster,Webster-MS,7.325,10253
+Wyoming,WY,Sublette,Sublette-WY,5.133333333,10247
+Utah,UT,Juab,Juab-UT,3.866666667,10246
+South Carolina,SC,McCormick,McCormick-SC,7.158333333,10233
+Texas,TX,Ochiltree,Ochiltree-TX,4.283333333,10223
+Missouri,MO,Lewis,Lewis-MO,4.891666667,10211
+Idaho,ID,Washington,Washington-ID,5.75,10198
+Kansas,KS,Nemaha,Nemaha-KS,2.608333333,10178
+Massachusetts,MA,Nantucket,Nantucket-MA,6.091666667,10172
+Idaho,ID,Teton,Teton-ID,3.475,10170
+Missouri,MO,Ralls,Ralls-MO,4.233333333,10167
+North Carolina,NC,Jones,Jones-NC,5.825,10153
+South Dakota,SD,Roberts,Roberts-SD,4.458333333,10149
+Missouri,MO,Howard,Howard-MO,4.875,10144
+Kansas,KS,Marshall,Marshall-KS,2.941666667,10117
+South Dakota,SD,Butte,Butte-SD,3.45,10110
+Kentucky,KY,Metcalfe,Metcalfe-KY,5.291666667,10099
+Kansas,KS,Rice,Rice-KS,3.825,10083
+Montana,MT,Carbon,Carbon-MT,3.608333333,10078
+Virginia,VA,Cumberland,Cumberland-VA,5.258333333,10052
+Colorado,CO,Yuma,Yuma-CO,2.658333333,10043
+Nevada,NV,White Pine,White Pine-NV,5.391666667,10030
+Nebraska,NE,Cheyenne,Cheyenne-NE,2.15,9998
+Texas,TX,Dimmit,Dimmit-TX,4.725,9996
+Kansas,KS,Brown,Brown-KS,4.033333333,9984
+North Carolina,NC,Camden,Camden-NC,5.791666667,9980
+Mississippi,MS,Wilkinson,Wilkinson-MS,10.60833333,9878
+Idaho,ID,Valley,Valley-ID,6.175,9862
+Iowa,IA,Humboldt,Humboldt-IA,3.275,9815
+Minnesota,MN,Swift,Swift-MN,6.025,9783
+Michigan,MI,Montmorency,Montmorency-MI,1.408333333,9765
+Montana,MT,Richland,Richland-MT,3.175,9746
+Minnesota,MN,Stevens,Stevens-MN,2.783333333,9726
+Missouri,MO,Ozark,Ozark-MO,7.9,9723
+Illinois,IL,Jasper,Jasper-IL,6.333333333,9698
+Minnesota,MN,Rock,Rock-MN,2.141666667,9687
+California,CA,Modoc,Modoc-CA,8.791666667,9686
+Iowa,IA,Calhoun,Calhoun-IA,4.25,9670
+Kansas,KS,Linn,Linn-KS,6.433333333,9656
+Kansas,KS,Pratt,Pratt-KS,4.1,9656
+Texas,TX,Stephens,Stephens-TX,4.25,9630
+Missouri,MO,Hickory,Hickory-MO,6.683333333,9627
+South Dakota,SD,Todd,Todd-SD,7.416666667,9612
+Mississippi,MS,Claiborne,Claiborne-MS,12.95,9604
+Michigan,MI,Alger,Alger-MI,1.183333333,9601
+Minnesota,MN,Pipestone,Pipestone-MN,3.258333333,9596
+Nebraska,NE,Wayne,Wayne-NE,2.558333333,9595
+Iowa,IA,Howard,Howard-IA,3.5,9566
+Kansas,KS,Cloud,Cloud-KS,3.85,9533
+Kentucky,KY,McLean,McLean-KY,5,9531
+Kentucky,KY,Livingston,Livingston-KY,7.391666667,9519
+Arkansas,AR,Montgomery,Montgomery-AR,7.008333333,9487
+Utah,UT,Morgan,Morgan-UT,3.1,9469
+Oklahoma,OK,Kiowa,Kiowa-OK,4.5,9446
+Minnesota,MN,Marshall,Marshall-MN,6.841666667,9439
+Missouri,MO,Caldwell,Caldwell-MO,4.491666667,9424
+Oklahoma,OK,Love,Love-OK,3.433333333,9423
+Iowa,IA,Palo Alto,Palo Alto-IA,3.041666667,9421
+Kansas,KS,Wilson,Wilson-KS,6.658333333,9409
+Texas,TX,Mitchell,Mitchell-TX,5.725,9403
+West Virginia,WV,Clay,Clay-WV,11.14166667,9386
+Mississippi,MS,Humphreys,Humphreys-MS,12.94166667,9375
+Iowa,IA,Greene,Greene-IA,3.441666667,9336
+Kentucky,KY,Crittenden,Crittenden-KY,5.533333333,9315
+Wisconsin,WI,Forest,Forest-WI,7.541666667,9304
+Montana,MT,Deer Lodge,Deer Lodge-MT,3.916666667,9298
+Missouri,MO,Carroll,Carroll-MO,5.933333333,9295
+Iowa,IA,Clarke,Clarke-IA,4.025,9286
+Idaho,ID,Benewah,Benewah-ID,6.575,9285
+Virginia,VA,Richmond,Richmond-VA,4.55,9254
+Montana,MT,Beaverhead,Beaverhead-MT,3.408333333,9246
+Iowa,IA,Monona,Monona-IA,4.3,9243
+Montana,MT,Rosebud,Rosebud-MT,5.316666667,9233
+Texas,TX,Brewster,Brewster-TX,4.033333333,9232
+Utah,UT,Grand,Grand-UT,6.166666667,9225
+West Virginia,WV,Tyler,Tyler-WV,9.375,9208
+Nebraska,NE,Phelps,Phelps-NE,2.375,9188
+Nebraska,NE,Dawes,Dawes-NE,2.566666667,9182
+Missouri,MO,Maries,Maries-MO,5.258333333,9176
+West Virginia,WV,Webster,Webster-WV,7.675,9154
+Nebraska,NE,Cuming,Cuming-NE,2.633333333,9139
+South Dakota,SD,Charles Mix,Charles Mix-SD,3.458333333,9129
+Nebraska,NE,Hamilton,Hamilton-NE,2.841666667,9124
+Montana,MT,Stillwater,Stillwater-MT,3.691666667,9117
+Colorado,CO,Clear Creek,Clear Creek-CO,3.666666667,9088
+Texas,TX,Archer,Archer-TX,4.441666667,9054
+Alabama,AL,Greene,Greene-AL,11.01666667,9045
+Texas,TX,Jack,Jack-TX,4.266666667,9044
+New Mexico,NM,Quay,Quay-NM,7.208333333,9041
+Arkansas,AR,Nevada,Nevada-AR,5.208333333,8997
+Virginia,VA,Mathews,Mathews-VA,4.175,8978
+Montana,MT,Dawson,Dawson-MT,3.091666667,8966
+North Dakota,ND,McLean,McLean-ND,3.666666667,8962
+Missouri,MO,Harrison,Harrison-MO,5.066666667,8957
+Iowa,IA,Lucas,Lucas-IA,3.45,8898
+Texas,TX,Coleman,Coleman-TX,5.633333333,8895
+Oklahoma,OK,Woods,Woods-OK,2.641666667,8878
+Texas,TX,San Augustine,San Augustine-TX,9.225,8865
+North Carolina,NC,Graham,Graham-NC,12.15833333,8861
+Michigan,MI,Baraga,Baraga-MI,1.458333333,8860
+Indiana,IN,Benton,Benton-IN,4.458333333,8854
+Nebraska,NE,Cedar,Cedar-NE,2.4,8852
+Missouri,MO,Monroe,Monroe-MO,5.266666667,8840
+Kentucky,KY,Trimble,Trimble-KY,5.766666667,8809
+Idaho,ID,Clearwater,Clearwater-ID,8.058333333,8761
+Iowa,IA,Davis,Davis-IA,4.383333333,8753
+Mississippi,MS,Benton,Benton-MS,8,8729
+Minnesota,MN,Murray,Murray-MN,4.391666667,8725
+West Virginia,WV,Pocahontas,Pocahontas-WV,8.275,8719
+Arkansas,AR,Prairie,Prairie-AR,4.825,8715
+Nebraska,NE,Knox,Knox-NE,3.175,8701
+Minnesota,MN,Clearwater,Clearwater-MN,9.183333333,8695
+West Virginia,WV,Gilmer,Gilmer-WV,7.833333333,8693
+Arkansas,AR,Cleveland,Cleveland-AR,5.758333333,8689
+Wyoming,WY,Platte,Platte-WY,3.816666667,8667
+Michigan,MI,Oscoda,Oscoda-MI,1.275,8640
+Kansas,KS,Coffey,Coffey-KS,5.758333333,8601
+Kentucky,KY,Gallatin,Gallatin-KY,5.341666667,8589
+Virginia,VA,Franklin City,Franklin City-VA,6.75,8582
+Wyoming,WY,Johnson,Johnson-WY,4.816666667,8569
+Kentucky,KY,Hancock,Hancock-KY,5.058333333,8565
+Mississippi,MS,Choctaw,Choctaw-MS,6.183333333,8547
+Kansas,KS,Clay,Clay-KS,4.35,8535
+Wyoming,WY,Washakie,Washakie-WY,4.033333333,8533
+Texas,TX,Hamilton,Hamilton-TX,4.683333333,8517
+Indiana,IN,Warren,Warren-IN,4.916666667,8508
+Texas,TX,Somervell,Somervell-TX,4.991666667,8490
+Kentucky,KY,Bracken,Bracken-KY,6.425,8488
+Michigan,MI,Schoolcraft,Schoolcraft-MI,1.758333333,8485
+Illinois,IL,Hamilton,Hamilton-IL,5.316666667,8457
+Iowa,IA,Decatur,Decatur-IA,3.2,8457
+Missouri,MO,Shannon,Shannon-MO,8.075,8441
+Arizona,AZ,Greenlee,Greenlee-AZ,7.933333333,8437
+Missouri,MO,Daviess,Daviess-MO,4.583333333,8433
+Tennessee,TN,Houston,Houston-TN,8.875,8426
+North Dakota,ND,Mercer,Mercer-ND,4.175,8424
+Nebraska,NE,Butler,Butler-NE,2.791666667,8395
+Nebraska,NE,Keith,Keith-NE,2.641666667,8368
+Nebraska,NE,Richardson,Richardson-NE,3.216666667,8363
+South Dakota,SD,Turner,Turner-SD,2.708333333,8347
+Arkansas,AR,Newton,Newton-AR,5.025,8330
+Kentucky,KY,Lyon,Lyon-KY,5.775,8314
+Texas,TX,McCulloch,McCulloch-TX,4.816666667,8283
+Colorado,CO,Kit Carson,Kit Carson-CO,2.433333333,8270
+Colorado,CO,Conejos,Conejos-CO,5.608333333,8256
+Kentucky,KY,Ballard,Ballard-KY,7.116666667,8249
+Illinois,IL,Alexander,Alexander-IL,8.591666667,8238
+Mississippi,MS,Quitman,Quitman-MS,10.80833333,8223
+South Dakota,SD,Custer,Custer-SD,4.325,8216
+West Virginia,WV,Doddridge,Doddridge-WV,5.741666667,8202
+Arkansas,AR,Searcy,Searcy-AR,5.816666667,8195
+Arkansas,AR,Monroe,Monroe-AR,6.275,8149
+North Dakota,ND,Traill,Traill-ND,2.8,8121
+Mississippi,MS,Franklin,Franklin-MS,7.791666667,8118
+Arkansas,AR,Dallas,Dallas-AR,7.45,8116
+Kansas,KS,Anderson,Anderson-KS,4.95,8102
+Texas,TX,Castro,Castro-TX,3.45,8062
+Oklahoma,OK,Tillman,Tillman-OK,4.191666667,7992
+Iowa,IA,Monroe,Monroe-IA,4.333333333,7970
+Kansas,KS,Doniphan,Doniphan-KS,4.391666667,7945
+Idaho,ID,Lemhi,Lemhi-ID,7.016666667,7936
+Tennessee,TN,Perry,Perry-TN,6.991666667,7915
+Kansas,KS,Thomas,Thomas-KS,2.683333333,7900
+Oregon,OR,Lake,Lake-OR,7.866666667,7895
+Kentucky,KY,Lee,Lee-KY,8.516666667,7887
+Missouri,MO,Dade,Dade-MO,5.108333333,7883
+Texas,TX,Yoakum,Yoakum-TX,3.758333333,7879
+Tennessee,TN,Trousdale,Trousdale-TN,5.95,7870
+Tennessee,TN,Clay,Clay-TN,9.016666667,7861
+Kansas,KS,Kingman,Kingman-KS,4.358333333,7858
+Texas,TX,Swisher,Swisher-TX,4.808333333,7854
+Kentucky,KY,Elliott,Elliott-KY,10.03333333,7852
+Nebraska,NE,Merrick,Merrick-NE,3.691666667,7845
+Tennessee,TN,Lake,Lake-TN,8.8,7832
+Missouri,MO,Chariton,Chariton-MO,4.675,7831
+Kansas,KS,Grant,Grant-KS,3.65,7829
+Texas,TX,Presidio,Presidio-TX,10.84166667,7818
+Idaho,ID,Power,Power-ID,4.65,7817
+Mississippi,MS,Jefferson,Jefferson-MS,14.9,7726
+Pennsylvania,PA,Forest,Forest-PA,7.666666667,7716
+West Virginia,WV,Pendleton,Pendleton-WV,4.725,7695
+Montana,MT,Madison,Madison-MT,3.641666667,7691
+Iowa,IA,Adair,Adair-IA,3.166666667,7682
+North Dakota,ND,Mountrail,Mountrail-ND,1.9,7673
+Arkansas,AR,Lafayette,Lafayette-AR,7.925,7645
+West Virginia,WV,Calhoun,Calhoun-WV,12.5,7627
+West Virginia,WV,Pleasants,Pleasants-WV,8.491666667,7605
+Iowa,IA,Worth,Worth-IA,3.916666667,7598
+Iowa,IA,Van Buren,Van Buren-IA,3.966666667,7570
+Washington,WA,Ferry,Ferry-WA,10.2,7551
+Nebraska,NE,Jefferson,Jefferson-NE,2.708333333,7547
+Illinois,IL,Schuyler,Schuyler-IL,5.883333333,7544
+Oklahoma,OK,Major,Major-OK,3.125,7527
+Indiana,IN,Union,Union-IN,4.433333333,7516
+Wisconsin,WI,Pepin,Pepin-WI,4.25,7469
+Oregon,OR,Grant,Grant-OR,8.933333333,7445
+Iowa,IA,Fremont,Fremont-IA,3.266666667,7441
+Oregon,OR,Harney,Harney-OR,7.325,7422
+North Dakota,ND,Pembina,Pembina-ND,5.258333333,7413
+Texas,TX,Refugio,Refugio-TX,5.333333333,7383
+Virginia,VA,Rappahannock,Rappahannock-VA,4.091666667,7373
+Montana,MT,Valley,Valley-MT,3.091666667,7369
+Colorado,CO,San Miguel,San Miguel-CO,3.816666667,7359
+South Dakota,SD,Grant,Grant-SD,2.95,7356
+Kentucky,KY,Wolfe,Wolfe-KY,10.13333333,7355
+South Dakota,SD,Hutchinson,Hutchinson-SD,2.533333333,7343
+Illinois,IL,Henderson,Henderson-IL,5.916666667,7331
+Iowa,IA,Pocahontas,Pocahontas-IA,3,7310
+Colorado,CO,Lake,Lake-CO,3.825,7310
+Nebraska,NE,Pierce,Pierce-NE,2.533333333,7266
+Arkansas,AR,Woodruff,Woodruff-AR,6.691666667,7260
+Minnesota,MN,Lac qui Parle,Lac qui Parle-MN,4.116666667,7259
+Virginia,VA,Charles City,Charles City-VA,5.241666667,7256
+Nebraska,NE,Nemaha,Nemaha-NE,3.675,7248
+Texas,TX,Brooks,Brooks-TX,9.991666667,7223
+Texas,TX,Goliad,Goliad-TX,4.366666667,7210
+Wyoming,WY,Weston,Weston-WY,3.325,7208
+Texas,TX,Bailey,Bailey-TX,4.291666667,7165
+West Virginia,WV,Tucker,Tucker-WV,6.125,7141
+Missouri,MO,Clark,Clark-MO,7.083333333,7139
+Kentucky,KY,Nicholas,Nicholas-KY,6.041666667,7135
+Utah,UT,Kane,Kane-UT,4.475,7125
+Texas,TX,Winkler,Winkler-TX,5.725,7110
+South Dakota,SD,Fall River,Fall River-SD,4.483333333,7094
+Iowa,IA,Ida,Ida-IA,3.083333333,7089
+Wyoming,WY,Crook,Crook-WY,3.433333333,7083
+South Dakota,SD,Bon Homme,Bon Homme-SD,2.675,7070
+Virginia,VA,Surry,Surry-VA,5.183333333,7058
+Kansas,KS,Wabaunsee,Wabaunsee-KS,3.85,7053
+Texas,TX,Childress,Childress-TX,3.166666667,7041
+Idaho,ID,Boise,Boise-ID,6.216666667,7028
+Montana,MT,Powell,Powell-MT,4.533333333,7027
+Oregon,OR,Wallowa,Wallowa-OR,7.983333333,7008
+Kansas,KS,Pawnee,Pawnee-KS,3.725,6973
+Kansas,KS,Russell,Russell-KS,3.791666667,6970
+Vermont,VT,Grand Isle,Grand Isle-VT,4.175,6970
+Idaho,ID,Caribou,Caribou-ID,4.183333333,6963
+Virginia,VA,King and Queen,King and Queen-VA,4.825,6945
+Nebraska,NE,Thurston,Thurston-NE,5.291666667,6940
+Illinois,IL,Brown,Brown-IL,3.708333333,6937
+Texas,TX,La Salle,La Salle-TX,4.141666667,6886
+Nebraska,NE,Burt,Burt-NE,3.625,6858
+Kentucky,KY,Cumberland,Cumberland-KY,6.033333333,6856
+Minnesota,MN,Norman,Norman-MN,4.708333333,6852
+Virginia,VA,Bland,Bland-VA,5.783333333,6824
+Tennessee,TN,Hancock,Hancock-TN,10.025,6819
+Kentucky,KY,Fulton,Fulton-KY,7.7,6813
+Michigan,MI,Ontonagon,Ontonagon-MI,1.5,6780
+Nevada,NV,Pershing,Pershing-NV,6.833333333,6753
+Missouri,MO,Gentry,Gentry-MO,4.208333333,6738
+Illinois,IL,Edwards,Edwards-IL,6,6721
+Missouri,MO,Sullivan,Sullivan-MO,5.916666667,6714
+Colorado,CO,Huerfano,Huerfano-CO,7.716666667,6711
+Texas,TX,Dallam,Dallam-TX,2.25,6703
+Missouri,MO,Reynolds,Reynolds-MO,6.958333333,6696
+Kansas,KS,Greenwood,Greenwood-KS,4.716666667,6689
+Nebraska,NE,Antelope,Antelope-NE,2.533333333,6685
+Colorado,CO,Rio Blanco,Rio Blanco-CO,5.283333333,6666
+North Dakota,ND,Benson,Benson-ND,4.533333333,6660
+Michigan,MI,Luce,Luce-MI,0.975,6631
+Utah,UT,Beaver,Beaver-UT,3.733333333,6629
+Minnesota,MN,Wilkin,Wilkin-MN,3.35,6576
+Nebraska,NE,Clay,Clay-NE,2.908333333,6542
+Colorado,CO,Bent,Bent-CO,3.925,6499
+Kansas,KS,Ellsworth,Ellsworth-KS,3.733333333,6497
+Montana,MT,Blaine,Blaine-MT,4.958333333,6491
+Nebraska,NE,Kearney,Kearney-NE,2.208333333,6489
+South Dakota,SD,Moody,Moody-SD,3.466666667,6486
+Oklahoma,OK,Jefferson,Jefferson-OK,5.566666667,6472
+Iowa,IA,Osceola,Osceola-IA,2.825,6462
+Texas,TX,Garza,Garza-TX,3.725,6461
+Texas,TX,Floyd,Floyd-TX,5.583333333,6446
+North Dakota,ND,Bottineau,Bottineau-ND,4.283333333,6429
+Pennsylvania,PA,Sullivan,Sullivan-PA,5.966666667,6428
+South Dakota,SD,Spink,Spink-SD,3.141666667,6415
+Iowa,IA,Wayne,Wayne-IA,3.841666667,6403
+Kansas,KS,Mitchell,Mitchell-KS,3.358333333,6373
+Missouri,MO,Shelby,Shelby-MO,4.75,6373
+Tennessee,TN,Moore,Moore-TN,4.641666667,6362
+North Dakota,ND,McKenzie,McKenzie-ND,2.325,6360
+Iowa,IA,Taylor,Taylor-IA,3.066666667,6317
+Vermont,VT,Essex,Essex-VT,6.816666667,6306
+Kentucky,KY,Menifee,Menifee-KY,8.741666667,6306
+Nebraska,NE,Howard,Howard-NE,3.633333333,6274
+Missouri,MO,Carter,Carter-MO,7.475,6265
+Oklahoma,OK,Greer,Greer-OK,5.441666667,6239
+Oklahoma,OK,Cotton,Cotton-OK,3.991666667,6193
+Texas,TX,Carson,Carson-TX,3.208333333,6182
+Illinois,IL,Pulaski,Pulaski-IL,8.983333333,6161
+Montana,MT,Pondera,Pondera-MT,4.475,6153
+Texas,TX,San Saba,San Saba-TX,3.616666667,6131
+Nebraska,NE,Stanton,Stanton-NE,2.55,6129
+Indiana,IN,Ohio,Ohio-IN,5.416666667,6128
+Iowa,IA,Audubon,Audubon-IA,3.891666667,6119
+Colorado,CO,Saguache,Saguache-CO,6.1,6108
+Kansas,KS,Ottawa,Ottawa-KS,3.85,6091
+Montana,MT,Teton,Teton-MT,3.791666667,6073
+Texas,TX,Hartley,Hartley-TX,2.125,6062
+Texas,TX,Crosby,Crosby-TX,4.366666667,6059
+Kansas,KS,Harper,Harper-KS,3.941666667,6034
+Minnesota,MN,Grant,Grant-MN,4.833333333,6018
+Kansas,KS,Sherman,Sherman-KS,3,6010
+Illinois,IL,Putnam,Putnam-IL,6.375,6006
+Kansas,KS,Gray,Gray-KS,2.341666667,6006
+Nebraska,NE,Dixon,Dixon-NE,3.316666667,6000
+Illinois,IL,Stark,Stark-IL,6.6,5994
+Idaho,ID,Bear Lake,Bear Lake-ID,4.408333333,5986
+Oklahoma,OK,Coal,Coal-OK,7.391666667,5925
+Kansas,KS,Morris,Morris-KS,4.341666667,5923
+Wisconsin,WI,Iron,Iron-WI,8.841666667,5916
+Texas,TX,Lynn,Lynn-TX,4.016666667,5915
+South Dakota,SD,Hamlin,Hamlin-SD,3.391666667,5903
+Texas,TX,Haskell,Haskell-TX,3.508333333,5899
+Minnesota,MN,Lincoln,Lincoln-MN,3.566666667,5896
+Nebraska,NE,Fillmore,Fillmore-NE,2.908333333,5890
+Colorado,CO,Crowley,Crowley-CO,4.466666667,5823
+Montana,MT,Chouteau,Chouteau-MT,2.925,5813
+North Carolina,NC,Hyde,Hyde-NC,9.233333333,5810
+Kansas,KS,Washington,Washington-KS,3.175,5799
+Nevada,NV,Lander,Lander-NV,6.525,5775
+Kansas,KS,Stevens,Stevens-KS,3.75,5724
+West Virginia,WV,Wirt,Wirt-WV,10.25,5717
+Nebraska,NE,Cherry,Cherry-NE,2.3,5713
+South Dakota,SD,Day,Day-SD,4.95,5710
+Missouri,MO,Atchison,Atchison-MO,4.508333333,5685
+Kansas,KS,Norton,Norton-KS,2.533333333,5671
+South Dakota,SD,Tripp,Tripp-SD,2.758333333,5644
+Oklahoma,OK,Alfalfa,Alfalfa-OK,2.883333333,5642
+Kansas,KS,Phillips,Phillips-KS,3.291666667,5642
+Oklahoma,OK,Beaver,Beaver-OK,2.641666667,5636
+South Dakota,SD,McCook,McCook-SD,2.391666667,5618
+Texas,TX,Hansford,Hansford-TX,2.966666667,5613
+Montana,MT,Broadwater,Broadwater-MT,4.966666667,5612
+Illinois,IL,Gallatin,Gallatin-IL,6.875,5589
+Tennessee,TN,Van Buren,Van Buren-TN,8.241666667,5548
+Nebraska,NE,Boone,Boone-NE,2.441666667,5505
+Nebraska,NE,Sheridan,Sheridan-NE,2.683333333,5469
+Colorado,CO,Lincoln,Lincoln-CO,3.416666667,5467
+North Dakota,ND,Ransom,Ransom-ND,2.441666667,5457
+Colorado,CO,Gilpin,Gilpin-CO,3.108333333,5441
+South Dakota,SD,Walworth,Walworth-SD,5.441666667,5438
+Minnesota,MN,Mahnomen,Mahnomen-MN,5.375,5413
+Texas,TX,Wheeler,Wheeler-TX,3.916666667,5410
+Nebraska,NE,Polk,Polk-NE,2.525,5406
+North Dakota,ND,McHenry,McHenry-ND,4.15,5395
+Arkansas,AR,Calhoun,Calhoun-AR,5.783333333,5368
+Illinois,IL,Scott,Scott-IL,5.808333333,5355
+Nevada,NV,Lincoln,Lincoln-NV,6.216666667,5345
+Montana,MT,Toole,Toole-MT,3.358333333,5324
+South Dakota,SD,Dewey,Dewey-SD,11.41666667,5301
+Texas,TX,Jim Hogg,Jim Hogg-TX,7.225,5300
+North Dakota,ND,Dickey,Dickey-ND,1.833333333,5289
+Minnesota,MN,Big Stone,Big Stone-MN,4.458333333,5269
+South Dakota,SD,Brule,Brule-SD,2.733333333,5255
+Texas,TX,Delta,Delta-TX,4.633333333,5231
+Nebraska,NE,Thayer,Thayer-NE,2.366666667,5228
+Nebraska,NE,Johnson,Johnson-NE,3.283333333,5217
+Idaho,ID,Lincoln,Lincoln-ID,4.425,5208
+Virginia,VA,Craig,Craig-VA,5.483333333,5190
+Kansas,KS,Rooks,Rooks-KS,4.633333333,5181
+Minnesota,MN,Cook,Cook-MN,4.441666667,5176
+Utah,UT,Garfield,Garfield-UT,9.066666667,5172
+South Dakota,SD,Kingsbury,Kingsbury-SD,3.025,5148
+Iowa,IA,Ringgold,Ringgold-IA,3.3,5131
+Kentucky,KY,Carlisle,Carlisle-KY,5.791666667,5104
+Illinois,IL,Calhoun,Calhoun-IL,6.816666667,5089
+Pennsylvania,PA,Cameron,Cameron-PA,6.941666667,5085
+Tennessee,TN,Pickett,Pickett-TN,7.816666667,5077
+Nebraska,NE,Morrill,Morrill-NE,2.883333333,5042
+Kansas,KS,Republic,Republic-KS,2.816666667,4980
+Missouri,MO,Putnam,Putnam-MO,4,4979
+Nebraska,NE,Furnas,Furnas-NE,2.658333333,4959
+Kansas,KS,Scott,Scott-KS,2.808333333,4936
+Texas,TX,Mills,Mills-TX,3.641666667,4936
+Mississippi,MS,Sharkey,Sharkey-MS,9.866666667,4916
+Missouri,MO,Holt,Holt-MO,3.65,4912
+Kentucky,KY,Hickman,Hickman-KY,5.816666667,4902
+New Mexico,NM,Hidalgo,Hidalgo-NM,6.291666667,4894
+New Mexico,NM,Mora,Mora-NM,9.741666667,4881
+Kansas,KS,Barber,Barber-KS,4.325,4861
+Missouri,MO,Scotland,Scotland-MO,4.475,4843
+New York,NY,Hamilton,Hamilton-NY,6.925,4836
+Colorado,CO,Washington,Washington-CO,2.566666667,4814
+Wyoming,WY,Hot Springs,Hot Springs-WY,4.066666667,4812
+Oklahoma,OK,Dewey,Dewey-OK,3.558333333,4810
+Texas,TX,Martin,Martin-TX,3.541666667,4799
+Nevada,NV,Mineral,Mineral-NV,10.48333333,4772
+Kentucky,KY,Owsley,Owsley-KY,10.38333333,4755
+Virginia,VA,Bath,Bath-VA,4.083333333,4731
+New Mexico,NM,Guadalupe,Guadalupe-NM,7.141666667,4687
+South Dakota,SD,Marshall,Marshall-SD,3.925,4656
+Texas,TX,Kimble,Kimble-TX,3.708333333,4607
+Kansas,KS,Meade,Meade-KS,3.025,4575
+Minnesota,MN,Kittson,Kittson-MN,4.616666667,4552
+New Mexico,NM,Union,Union-NM,4.441666667,4549
+Montana,MT,Musselshell,Musselshell-MT,4.208333333,4538
+Oklahoma,OK,Grant,Grant-OK,2.766666667,4527
+Nebraska,NE,Nuckolls,Nuckolls-NE,2.533333333,4500
+Illinois,IL,Pope,Pope-IL,6.95,4470
+Colorado,CO,Phillips,Phillips-CO,2.391666667,4442
+Kansas,KS,Stafford,Stafford-KS,4.05,4437
+Colorado,CO,Ouray,Ouray-CO,4.291666667,4436
+Missouri,MO,Schuyler,Schuyler-MO,5.833333333,4431
+Wisconsin,WI,Florence,Florence-WI,6.841666667,4423
+North Carolina,NC,Tyrrell,Tyrrell-NC,9.483333333,4407
+Texas,TX,Crane,Crane-TX,5.783333333,4375
+Idaho,ID,Custer,Custer-ID,6.8,4368
+South Dakota,SD,Deuel,Deuel-SD,5.05,4364
+North Dakota,ND,Pierce,Pierce-ND,4.2,4357
+Illinois,IL,Hardin,Hardin-IL,8.175,4320
+Idaho,ID,Oneida,Oneida-ID,3.508333333,4286
+South Dakota,SD,Gregory,Gregory-SD,3.191666667,4271
+Nebraska,NE,Valley,Valley-NE,2.783333333,4260
+Kansas,KS,Haskell,Haskell-KS,2.566666667,4256
+Colorado,CO,Custer,Custer-CO,3.558333333,4255
+Montana,MT,Phillips,Phillips-MT,5.041666667,4253
+Wisconsin,WI,Menominee,Menominee-WI,9.858333333,4232
+Montana,MT,Mineral,Mineral-MT,8.266666667,4223
+North Dakota,ND,Wells,Wells-ND,3.95,4207
+North Dakota,ND,Sioux,Sioux-ND,4.158333333,4153
+Oklahoma,OK,Ellis,Ellis-OK,3.883333333,4151
+North Dakota,ND,Lamoure,Lamoure-ND,2.458333333,4139
+Texas,TX,Hardeman,Hardeman-TX,5,4139
+Missouri,MO,Knox,Knox-MO,3.966666667,4131
+Texas,TX,Sutton,Sutton-TX,6.041666667,4128
+Minnesota,MN,Red Lake,Red Lake-MN,5.808333333,4089
+Texas,TX,Concho,Concho-TX,3.275,4087
+Washington,WA,Columbia,Columbia-WA,6.383333333,4078
+South Dakota,SD,Edmunds,Edmunds-SD,2.516666667,4071
+South Dakota,SD,Corson,Corson-SD,5.141666667,4050
+Minnesota,MN,Lake of the Woods,Lake of the Woods-MN,4.433333333,4045
+Iowa,IA,Adams,Adams-IA,2.758333333,4029
+Texas,TX,Mason,Mason-TX,3.85,4012
+Nevada,NV,Storey,Storey-NV,7.3,4010
+North Dakota,ND,Cavalier,Cavalier-ND,2.758333333,3993
+Washington,WA,Wahkiakum,Wahkiakum-WA,9.075,3978
+Kansas,KS,Kearny,Kearny-KS,3.166666667,3977
+Idaho,ID,Adams,Adams-ID,7.725,3976
+Texas,TX,Fisher,Fisher-TX,3.933333333,3974
+Nebraska,NE,Chase,Chase-NE,1.891666667,3966
+Kansas,KS,Osborne,Osborne-KS,3.566666667,3858
+Kansas,KS,Smith,Smith-KS,3.941666667,3853
+North Dakota,ND,Sargent,Sargent-ND,1.808333333,3829
+Idaho,ID,Lewis,Lewis-ID,6.033333333,3821
+Nebraska,NE,Kimball,Kimball-NE,3.558333333,3821
+Nebraska,NE,Webster,Webster-NE,3.558333333,3812
+Texas,TX,Hemphill,Hemphill-TX,3.191666667,3807
+Colorado,CO,Baca,Baca-CO,2.075,3788
+Missouri,MO,Mercer,Mercer-MO,4.45,3785
+South Dakota,SD,Lyman,Lyman-SD,4.725,3755
+Nebraska,NE,Nance,Nance-NE,2.441666667,3735
+Texas,TX,Baylor,Baylor-TX,3.583333333,3726
+New Mexico,NM,Catron,Catron-NM,8.008333333,3725
+Texas,TX,Knox,Knox-TX,3.808333333,3719
+Texas,TX,Crockett,Crockett-TX,5.883333333,3719
+South Dakota,SD,Clark,Clark-SD,3.691666667,3691
+Oklahoma,OK,Harper,Harper-OK,2.916666667,3685
+Texas,TX,Donley,Donley-TX,4.225,3677
+Kansas,KS,Chautauqua,Chautauqua-KS,5.808333333,3669
+Montana,MT,Sweet Grass,Sweet Grass-MT,2.766666667,3651
+Oklahoma,OK,Roger Mills,Roger Mills-OK,4.058333333,3647
+Texas,TX,Kinney,Kinney-TX,6.566666667,3598
+Minnesota,MN,Traverse,Traverse-MN,4.091666667,3558
+North Dakota,ND,Emmons,Emmons-ND,4.925,3550
+North Dakota,ND,Dunn,Dunn-ND,1.891666667,3536
+Colorado,CO,Costilla,Costilla-CO,6.491666667,3524
+Texas,TX,Hudspeth,Hudspeth-TX,5.741666667,3476
+Texas,TX,Schleicher,Schleicher-TX,4.683333333,3461
+South Dakota,SD,Bennett,Bennett-SD,5.166666667,3431
+South Dakota,SD,Hand,Hand-SD,2.366666667,3431
+Nebraska,NE,Harlan,Harlan-NE,2.141666667,3423
+Montana,MT,Sheridan,Sheridan-MT,2.483333333,3384
+Texas,TX,Shackelford,Shackelford-TX,2.841666667,3378
+Texas,TX,Reagan,Reagan-TX,4.591666667,3367
+Texas,TX,Upton,Upton-TX,3.866666667,3355
+Texas,TX,Hall,Hall-TX,5.45,3353
+North Dakota,ND,Foster,Foster-ND,2.9,3343
+South Dakota,SD,Hanson,Hanson-SD,3.375,3331
+Texas,TX,Coke,Coke-TX,4.15,3320
+Kansas,KS,Woodson,Woodson-KS,5.133333333,3309
+Texas,TX,Real,Real-TX,5.283333333,3309
+Kansas,KS,Rush,Rush-KS,3.575,3307
+Texas,TX,Lipscomb,Lipscomb-TX,3.941666667,3302
+Kansas,KS,Lincoln,Lincoln-KS,3.5,3241
+California,CA,Sierra,Sierra-CA,8.958333333,3240
+Kansas,KS,Morton,Morton-KS,4.333333333,3233
+Nebraska,NE,Franklin,Franklin-NE,2.433333333,3225
+Nebraska,NE,Sherman,Sherman-NE,2.891666667,3152
+North Dakota,ND,Bowman,Bowman-ND,1.841666667,3151
+Nebraska,NE,Brown,Brown-NE,3.708333333,3145
+Texas,TX,Cochran,Cochran-TX,5.116666667,3127
+North Dakota,ND,Nelson,Nelson-ND,3.691666667,3126
+Kansas,KS,Ness,Ness-KS,3.275,3107
+Montana,MT,Granite,Granite-MT,6.125,3079
+Kansas,KS,Jewell,Jewell-KS,4.458333333,3077
+Texas,TX,Collingsworth,Collingsworth-TX,3.641666667,3057
+Kansas,KS,Edwards,Edwards-KS,3.316666667,3037
+Texas,TX,Sherman,Sherman-TX,2.858333333,3034
+South Dakota,SD,Jackson,Jackson-SD,4.416666667,3031
+South Dakota,SD,Douglas,Douglas-SD,2.491666667,3002
+Kansas,KS,Trego,Trego-KS,3.6,3001
+South Dakota,SD,Perkins,Perkins-SD,3.175,2982
+Nebraska,NE,Perkins,Perkins-NE,1.841666667,2970
+South Dakota,SD,Stanley,Stanley-SD,2.433333333,2966
+Kansas,KS,Decatur,Decatur-KS,3.758333333,2961
+Oklahoma,OK,Harmon,Harmon-OK,3.358333333,2922
+Nebraska,NE,Hitchcock,Hitchcock-NE,3.258333333,2908
+Idaho,ID,Butte,Butte-ID,4.383333333,2891
+Montana,MT,Fallon,Fallon-MT,2.3,2890
+Kansas,KS,Elk,Elk-KS,4.9,2882
+North Dakota,ND,McIntosh,McIntosh-ND,3.058333333,2809
+South Dakota,SD,Ziebach,Ziebach-SD,4.958333333,2801
+Kansas,KS,Chase,Chase-KS,3.691666667,2790
+Utah,UT,Wayne,Wayne-UT,9.175,2778
+Nebraska,NE,Pawnee,Pawnee-NE,2.575,2773
+Kansas,KS,Logan,Logan-KS,2.45,2756
+Nebraska,NE,Frontier,Frontier-NE,2.491666667,2756
+Kansas,KS,Cheyenne,Cheyenne-KS,2.758333333,2726
+South Dakota,SD,Aurora,Aurora-SD,2.241666667,2710
+Kansas,KS,Gove,Gove-KS,2.583333333,2695
+Kansas,KS,Hamilton,Hamilton-KS,2.008333333,2690
+Kansas,KS,Graham,Graham-KS,3.975,2597
+Kansas,KS,Sheridan,Sheridan-KS,2.3,2556
+Kansas,KS,Kiowa,Kiowa-KS,3.025,2553
+Nebraska,NE,Greeley,Greeley-NE,3.066666667,2538
+Kansas,KS,Rawlins,Rawlins-KS,2.341666667,2519
+Wyoming,WY,Niobrara,Niobrara-WY,2.883333333,2484
+North Dakota,ND,Hettinger,Hettinger-ND,2.433333333,2477
+Oklahoma,OK,Cimarron,Cimarron-OK,2.241666667,2475
+North Dakota,ND,Renville,Renville-ND,3.275,2470
+South Dakota,SD,McPherson,McPherson-SD,3.366666667,2459
+Texas,TX,Dickens,Dickens-TX,4.641666667,2444
+North Dakota,ND,Kidder,Kidder-ND,3.616666667,2435
+North Dakota,ND,Griggs,Griggs-ND,2.283333333,2420
+Texas,TX,Culberson,Culberson-TX,4.3,2398
+North Dakota,ND,Grant,Grant-ND,3.141666667,2394
+South Dakota,SD,Miner,Miner-SD,2.533333333,2389
+North Dakota,ND,Eddy,Eddy-ND,4.65,2385
+Colorado,CO,Sedgwick,Sedgwick-CO,3.358333333,2379
+South Dakota,SD,Faulk,Faulk-SD,2.691666667,2364
+South Dakota,SD,Sanborn,Sanborn-SD,2.583333333,2355
+North Dakota,ND,Adams,Adams-ND,2.891666667,2343
+Texas,TX,Jeff Davis,Jeff Davis-TX,3.358333333,2342
+Montana,MT,Liberty,Liberty-MT,2.633333333,2339
+South Dakota,SD,Potter,Potter-SD,3.3,2329
+Virginia,VA,Highland,Highland-VA,3.541666667,2321
+Kentucky,KY,Robertson,Robertson-KY,6.483333333,2282
+Washington,WA,Garfield,Garfield-WA,6.191666667,2266
+Utah,UT,Rich,Rich-UT,3.641666667,2264
+North Dakota,ND,Towner,Towner-ND,2.708333333,2246
+Texas,TX,Menard,Menard-TX,5.241666667,2242
+Kansas,KS,Stanton,Stanton-KS,3.05,2235
+Kansas,KS,Wichita,Wichita-KS,2.991666667,2234
+Kansas,KS,Clark,Clark-KS,2.483333333,2215
+Missouri,MO,Worth,Worth-MO,3.216666667,2171
+Montana,MT,Wheatland,Wheatland-MT,5.391666667,2168
+Michigan,MI,Keweenaw,Keweenaw-MI,1.208333333,2156
+Nebraska,NE,Boyd,Boyd-NE,2.608333333,2099
+Montana,MT,Judith Basin,Judith Basin-MT,3.458333333,2072
+North Dakota,ND,Divide,Divide-ND,1.766666667,2071
+South Dakota,SD,Jerauld,Jerauld-SD,2.283333333,2071
+Colorado,CO,Dolores,Dolores-CO,3.1,2064
+Nebraska,NE,Garden,Garden-NE,2.45,2057
+Texas,TX,Oldham,Oldham-TX,3.008333333,2052
+Nebraska,NE,Garfield,Garfield-NE,2.383333333,2049
+South Dakota,SD,Mellette,Mellette-SD,5.208333333,2048
+Nebraska,NE,Gosper,Gosper-NE,2.466666667,2044
+Nebraska,NE,Dundy,Dundy-NE,2.116666667,2008
+Texas,TX,Edwards,Edwards-TX,4.691666667,2002
+North Dakota,ND,Logan,Logan-ND,2.758333333,1990
+Nevada,NV,Eureka,Eureka-NV,6.016666667,1987
+North Dakota,ND,Steele,Steele-ND,2.208333333,1975
+North Dakota,ND,Burke,Burke-ND,3.25,1968
+Nebraska,NE,Deuel,Deuel-NE,2.466666667,1941
+South Dakota,SD,Haakon,Haakon-SD,2.283333333,1937
+Kansas,KS,Hodgeman,Hodgeman-KS,3.233333333,1916
+South Dakota,SD,Buffalo,Buffalo-SD,7.333333333,1912
+Texas,TX,Armstrong,Armstrong-TX,2.683333333,1901
+Kansas,KS,Comanche,Comanche-KS,3.416666667,1891
+Montana,MT,Meagher,Meagher-MT,3.566666667,1891
+Oregon,OR,Gilliam,Gilliam-OR,6.591666667,1871
+North Dakota,ND,Oliver,Oliver-ND,5.65,1846
+Colorado,CO,Cheyenne,Cheyenne-CO,2.708333333,1836
+Oregon,OR,Sherman,Sherman-OR,6.275,1765
+Montana,MT,Daniels,Daniels-MT,2.566666667,1751
+Kansas,KS,Lane,Lane-KS,3.441666667,1750
+Montana,MT,Powder River,Powder River-MT,2.541666667,1743
+Montana,MT,McCone,McCone-MT,2.125,1734
+North Dakota,ND,Golden Valley,Golden Valley-ND,2.208333333,1680
+Texas,TX,Throckmorton,Throckmorton-TX,3.283333333,1641
+Texas,TX,Briscoe,Briscoe-TX,3.85,1637
+Texas,TX,Irion,Irion-TX,3.641666667,1599
+Utah,UT,Piute,Piute-UT,6.475,1556
+Nebraska,NE,Rock,Rock-NE,2.633333333,1526
+Texas,TX,Cottle,Cottle-TX,7.2,1505
+Texas,TX,Stonewall,Stonewall-TX,4.341666667,1490
+Kansas,KS,Wallace,Wallace-KS,2.716666667,1485
+South Dakota,SD,Campbell,Campbell-SD,3.033333333,1466
+Oregon,OR,Wheeler,Wheeler-OR,5.216666667,1441
+South Dakota,SD,Hyde,Hyde-SD,2.983333333,1420
+Mississippi,MS,Issaquena,Issaquena-MS,16.86666667,1406
+Colorado,CO,Kiowa,Kiowa-CO,2.658333333,1398
+Colorado,CO,Jackson,Jackson-CO,3.708333333,1394
+South Dakota,SD,Sully,Sully-SD,2.541666667,1373
+Texas,TX,Foard,Foard-TX,4.325,1336
+North Dakota,ND,Sheridan,Sheridan-ND,4.966666667,1321
+Nebraska,NE,Sioux,Sioux-NE,2.466666667,1311
+South Dakota,SD,Harding,Harding-SD,2.508333333,1255
+Kansas,KS,Greeley,Greeley-KS,2.208333333,1247
+Texas,TX,Glasscock,Glasscock-TX,2.875,1226
+Texas,TX,Motley,Motley-TX,3.733333333,1210
+Montana,MT,Garfield,Garfield-MT,2.716666667,1206
+Montana,MT,Prairie,Prairie-MT,4.225,1179
+California,CA,Alpine,Alpine-CA,8.025,1175
+Montana,MT,Carter,Carter-MT,3.258333333,1160
+Texas,TX,Sterling,Sterling-TX,3.441666667,1143
+Idaho,ID,Camas,Camas-ID,3.575,1117
+Utah,UT,Daggett,Daggett-UT,4.675,1059
+Montana,MT,Wibaux,Wibaux-MT,3.283333333,1017
+South Dakota,SD,Jones,Jones-SD,3.058333333,1006
+Texas,TX,Terrell,Terrell-TX,4.958333333,984
+Idaho,ID,Clark,Clark-ID,3.65,982
+Nebraska,NE,Hayes,Hayes-NE,2.333333333,967
+Texas,TX,Roberts,Roberts-TX,4.075,929
+Montana,MT,Golden Valley,Golden Valley-MT,4.25,884
+Colorado,CO,Hinsdale,Hinsdale-CO,3.05,843
+Nebraska,NE,Keya Paha,Keya Paha-NE,2.208333333,824
+Nebraska,NE,Wheeler,Wheeler-NE,2.416666667,818
+Texas,TX,Kent,Kent-TX,2.575,808
+North Dakota,ND,Billings,Billings-ND,3.15,783
+Nevada,NV,Esmeralda,Esmeralda-NV,4.6,783
+Nebraska,NE,Logan,Logan-NE,2.933333333,763
+Nebraska,NE,Hooker,Hooker-NE,4.208333333,736
+North Dakota,ND,Slope,Slope-ND,2.558333333,727
+Montana,MT,Treasure,Treasure-MT,4.933333333,718
+Colorado,CO,Mineral,Mineral-CO,3.616666667,712
+Texas,TX,McMullen,McMullen-TX,2.066666667,707
+Colorado,CO,San Juan,San Juan-CO,4.425,699
+New Mexico,NM,Harding,Harding-NM,8.441666667,695
+Nebraska,NE,Banner,Banner-NE,3.391666667,690
+Nebraska,NE,Thomas,Thomas-NE,2.925,647
+Texas,TX,Borden,Borden-TX,2.841666667,641
+Nebraska,NE,Loup,Loup-NE,3.508333333,632
+Nebraska,NE,Grant,Grant-NE,2.216666667,614
+Nebraska,NE,McPherson,McPherson-NE,1.891666667,539
+Montana,MT,Petroleum,Petroleum-MT,5.075,494
+Nebraska,NE,Blaine,Blaine-NE,4.483333333,478
+Nebraska,NE,Arthur,Arthur-NE,4.516666667,460
+Texas,TX,Kenedy,Kenedy-TX,2.991666667,416
+Texas,TX,King,King-TX,3.1,286
+Texas,TX,Loving,Loving-TX,4.8,82

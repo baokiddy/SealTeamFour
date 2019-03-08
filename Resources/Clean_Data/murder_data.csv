@@ -1,0 +1,80 @@
+,City,"Murder Rate (per 100,000)",Murders,Population,Source,State
+0,Chicago,19.7,378,2720546.0,https://portal.chicagopolice.org/portal/page/portal/ClearPath/News/Crime%20Statistics,Illinois
+1,Orlando,26.9,19,270934.0,OPD,Florida
+2,Memphis,24.1,114,655770.0,MPD,Tennessee
+3,Phoenix,7.1,72,1563025.0,PPD,Arizona
+4,Las Vegas,20.0,90,623747.0,http://www.lvmpd.com/Sections/Homicide/HomicideLog/tabid/454/Default.aspx,Nevada
+5,San Antonio,7.6,78,1469845.0,SAPD,Texas
+6,Louisville,12.8,52,615366.0,https://louisvilleky.gov/government/police/lmpd-transparency,Kentucky
+7,Dallas,9.1,95,1300092.0,DPD,Texas
+8,Houston,9.2,191,2296224.0,http://www.houstontx.gov/police/cs/index-2.htm,Texas
+9,Fort Wayne,13.1,17,260326.0,FWPD,Indiana
+10,Atlanta,18.3,68,463878.0,http://www.atlantapd.org/crimedatadownloads.aspx,Georgia
+11,Indianapolis,13.7,102,853173.0,IPD,Indiana
+12,Austin,3.0,13,931830.0,http://www.austintexas.gov/page/chiefs-monthly-reports,Texas
+13,Kansas City,18.9,77,475378.0,http://kcmo.gov/police/homicide-3/crime-stats/,Missouri
+14,Arlington,4.4,4,388125.0,http://www.arlington-tx.gov/police/wp-content/uploads/sites/9/2016/08/UCR-Crime-Summary.pdf,Texas
+15,San Jose,3.4,22,1026908.0,http://www.sjpd.org/CrimeStats/updates/Part_One_Crimes_Reported_YTD.pdf?cacheID=20160921,California
+16,Albuquerque,8.2,35,559121.0,APD,New Mexico
+17,Jacksonville,115.8,67,67357.0,JPSO,Florida
+18,Santa Ana,6.0,10,335400.0,SAPD,California
+19,Tulsa,12.9,43,403505.0,TPD,Oklahoma
+20,Lincoln,3.2,0,277348.0,http://www.lincoln.ne.gov/city/police/stats/stats.htm,Nebraska
+21,Stockton,12.4,30,305658.0,SPD,California
+22,Anchorage,8.7,19,298695.0,APD,Alaska
+23,Buffalo,14.7,31,258071.0,http://www.bpdny.org/Home/Statistics,New York
+24,San Diego,2.2,23,1394928.0,http://crimestats.arjis.org/default.aspx,California
+25,Mobile,6.2,6,194288.0,https://www.mobilepd.org/precinct/pdf/UCR_April_Public.pdf,Alabama
+26,Greensboro,7.0,15,285342.0,http://www.greensboro-nc.gov/modules/showdocument.aspx?documentid=29678,North Carolina
+27,Durham,11.6,25,257636.0,https://durhamnc.gov/ArchiveCenter/ViewFile/Item/2419,North Carolina
+28,Detroit,32.6,216,677116.0,DPD,Michigan
+29,St. Petersburg,,9,,SPPD,Florida
+30,Philadelphia,13.6,209,1567442.0,https://www.phillypolice.com/crime-maps-stats/,Pennsylvania
+31,Long Beach,6.1,25,474140.0,http://homicide.latimes.com/neighborhood/long-beach/year/2016,California
+32,Lexington,5.1,13,314488.0,LPD,Kentucky
+33,Aurora,8.0,13,200661.0,APD,Colorado
+34,Jersey City,5.3,11,264290.0,http://www.njjcpd.org/node/5,New Jersey
+35,Plano,1.8,2,283558.0,http://www.plano.gov/DocumentCenter/View/119,Texas
+36,Colorado Springs,3.3,12,456568.0,http://www.krdo.com/news/local-news/springs-womans-shooting-death-ruled-homicide-/73436432,Colorado
+37,Toledo,2.9,5,279789.0,TPD,Ohio
+38,El Paso,2.1,12,681124.0,ELPD,Texas
+39,Laredo,3.5,7,255473.0,LPD,Texas
+40,Nashville,7.5,47,654610.0,NPD,Tennessee
+41,Oklahoma City,4.8,28,631346.0,OKCPD,Oklahoma
+42,Henderson,1.1,1,285667.0,HPD,Nevada
+43,Chandler,1.2,2,260828.0,CPD,Arizona
+44,Denver,4.8,32,682545.0,https://www.denvergov.org/content/dam/denvergov/Portals/720/documents/statistics/2016/UCR_Citywide_Reported_Offenses_2016.pdf,Colorado
+45,Riverside,2.2,6,322424.0,http://www.riversideca.gov/rpd/crstats/cstats.asp,California
+46,Bakersfield,5.9,21,373640.0,BPD,California
+47,Boston,4.2,28,667137.0,BPD,Massachusetts
+48,Cincinnati,16.7,50,298550.0,http://www.cincinnati-oh.gov/police/crime-statistics/city-wide-stars-report/,Ohio
+49,Pittsburgh,15.1,46,304391.0,PPD,Pennsylvania
+50,Columbus,8.2,71,850106.0,CPD,Ohio
+51,Raleigh,1.6,8,451066.0,RPD,North Carolina
+52,Corpus Christi,2.8,10,324074.0,CCPD,Texas
+53,Charlotte-Mecklenburg,,27,,http://charlottenc.gov/CMPD/Safety/Pages/CrimeStats.aspx,North Carolina
+54,New Orleans,32.6,130,389617.0,NOPD,Louisiana
+55,San Francisco,3.7,35,864816.0,SFPD,California
+56,Seattle,2.0,17,684451.0,http://www.seattle.gov/seattle-police-department/crime-data/crime-dashboard,Washington
+57,St. Louis,,136,,http://www.slmpd.org/crime_stats.shtml,Missouri
+58,Honolulu,,12,,HPD,Hawaii
+59,Wichita,2.6,13,389965.0,MCCA,Kansas
+60,Virginia Beach,2.9,17,452745.0,https://eprodmz.vbgov.com/MainUI/Crimes/CrimeSearch.aspx,Virginia
+61,Newark,25.5,76,281944.0,http://npd.newarkpublicsafety.org/comstat,New Jersey
+62,Los Angeles,5.2,209,3971883.0,http://assets.lapdonline.org/assets/pdf/cityprof.pdf,California
+63,Chula Vista,0.4,5,265757.0,http://crimestats.arjis.org/default.aspx,California
+64,Portland,2.2,19,632309.0,PPD,Oregon
+65,Tucson,3.4,23,531641.0,TPD,Arizona
+66,Anaheim,1.1,10,350742.0,APD,California
+67,Cleveland,22.9,96,388072.0,CPD,Ohio
+68,Minneapolis,6.3,34,410939.0,http://www.minneapolismn.gov/police/statistics/crime-statistics_codefor_arrests,Minnesota
+69,Sacramento,4.3,31,490712.0,SPD,California
+70,Fresno,3.7,30,520052.0,http://www.fresno.gov/CityOfFresno/Templates/StandardTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bA9D853FB-EBA4-4900-8435-B880D98AE480%7d&NRORIGINALURL=%2fGovernment%2fDepartmentDirectory%2fPolice%2fAboutFresnoPD%2fCrimeReportsandStatistics%2fMonthlyCrimeStatistics%2ehtm&NRCACHEHINT=Guest,California
+71,Fort Worth,5.9,61,833319.0,FWPD,Texas
+72,Oakland,12.4,65,419267.0,http://www2.oaklandnet.com/government/o/OPD/s/Statistics/index.htm,California
+73,Washington,,119,,http://mpdc.dc.gov/page/district-crime-data-glance,D.C.
+74,New York,2.9,266,8550405.0,https://compstat.nypdonline.org/,New York
+75,Omaha,4.5,34,443885.0,http://dataomaha.com/homicides,Nebraska
+76,Miami,10.2,62,441003.0,MPD,Florida
+77,Baltimore,37.0,249,621849.0,https://data.baltimorecity.gov/Public-Safety/Summarized-Crime-Data-By-District-Week-26/4nh3-w6zf,Maryland
+78,Milwaukee,14.0,105,600155.0,http://itmdapps.milwaukee.gov/publicApplication_SR/policeDistrict/policeDistrictfm.faces,Wisconsin
